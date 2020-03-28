@@ -13,7 +13,7 @@ In terminal 1:
     - python api.py
 
 In terminal 2: 
-    - Navigate to CovidHacks/Web/covid_simulation\n
+    - Navigate to CovidHacks/Web/covid_simulation
     - run npm install (first time only)
     - npm start
     - This should open up a window in your browser that has the website in it.
