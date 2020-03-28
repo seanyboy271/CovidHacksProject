@@ -19,7 +19,7 @@ class Main extends Component {
     async testAPICall(){
         let cors = 'http://127.0.0.1:8080/'
         let url = '127.0.0.1:5000/'
-        let response =  await axios.get(cors+url)
+        let response = await axios.get(cors+url)
         console.log('REsponser', response)
         this.setState({
             apiCall: response.data
@@ -33,7 +33,6 @@ class Main extends Component {
                 <br/>
                 API test call: {this.state.apiCall}
             </div>
-
         );
     }
 }
