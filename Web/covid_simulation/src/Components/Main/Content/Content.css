@@ -1,0 +1,12 @@
+.contentContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+}
+
+.heatMap{
+    height: 100%;
+    width:100%;
+}

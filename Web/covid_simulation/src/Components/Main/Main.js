@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import './Main.css'
 import axios from 'axios';
+import Header from './Header/Header.js';
+import Footer from './Footer/Footer.js'
+import Content from './Content/Content.js'
 
 class Main extends Component {
 
@@ -29,9 +32,9 @@ class Main extends Component {
     render() {
         return (
             <div className = 'mainContainer'>
-                Hello from main Component
-                <br/>
-                API test call: {this.state.apiCall}
+                <Header />
+                <Content />
+                <Footer />
             </div>
         );
     }
