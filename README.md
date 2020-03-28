@@ -7,7 +7,7 @@ Web is where the web app's source code lives. Theres not much to do with this un
 
 Instructions to run api and web app:
 
-Open up 3 command prompts/terminals:
+Open up 3 command prompts/terminals:\
 In terminal 1: 
     - Navigate to CovidHacks/API/ 
     - python api.py
