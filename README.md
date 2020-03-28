@@ -8,18 +8,18 @@ Web is where the web app's source code lives. Theres not much to do with this un
 Instructions to run api and web app:
 
 Open up 3 command prompts/terminals:\
-In terminal 1: 
-    - Navigate to CovidHacks/API/ 
-    - python api.py
+In terminal 1: \
+    - Navigate to CovidHacks/API/ \
+    - python api.py\
 
-In terminal 2: 
-    - Navigate to CovidHacks/Web/covid_simulation
-    - run npm install (first time only)
-    - npm start
-    - This should open up a window in your browser that has the website in it.
-    - NOTE: You will need to have node.js installed for this to work
+In terminal 2: \
+    - Navigate to CovidHacks/Web/covid_simulation\
+    - run npm install (first time only)\
+    - npm start\
+    - This should open up a window in your browser that has the website in it.\
+    - NOTE: You will need to have node.js installed for this to work\
  
- In terminal 3: 
-    - Navigate to CovidHacks/Web/covid_simulation/node_modules/cors-anywhere
-    - node server.js
-    - NOTE: You will need to have node.js installed for this to work
+ In terminal 3: \
+    - Navigate to CovidHacks/Web/covid_simulation/node_modules/cors-anywhere\
+    - node server.js\
+    - NOTE: You will need to have node.js installed for this to work\
