@@ -22,7 +22,7 @@ In terminal 2:
     - node server.js
     - NOTE: You will need to have node.js installed for this to work\
     
-Important Files: \ 
+Important Files: 
 - CovidHacksProject/API/Pre-processing/relevant-data/needMeta/MakeMeta.py 
     - Resposible for creating <virus>_meta.tsv files taht will be into augur
 - CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py
