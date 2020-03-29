@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c1a5155-ce68-487b-9d0f-dcabc3ed9875" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/covid_simulation/src/Components/Main/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirusDataNew.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/relevant-data/needMeta.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VirusDataNew/ParseVirusData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+            <state relative-caret-position="240">
+              <caret line="12" column="93" lean-forward="true" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="93" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -84,27 +83,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirusDataNew/mumps_meta.tsv">
+        <entry file="file://$PROJECT_DIR$/VirusDataNew/measles.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirusDataNew/mers_new.fasta">
+        <entry file="file://$PROJECT_DIR$/VirusDataNew/flu.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirusDataNew/mers_meta.tsv">
+        <entry file="file://$PROJECT_DIR$/VirusDataNew/ebola.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VirusDataNew/SARSCoV_new.fasta">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="4" selection-end-column="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/VirusDataNew/dengue.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -162,12 +157,6 @@
               <item name="Pre-processing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pre-processing" type="462c0819:PsiDirectoryNode" />
               <item name="VirusDataNew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pre-processing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pre-processing" type="462c0819:PsiDirectoryNode" />
-              <item name="VirusDataNew" type="462c0819:PsiDirectoryNode" />
-              <item name="results_229e" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Pre-processing" type="b2602c69:ProjectViewProjectNode" />
@@ -359,26 +348,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/relevant-data/needMeta/h5n1_ha_meta.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/relevant-data/needMeta/h5n1_ha.fasta">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/relevant-data/needMeta/ebola_new.fasta">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/relevant-data/needMeta/hku1_new.fasta">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/relevant-data/needMeta/dengue_new.fasta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -575,16 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VirusDataNew/runAugur.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="131" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="131" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VirusDataNew/SARSCoV_meta.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6800">
@@ -602,10 +561,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VirusDataNew/measles.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VirusDataNew/flu.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VirusDataNew/ebola.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VirusDataNew/dengue.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VirusDataNew/runAugur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="131" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="131" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VirusDataNew/ParseVirusData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        <state relative-caret-position="240">
+          <caret line="12" column="93" lean-forward="true" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="93" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
