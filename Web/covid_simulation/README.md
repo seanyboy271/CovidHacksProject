@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project uses [google's map api](https://developers.google.com/maps/documentation/javascript/tutorial)
+
 ## Available Scripts
 
 In the project directory, you can run:
