@@ -25,4 +25,4 @@ Process to get final .json:
    - run runAugur.py (This must be done in linux or there will be errors)
    - Once this is complete (it may take a while),edit ParseVirusData.py to contain the proper virus names.
    - Run ParseVirusData.py
-   - This should create the final json files, each named <virus>.json
+   - This should create the final json files, each named \<virus>\.json
