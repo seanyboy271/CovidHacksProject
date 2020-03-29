@@ -1,0 +1,142 @@
+{
+  "alignment": "results_h5n1_ha/aligned.fasta",
+  "clock": {
+    "intercept": -1.2868490429966917,
+    "rate": 0.0006564704771579877,
+    "rtt_Tmrca": 1960.2542502257807
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "input_tree": "results_h5n1_ha/tree_raw.nwk",
+  "nodes": {
+    "A/chicken/Vietnam/NCVD14_A459/2014": {
+      "branch_length": 0.0036749939556369954,
+      "clock_length": 0.0036749939556369954,
+      "date": "2014-02-17",
+      "mutation_length": 0.006887028806494748,
+      "num_date_confidence": [
+        2014.1301369863013,
+        2014.1301369863013
+      ],
+      "numdate": 2014.1301369863013,
+      "raw_date": "2014-02-17"
+    },
+    "A/chicken/Vietnam/NCVD_KA423/2013": {
+      "branch_length": 0.03266106813830355,
+      "clock_length": 0.03266106813830355,
+      "date": "2013-01-09",
+      "mutation_length": 0.03431453471280516,
+      "num_date_confidence": [
+        2013.0232876712328,
+        2013.0232876712328
+      ],
+      "numdate": 2013.0232876712328,
+      "raw_date": "2013-01-09"
+    },
+    "A/duck/Bangladesh/34752/2018": {
+      "branch_length": 0.026303762301709416,
+      "clock_length": 0.026303762301709416,
+      "date": "2018-01-24",
+      "mutation_length": 0.04118914375978092,
+      "num_date_confidence": [
+        2018.0643835616438,
+        2018.0643835616438
+      ],
+      "numdate": 2018.0643835616438,
+      "raw_date": "2018-01-24"
+    },
+    "A/duck/Egypt/17EG_BS1/2017": {
+      "branch_length": 0.025787273654463642,
+      "clock_length": 0.025787273654463642,
+      "date": "2017-03-18",
+      "mutation_length": 0.013836069905251637,
+      "num_date_confidence": [
+        2017.2095890410958,
+        2017.2095890410958
+      ],
+      "numdate": 2017.2095890410958,
+      "raw_date": "2017-03-18"
+    },
+    "A/duck/Vietnam/NCVD_2745/2013": {
+      "branch_length": 0.002950178606884577,
+      "clock_length": 0.002950178606884577,
+      "date": "2013-01-10",
+      "mutation_length": 0.001714933715924582,
+      "num_date_confidence": [
+        2013.0260273972603,
+        2013.0260273972603
+      ],
+      "numdate": 2013.0260273972603,
+      "raw_date": "2013-01-10"
+    },
+    "A/muscovy_duck/Vietnam/LBM335/2013": {
+      "branch_length": 0.003571364091378177,
+      "clock_length": 0.003571364091378177,
+      "date": "2013-01-07",
+      "mutation_length": 0.003422571448315294,
+      "num_date_confidence": [
+        2013.017808219178,
+        2013.017808219178
+      ],
+      "numdate": 2013.017808219178,
+      "raw_date": "2013-01-07"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.019419470487249006,
+      "clock_length": 0.019419470487249006,
+      "date": "2007-07-30",
+      "mutation_length": 0.0232088157784832,
+      "num_date_confidence": [
+        1945.7490358416428,
+        2012.58310977696
+      ],
+      "numdate": 2007.5775573386823
+    },
+    "NODE_0000001": {
+      "branch_length": 0.0006265811322511347,
+      "clock_length": 0.0006265811322511347,
+      "date": "2008-07-13",
+      "mutation_length": 0.0005691851007874175,
+      "num_date_confidence": [
+        1954.3538614509175,
+        2012.833022789139
+      ],
+      "numdate": 2008.532026966873
+    },
+    "NODE_0000002": {
+      "branch_length": 4.465871953041392e-05,
+      "clock_length": 4.465871953041392e-05,
+      "date": "1977-12-30",
+      "mutation_length": 0.0017113744857115368,
+      "num_date_confidence": [
+        1278.52559446506,
+        2006.8019288953124
+      ],
+      "numdate": 1977.9959216628172
+    },
+    "NODE_0000003": {
+      "branch_length": 0.009621977741641027,
+      "clock_length": 0.009621977741641027,
+      "date": "1977-12-05",
+      "mutation_length": 0.00751477201771743,
+      "num_date_confidence": [
+        1278.5236574227313,
+        2006.765992696104
+      ],
+      "numdate": 1977.9278931358926
+    },
+    "NODE_0000004": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "1963-04-09",
+      "mutation_length": 0.001,
+      "num_date_confidence": [
+        1055.129837098954,
+        2004.8641884900292
+      ],
+      "numdate": 1963.2707561031707
+    }
+  }
+}

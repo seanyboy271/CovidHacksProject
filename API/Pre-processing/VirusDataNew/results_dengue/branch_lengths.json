@@ -1,0 +1,142 @@
+{
+  "alignment": "results_dengue/aligned.fasta",
+  "clock": {
+    "intercept": -19.853010054467994,
+    "rate": 0.009994616933048985,
+    "rtt_Tmrca": 1986.3702818684799
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "input_tree": "results_dengue/tree_raw.nwk",
+  "nodes": {
+    "DENV/BRAZIL/SJRP778/2013": {
+      "branch_length": 0.022705844679364998,
+      "clock_length": 0.022705844679364998,
+      "date": "2013-02-04",
+      "mutation_length": 0.02609133,
+      "num_date_confidence": [
+        2013.0945205479452,
+        2013.0945205479452
+      ],
+      "numdate": 2013.0945205479452,
+      "raw_date": "2013-02-04"
+    },
+    "DENV/PERU/FPU0574R/2012": {
+      "branch_length": 0.23511919991214278,
+      "clock_length": 0.23511919991214278,
+      "date": "2012-01-01",
+      "mutation_length": 0.22196832,
+      "num_date_confidence": [
+        2012.0013661202186,
+        2012.3929063305693
+      ],
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-XX-XX"
+    },
+    "DENV1/CHINA/FJ216/2014": {
+      "branch_length": 0.03356336287747261,
+      "clock_length": 0.03356336287747261,
+      "date": "2014-03-08",
+      "mutation_length": 0.03373227,
+      "num_date_confidence": [
+        2014.0013698630137,
+        2014.9986301369863
+      ],
+      "numdate": 2014.180857150022,
+      "raw_date": "2014-XX-XX"
+    },
+    "DENV1/NEW_CALEDONIA/170256/2012": {
+      "branch_length": 0.04189543485194561,
+      "clock_length": 0.04189543485194561,
+      "date": "2012-02-17",
+      "mutation_length": 0.03731728,
+      "num_date_confidence": [
+        2012.129781420765,
+        2012.129781420765
+      ],
+      "numdate": 2012.129781420765,
+      "raw_date": "2012-02-17"
+    },
+    "DENV4/BRAZIL/GUSP0316/2013": {
+      "branch_length": 0.014136273551457468,
+      "clock_length": 0.014136273551457468,
+      "date": "2013-03-03",
+      "mutation_length": 0.01571632,
+      "num_date_confidence": [
+        2013.168493150685,
+        2013.168493150685
+      ],
+      "numdate": 2013.168493150685,
+      "raw_date": "2013-03-03"
+    },
+    "DENV4/INDONESIA/JMB005/2014": {
+      "branch_length": 0.02395981182135331,
+      "clock_length": 0.02395981182135331,
+      "date": "2014-02-25",
+      "mutation_length": 0.02412415,
+      "num_date_confidence": [
+        2014.0013698630137,
+        2014.407985862042
+      ],
+      "numdate": 2014.1513760701307,
+      "raw_date": "2014-XX-XX"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.02883178818906984,
+      "clock_length": 0.02883178818906984,
+      "date": "2010-10-28",
+      "mutation_length": 0.0323826,
+      "num_date_confidence": [
+        2010.3184712674667,
+        2011.1173401058109
+      ],
+      "numdate": 2010.8227131508768
+    },
+    "NODE_0000001": {
+      "branch_length": 0.21507664501204898,
+      "clock_length": 0.21507664501204898,
+      "date": "2007-12-09",
+      "mutation_length": 0.21556526840154855,
+      "num_date_confidence": [
+        2006.9483871534817,
+        2008.6041512415163
+      ],
+      "numdate": 2007.937981461588
+    },
+    "NODE_0000002": {
+      "branch_length": 0.020569418214546997,
+      "clock_length": 0.020569418214546997,
+      "date": "1988-06-23",
+      "mutation_length": 0.020492231598451437,
+      "num_date_confidence": [
+        1983.940506578342,
+        1992.1584555923755
+      ],
+      "numdate": 1988.4767826882435
+    },
+    "NODE_0000003": {
+      "branch_length": 0.23264791394240414,
+      "clock_length": 0.23264791394240414,
+      "date": "2011-10-03",
+      "mutation_length": 0.25248799,
+      "num_date_confidence": [
+        2011.358370196432,
+        2011.9526125571201
+      ],
+      "numdate": 2011.7541044206164
+    },
+    "NODE_0000004": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "1986-06-02",
+      "mutation_length": 0.001,
+      "num_date_confidence": [
+        1981.5331489736732,
+        1990.452863578621
+      ],
+      "numdate": 1986.4187330048653
+    }
+  }
+}

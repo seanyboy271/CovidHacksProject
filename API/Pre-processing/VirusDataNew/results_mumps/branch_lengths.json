@@ -1,0 +1,96 @@
+{
+  "alignment": "results_mumps/aligned.fasta",
+  "clock": {
+    "intercept": -21.834794951694825,
+    "rate": 0.010828244677304807,
+    "rtt_Tmrca": 2016.4667129713948
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "input_tree": "results_mumps/tree_raw.nwk",
+  "nodes": {
+    "Manitoba.CAN/43.16/5/G": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-10-25",
+      "mutation_length": 2.3036974248271565e-22,
+      "num_date_confidence": [
+        2016.8155737704917,
+        2016.8155737704917
+      ],
+      "numdate": 2016.8155737704917,
+      "raw_date": "2016-10-25"
+    },
+    "Manitoba.CAN/47.16/4/G": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-10-25",
+      "mutation_length": 2.3036974248271565e-22,
+      "num_date_confidence": [
+        2016.8155737704917,
+        2016.8155737704917
+      ],
+      "numdate": 2016.8155737704917,
+      "raw_date": "2016-10-25"
+    },
+    "NODE_0000000": {
+      "branch_length": 5.566194339140518e-05,
+      "clock_length": 5.566194339140518e-05,
+      "date": "2016-06-29",
+      "mutation_length": 9.832187180662156e-05,
+      "num_date_confidence": [
+        2016.4147530567127,
+        2016.5358584522087
+      ],
+      "numdate": 2016.4921656370875
+    },
+    "NODE_0000001": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "2016-06-27",
+      "mutation_length": 0.001,
+      "num_date_confidence": [
+        2016.4220048750028,
+        2016.524995611978
+      ],
+      "numdate": 2016.4870251969655
+    },
+    "NODE_0000002": {
+      "branch_length": 0.003501942399130438,
+      "clock_length": 0.003501942399130438,
+      "date": "2016-10-25",
+      "mutation_length": 0.003679228233086414,
+      "num_date_confidence": [
+        2016.8088658105326,
+        2016.8155737704917
+      ],
+      "numdate": 2016.8155737704917
+    },
+    "Springdale_730/2016/G": {
+      "branch_length": 0.0004172091541618933,
+      "clock_length": 0.0004172091541618933,
+      "date": "2016-07-11",
+      "mutation_length": 0.0003604416787015142,
+      "num_date_confidence": [
+        2016.4786023726922,
+        2016.5831054688626
+      ],
+      "numdate": 2016.5255549094531,
+      "raw_date": "2016-XX-XX"
+    },
+    "Springdale_754/2016/G": {
+      "branch_length": 0.00024383863281946666,
+      "clock_length": 0.00024383863281946666,
+      "date": "2016-07-07",
+      "mutation_length": 0.0002621166604919429,
+      "num_date_confidence": [
+        2016.4627005526036,
+        2016.5678454627007
+      ],
+      "numdate": 2016.5146843961372,
+      "raw_date": "2016-XX-XX"
+    }
+  }
+}

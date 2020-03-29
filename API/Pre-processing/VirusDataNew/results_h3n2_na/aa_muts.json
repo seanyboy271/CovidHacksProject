@@ -1,0 +1,94 @@
+{
+  "annotations": {
+    "NA": {
+      "end": 1410,
+      "seqid": "config/h3n2_na_reference.gb",
+      "start": 4,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1436,
+      "seqid": "config/h3n2_na_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "A/CzechRepublic/119/2012": {
+      "aa_muts": {
+        "NA": [
+          "H184Y",
+          "V317L"
+        ]
+      }
+    },
+    "A/Delhi/1720/2013": {
+      "aa_muts": {
+        "NA": [
+          "V263I"
+        ]
+      }
+    },
+    "A/Helsinki/942/2013": {
+      "aa_muts": {
+        "NA": [
+          "V215I",
+          "V216G",
+          "T265I"
+        ]
+      }
+    },
+    "A/SaudiArabia/6/2014": {
+      "aa_muts": {
+        "NA": [
+          "K128R",
+          "K221D",
+          "I392T",
+          "I397L"
+        ]
+      }
+    },
+    "A/Tehran/1219/2012": {
+      "aa_muts": {
+        "NA": [
+          "Q39H",
+          "E425D",
+          "L464I"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "NA": [
+          "D93G",
+          "E221K"
+        ]
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "NA": "MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPKPAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLMNELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVVMTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSGLVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDRGDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI"
+      }
+    }
+  },
+  "reference": {
+    "NA": "MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPKPAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLMNELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVVMTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSGLVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDRGDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI"
+  }
+}

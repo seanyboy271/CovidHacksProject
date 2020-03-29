@@ -1,0 +1,2091 @@
+{
+  "annotations": {
+    "E": {
+      "end": 26472,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 26245,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "M": {
+      "end": 27191,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 26523,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "N": {
+      "end": 29533,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 28274,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF10": {
+      "end": 29674,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 29558,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF14": {
+      "end": 28955,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 28734,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF1a": {
+      "end": 13468,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 266,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF1b": {
+      "end": 21555,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 13468,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF3a": {
+      "end": 26220,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 25393,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF6": {
+      "end": 27387,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 27202,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF7a": {
+      "end": 27759,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 27394,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF7b": {
+      "end": 27887,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 27756,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF8": {
+      "end": 28259,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 27894,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ORF9b": {
+      "end": 28577,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 28284,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "S": {
+      "end": 25384,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 21563,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 29903,
+      "seqid": "config/nCoV_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "Australia/VIC01/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S247R"
+        ]
+      }
+    },
+    "Brazil/SPBR-02/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T708I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "China/WH-09/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "China/WHU01/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "China/WHU02/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Finland/1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Hangzhou/HZ-1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Japan/AI/I-004/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P1682L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Japan/KY-V-029/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "P344S"
+        ],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "E3764D"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "L140V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Japan/TY-WK-012/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1176V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Japan/TY-WK-501/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Japan/TY-WK-521/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "E": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV*",
+        "M": "MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILLNVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ*",
+        "N": "MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA*",
+        "ORF10": "MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT*",
+        "ORF14": "MLQSCYNFLKEQHCQKASTQKGAEAAVKPLLVPHHVVATVQEIQLQAAVGELLLLEWLAMAVMLLLLCCCLTD*",
+        "ORF1a": "MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAPHGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRKVLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQENWNTKHSSGVTRELMRELNGGAYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLDFIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLAKKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRIRSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKATCEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGPEHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKCAYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVNINIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFKQIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEAARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRLIDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTVYEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIVGGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKLKALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEIIFLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVGTPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCSAYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLDEWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEEEEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEEDWLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTPVVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVVNAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENFNQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVFDKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYIDINGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTAVVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYTVEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDYGARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLNLEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPEEHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYTSNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDAYYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSEYKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDNYYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFADDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPSFKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQKDVLECNVKTTEVVGDIILKPANNSLKITEEVGHTDLMAAYVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTIANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSLDTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFFYVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPISAMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRATRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVSDVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEAELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLSHQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARHINAQVAKSHNIALIWNVKDFMSLSEQLRKQIRSAAKKNNLPFKLTCATTRQVVNVVTTKIALKGGKIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFSSEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGGSYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLHFLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFKDASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGRWVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTLLFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKRRVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQYNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSNSGSDVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLDMVDTSLSGFKLKDCVMYASAVVLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQAISMWALIISVTSNYSGVVTTVMFLARGIVFMCVEYCPIFFITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATLQAIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRFVLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYGCSCDQLREPMLQSADAQSFLN",
+        "ORF1b": "RVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSLLMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKVITGLHPTQAPTHLSVDTKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATREAVGTNLPLQLGFSTGVNLVAVPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPLMYKGLPWNVVRIKIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDRRATCFSTASDTYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWTIEYPIIGDELKINAACRKVQHMVVKAALLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPANSIVCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFVNLKQLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLWNTFTRLQSLENVAFNVVNKGHFDGQQGEVPVSIINNTVYTKVDGVDVELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVDIAANTVIWDYKRDAPAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQPSVGPKQASLNGVTLIGEAVKTQFNYYKKVDGVVQQLPETYFTQSRNLQEFKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVETFYPKLQSSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGIMMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQQKLALGGSVAIKITEHSWNADLYKLMGHFAWWTAFVTNVNASSSEAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLSKGRLIIRENNRVVISSDVLVNN*",
+        "ORF3a": "MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL*",
+        "ORF6": "MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEID*",
+        "ORF7a": "MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKTE*",
+        "ORF7b": "MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA*",
+        "ORF8": "MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI*",
+        "ORF9b": "MDPKISEMHPALRLVDPQIQLAVTRMENAVGRDQNNVGPKVYPIILRLGSPLSLNMARKTLNSLEDKAFQLTPIAVQMTKLATTEELPDEFVVVTVK*",
+        "S": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT*"
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [
+          "G251V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S194L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "Q41*"
+        ],
+        "ORF1a": [
+          "A117T",
+          "I1607V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P314L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "D614G"
+        ]
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "L84S"
+        ],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "P1427L",
+          "Y1464C"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "V62L"
+        ],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S197L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "Q44*"
+        ],
+        "ORF1a": [
+          "F3071Y"
+        ],
+        "ORF1b": [],
+        "ORF3a": [
+          "G196V"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L3606F"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Nepal/61/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Shanghai/SH01/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "P1921S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Shenzhen/HKU-SZ-002/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Shenzhen/HKU-SZ-005/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "S3099L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "SouthKorea/SNU01/2020": {
+      "aa_muts": {
+        "E": [
+          "L37H"
+        ],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "M902I"
+        ],
+        "ORF1b": [
+          "T2490M"
+        ],
+        "ORF3a": [
+          "W128L"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S221W"
+        ]
+      }
+    },
+    "Spain/Valencia1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Spain/Valencia2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "S940F"
+        ]
+      }
+    },
+    "Spain/Valencia3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Sweden/01/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G818S",
+          "F4321L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "F797C"
+        ]
+      }
+    },
+    "Taiwan/NTU01/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Taiwan/NTU02/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "H3076Y"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/AZ1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA-PC101P/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [
+          "Q20L"
+        ],
+        "ORF1a": [
+          "S428N"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "T1178I"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA4/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA5/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "T609I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "H49Y"
+        ]
+      }
+    },
+    "USA/CA6/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA7/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S202N"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "V49I"
+        ],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA8/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/CA9/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A3220V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/IL1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/IL2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D75E",
+          "P971L"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/MA1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [
+          "S194L"
+        ],
+        "ORF10": [],
+        "ORF14": [
+          "Q41*"
+        ],
+        "ORF1a": [
+          "V1085F"
+        ],
+        "ORF1b": [
+          "Y1319C"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/MN2-MDH2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "R1315C"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/TX1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "D1903A"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [
+          "T11I"
+        ],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/WA3-UW1/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "A1049V",
+          "M1769I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/WA4-UW2/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/WA6-UW3/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "USA/WA7-UW4/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "F2272L"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan-Hu-1/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/IPBCAMS-WH-01/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "N2708S",
+          "F2908I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/IPBCAMS-WH-02/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/IPBCAMS-WH-03/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "I2244T"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/IPBCAMS-WH-04/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/IPBCAMS-WH-05/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G2534V"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WH01/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L2235I",
+          "N3833K"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WH02/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "L27F",
+          "R301P",
+          "N460G",
+          "K564N",
+          "A565P",
+          "G715*",
+          "G1288C",
+          "K1387N",
+          "I1912N",
+          "P2110S",
+          "N2228S",
+          "M2374I",
+          "F2780L",
+          "F3266R",
+          "V3449F",
+          "A4016S",
+          "S4018C",
+          "A4023S",
+          "V4025L",
+          "S4027M",
+          "A4279S",
+          "A4394P"
+        ],
+        "ORF1b": [
+          "D202E",
+          "S775L"
+        ],
+        "ORF3a": [
+          "V48D"
+        ],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": [
+          "T723I"
+        ]
+      }
+    },
+    "Wuhan/WH03/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WH04/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WH05/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "Y534C",
+          "G1100S"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WIV02/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [
+          "D2617N"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WIV04/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WIV05/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "G2251S"
+        ],
+        "ORF1b": [
+          "K2557R"
+        ],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WIV06/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Wuhan/WIV07/2019": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [
+          "D2579A",
+          "T3090I"
+        ],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    },
+    "Yunnan/IVDC-YN-003/2020": {
+      "aa_muts": {
+        "E": [],
+        "M": [],
+        "N": [],
+        "ORF10": [],
+        "ORF14": [],
+        "ORF1a": [],
+        "ORF1b": [],
+        "ORF3a": [],
+        "ORF6": [],
+        "ORF7a": [],
+        "ORF7b": [],
+        "ORF8": [],
+        "ORF9b": [],
+        "S": []
+      }
+    }
+  },
+  "reference": {
+    "E": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV*",
+    "M": "MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILLNVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ*",
+    "N": "MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA*",
+    "ORF10": "MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT*",
+    "ORF14": "MLQSCYNFLKEQHCQKASTQKGAEAAVKPLLVPHHVVATVQEIQLQAAVGELLLLEWLAMAVMLLLLCCCLTD*",
+    "ORF1a": "MESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAPHGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRKVLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQENWNTKHSSGVTRELMRELNGGAYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLDFIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLAKKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRIRSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKATCEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGPEHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKCAYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVNINIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFKQIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEAARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRLIDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTVYEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIVGGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKLKALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEIIFLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVGTPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCSAYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLDEWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEEEEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEEDWLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTPVVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVVNAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENFNQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVFDKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYIDINGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTAVVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYTVEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDYGARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLNLEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPEEHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYTSNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDAYYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSEYKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDNYYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFADDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPSFKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQKDVLECNVKTTEVVGDIILKPANNSLKITEEVGHTDLMAAYVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTIANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSLDTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFFYVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPISAMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRATRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVSDVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEAELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLSHQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARHINAQVAKSHNIALIWNVKDFMSLSEQLRKQIRSAAKKNNLPFKLTCATTRQVVNVVTTKIALKGGKIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFSSEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGGSYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLHFLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFKDASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGRWVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTLLFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKRRVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQYNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSNSGSDVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLDMVDTSLSGFKLKDCVMYASAVVLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQAISMWALIISVTSNYSGVVTTVMFLARGIVFMCVEYCPIFFITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATLQAIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRFVLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYGCSCDQLREPMLQSADAQSFLN",
+    "ORF1b": "RVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSLLMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKVITGLHPTQAPTHLSVDTKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATREAVGTNLPLQLGFSTGVNLVAVPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPLMYKGLPWNVVRIKIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDRRATCFSTASDTYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWTIEYPIIGDELKINAACRKVQHMVVKAALLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPANSIVCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFVNLKQLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLWNTFTRLQSLENVAFNVVNKGHFDGQQGEVPVSIINNTVYTKVDGVDVELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVDIAANTVIWDYKRDAPAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQPSVGPKQASLNGVTLIGEAVKTQFNYYKKVDGVVQQLPETYFTQSRNLQEFKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVETFYPKLQSSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGIMMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQQKLALGGSVAIKITEHSWNADLYKLMGHFAWWTAFVTNVNASSSEAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLSKGRLIIRENNRVVISSDVLVNN*",
+    "ORF3a": "MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL*",
+    "ORF6": "MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEID*",
+    "ORF7a": "MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKTE*",
+    "ORF7b": "MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA*",
+    "ORF8": "MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI*",
+    "ORF9b": "MDPKISEMHPALRLVDPQIQLAVTRMENAVGRDQNNVGPKVYPIILRLGSPLSLNMARKTLNSLEDKAFQLTPIAVQMTKLATTEELPDEFVVVTVK*",
+    "S": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT*"
+  }
+}

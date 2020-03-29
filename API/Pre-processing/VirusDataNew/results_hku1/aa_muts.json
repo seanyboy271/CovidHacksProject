@@ -1,0 +1,2460 @@
+{
+  "annotations": {
+    "HCHV1gp1": {
+      "end": 21753,
+      "seqid": "config/hku1_reference.gb",
+      "start": 206,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp2": {
+      "end": 22933,
+      "seqid": "config/hku1_reference.gb",
+      "start": 21773,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp3": {
+      "end": 27012,
+      "seqid": "config/hku1_reference.gb",
+      "start": 22942,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp4": {
+      "end": 27380,
+      "seqid": "config/hku1_reference.gb",
+      "start": 27051,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp5": {
+      "end": 27621,
+      "seqid": "config/hku1_reference.gb",
+      "start": 27373,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp6": {
+      "end": 28304,
+      "seqid": "config/hku1_reference.gb",
+      "start": 27633,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp7": {
+      "end": 29645,
+      "seqid": "config/hku1_reference.gb",
+      "start": 28320,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HCHV1gp8": {
+      "end": 28959,
+      "seqid": "config/hku1_reference.gb",
+      "start": 28342,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 29926,
+      "seqid": "config/hku1_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "12MYKL0163": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0181": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0323": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "F296S"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0407": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "Y126D",
+          "G128L",
+          "T129L",
+          "G130R",
+          "P131T"
+        ],
+        "HCHV1gp8": [
+          "S120F",
+          "V121Y",
+          "P122S"
+        ]
+      }
+    },
+    "12MYKL0447": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0529": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0624": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0737": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0759": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0777": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL0790": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "P93L"
+        ],
+        "HCHV1gp8": [
+          "L86F"
+        ]
+      }
+    },
+    "12MYKL0841": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL1058": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": [
+          "S41L"
+        ]
+      }
+    },
+    "12MYKL1061": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "D139E",
+          "T166I"
+        ],
+        "HCHV1gp8": [
+          "M132K",
+          "T134M"
+        ]
+      }
+    },
+    "12MYKL1075": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL1132": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL1153": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL1214": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "12MYKL1217": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": [
+          "T134M",
+          "V204A"
+        ]
+      }
+    },
+    "13MYKL1781": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "13MYKL1898": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": [
+          "S41L"
+        ]
+      }
+    },
+    "13MYKL1997": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "D230A"
+        ],
+        "HCHV1gp8": [
+          "V204G"
+        ]
+      }
+    },
+    "BJ225": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "BJ226": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "BJ250": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "BJ297": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "BJ321": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HCOV/KENYA/001/2010": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HCOV/KENYA/008/2009": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HCOV/KENYA/010/2009": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/39995/2013": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/39999/2013": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/40019/2013": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/40216/2013": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/40304/2014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/42056/2014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/42161/2014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/42284/2014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/43609/2014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60004/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60422/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60454/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60558/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60641/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60668/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60770/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60781/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/60867/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/61107/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/61443/2015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/61456/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/61833/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62150/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62197/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62213/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62234/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62261/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62556/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62637/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/62985/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/63615/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/63673/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "HKU1/SLO/63860/2016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "N08_87": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "V980A",
+          "T982S",
+          "G983Y",
+          "D984N",
+          "Y1637C",
+          "S2109P",
+          "R2133K",
+          "Q2276K",
+          "I2854T",
+          "S5641N"
+        ],
+        "HCHV1gp2": [
+          "F108S",
+          "F109S"
+        ],
+        "HCHV1gp3": [
+          "Y84F",
+          "Y158F",
+          "S194Y",
+          "N248T",
+          "L1224F",
+          "I1248M"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": [
+          "V204G"
+        ]
+      }
+    },
+    "N09_1605B": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "N09_1627B": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "N09_1663B": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "HCHV1gp1": "MIKTSKYGLGFKWAPEFRWLLPDAAEELASPMKSDEGGLCPSTGQAMESVGFVYDNHVKIDCRCILGQEWHVQSNLIRDIFVHEDLHVVEVLTKTAVKSGTAILIKSPLHSLGGFPKGYVMGLFRSYKTKRYVVHHLSMTTSTTNFGEDFLGWIVPFGFMPSYVHKWFQFCRLYIEESDLIISNFKFDDYDFSVEDAYAEVHAEPKGKYSQKAYALLRQYRGIKPVLFVDQYGCDYSGKLADCLQAYGHYSLQDMRQKQSVWLANCDFDIVVAWHVVRDSRFVMRLQTIATICGIKYVAQPTEDVVDGAVVIREPVHLLSADAIVLKLPSLMKVMTHMDDFSIKSIYNVDLCDCGFVMQYGYVDCFNDNCDFYGWVSGNMMDGFSCPLCCTVYDSSEVKAQSSGVIPENPVLFTNSTDTVNPDSFNLYGYSVTPFGSCIYWSPRPGLWIPIIKSSVKSYDDLVYSGVVGCKSIVKETALITHALYLDYVQCKCGNLEQNHILGVNNSWCRQLLLNRGDYNMLLKNIDLFVKRRADFACKFAVCGDGFVPFLLDGLIPRSYYLIQSGIFFTSLMSQFSQEVSDMCLKMCILFMDRVSVATFYIEHYVNRLVTQFKLLGTTLVNKMVNWFNTMLDASAPATGWLLYQLLNGLFVVSQANFNFVALIPDYAKILVNKFYTFFKLLLECVTVDVLKDMPVLKTINGLVCIVGNKFYNVSTGLIPGFVLPCNAQEQQIYFFEGVAESVIVEDDVIENVKSSLSSYEYCQPPKSVEKICIIDNMYMGKCGDKFFPIVMNDKNICLLDQAWRFPCAGRKVNFNEKPVVMEIPSLMTVKVMFDLDSTFDDILGKVCSEFEVEKGVTVDDFVAVVCDAIENALNSCKDHPVVGYQVRAFLNKLNENVVYLFDEAGDEAMASRMYCTFAIEDVEDVISSEAVEDTIDGVVEDTINDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDQIVVTGDDVDDIESVYDFDTYKALLVFNDVYNDALFVSYGSSVETETYFKVNGLWSPTITHTNCWLRSVLLVMQKLPFKFKDLAIENMWLSYKVGYNQSFVDYLLTTIPKAIVLPQGGYVADFAYWFLNQFDINAYANWCCLKCGFSFDLNGLDAVFFYGDIVSHVCKCGHNMTLIAADLPCTLHFSLFDDNFCAFCTPKKIFIAACAVDVNVCHSVAVIGDEQIDGKFVTKFSGDKFDFIVGYGMSFSMSSFELAQLYGLCITPNVCFVKGDIINVARLVKADVIVNPANGHMLHGGGVAKAIAVAAGKKFSKETAAMVKSKGVCQVGDCYVSTGGKLCKTILNIVGPDARQDGRQSYVLLARAYKHLNNYDCCLSTLISAGIFSVPADVSLTYLLGVVDKQVILVSNNKEDFDIIQKCQITSVVGTKALAVRLTANVGRVIKFETDAYKLFLSGDDCFVSNSSVIQEVLLLRHDIQLNNDVRDYLLSKMTSLPKDWRLINKFDVINGVKTVKYFECPNSIYICSQGKDFGYVCDGSFYKATVNQVCVLLAKKIDVLLTVDGVNFKSISLTVGEVFGKILGNVFCDGIDVTKLKCSDFYADKILYQYENLSLADISAVQSSFGFDQQQLLAYYNFLTVCKWSVVVNGPFFSFEQSHNNCYVNVACLMLQHINLKFNKWQWQEAWYEFRAGRPHRLVALVLAKGHFKFDEPSDATDFIRVVLKQADLSGAICELELICDCGIKQESRVGVDAVMHFGTLAKTDLFNGYKIGCNCAGRIVHCTKLNVPFLICSNTPLSKDLPDDVVAANMFMGVGVGHYTHLKCGSPYQHYDACSVKKYTGVSGCLTDCLYLKNLTQTFTSMLTNYFLDDVEMVAYNPDLSQYYCDNGKYYTKPIIKAQFKPFAKVDGVYTNFKLVGHDICAQLNDKLGFNVDLPFVEYKVTVWPVATGDVVLASDDLYVKRYFKGCETFGKPVIWLCHDEASLNSLTYFNKPSFKSENRYSVLSVDSVSEESQGNVVTSVMESQISTKEVKLKGVRKTVKIEDAIIVNDENSSIKVVKSLSLVDVWDMYLTGCDYVVWVANELSRLVKSPTVREYIRYGIKPITIPIDLLCLRDDNQTLLVPKIFKARAIEFYGFLKWLFIYVFSLLHFTNDKTIFYTTEIASKFTFNLFCLALKNAFQTFRWSIFIKGFLVVATVFLFWFNFLYINVIFSDFYLPNISVFPIFVGRIVMWIKATFGLVTICDFYSKLGVGFTSHFCNGSFICELCYSGFDMLDTYAAIDFVQYEVDRRVLFDYVSLVKLIVELVIGYSLYTVWFYPLFCLIGLQLFTTWLPDLFMLETMHWLIRFIVFVANMLPAFVLLRFYIVVTAMYKVVGFIRHIVYGCNKAGCLFCYKRNCSVRVKCSTIVGGVIRYYDITANGGTGFCVKHQWNCFNCHSFKPGNTFITVEAAIELSKELKRPVNPTDASHYVVTDIKQVGCMMRLFYDRDGQRVYDDVDASLFVDINNLLHSKVKVVPNLYVVVVESDADRANFLNAVVFYAQSLYRPILLVDKKLITTACNGISVTQTMFDVYVDTFMSHFDVDRKSFNNFVNIAHASLREGVQLEKVLDTFVGCVRKCCSIDSDVETRFITKSMISAVAAGLEFTDENYNNLVPTYLKSDNIVAADLGVLIQNGAKHVQGNVAKAANISCIWFIDTFNQLTADLQHKLKKACVKTGLKLKLTFNKQEASVPILTTPFSLKGGVVLSNLLYILFFVSLICFILLWALLPTYSVYKSDIHLPAYASFKVIDNGVVRDISVNDLCFANKFFQFDQWYESTFGSFYYHNSMDCPIVVAVMDEDIGSTMFNVPTKVLRHGFHVLHFLTYAFASDSVQCYTPHIQISYNDFYASGCVLSSLCTMFKRGDGTPHPYCYSDGVMKNASLYTSLVPHTRYSLANSNGFIRFPDVISEGIVRIVRTRSMTYCRVGACEYAEEGICFNFNSSWVLNNDYYRSMPGTFCGRDLFDLFYQFFSSLIRPIDFFSLTASSIFGAILAIVVVLVFYYLIKLKRAFGDYTSVVVINVIVWCINFLMLFVFQVYPICACVYACFYFYVTLYFPSEISVIMHLQWIVMYGAIMPFWFCVTYVAMVIANHVLWLFSYCRKIGVNVCSDSTFEETSLTTFMITKDSYCRLKNSVSDVAYNRYLSLYNKYRYYSGKMDTAAYREAACSQLAKAMETFNHNNGNDVLYQPPTASVSTSFLQSGIVKMVSPTSKIEPCIVSVTYGSMTLNGLWLDDKVYCPRHVICLSSNMNEPDYSALLCRVTLGDFTIMSGRMSLTVVSYQMQGCQLVLTVSLQNPYTPKYTFGVVKPGETFTVLAAYNGRPQGAFHVTMRSSYTIKGSFLCGSCGSVGYVLTGDSVKFVYMHQLELSTGCHTGTDFTGNFYGPYRDAQVVQLPVKDYVQTVNVIAWLYAAILNNCAWFVQNDVCSIEDFNVWAMTNGFSQVKADLVLDALASMTGVSIETLLAAIKRLYMGFQGRQILGSCTFEDELAPSDVYQQLAGVKLQSKTKRFIKETIYWILISTFLFSCIISAFVKWTIFMYINTHMIGVTLCVLCFVSFMMLLVKHKHFYLTMYIIPVLCTLFYVNYLVVYKEGFRGLTYVWLSYFVPAVNFTYVYEVFYGCILCVFAIFITMHSINHDIFSLMFLVGRIVTLISMWYFGSNLEEDVLLFITAFLGTYTWTTILSLAIAKIVANWLSVNIFYFTDVPYIKLILLSYLFIGYILSCYWGFFSLLNSVFRMPMGVYNYKISVQELRYMNANGLRPPRNSFEAILLNLKLLGIGGVPVIEVSQIQSKLTDVKCANVVLLNCLQHLHVASNSRLWQYCSILHNEILSTSDLSVAFDKLAQLLIVLFANPAAVDTKCLASIDEVSDDYVQDSTVLQALQSEFVNMASFVEYEVAKKNLADAKNSGSVNQQQIKQLEKACNIAKSVYERDKAVARKLERMADLALTNMYKEARINDKKSKVVSALQTMLFSMVRKLDNQALNSILDNAVKGCVPLNAIPALAANTLTIIIPDKQVFDKVVDNVYVAYAGSVWHIQTVQDADGINKQLTDISVDSNWPLVIIANRYNEVANAVMQNNELMPHKLKIQVVNSGSDMNCNIPTQCYYNNGSSGRIVYAVLSDVDGLKYTKIIKDDGNCVVLELDPPCKFSIQDVKGLKIKYLYFIKGCNTLARGWVVGTLSSTIRLQAGVATEYAANSSILSLCAFSVDPKKTYLDYIQQGGVPIINCVKMLCDHAGTGMAITIKPEATINQDSYGGASVCIYCRARVEHPDVDGLCKLRGKFVQVPLGIKDPILYVLTHDVCQVCGFWRDGSCSCVGSGVAVQSKDLNFLNRVRGTSVNARLVPCASGLSTDVQLRAFDICNTNRAGIGLYYKVNCCRFQRIDDDGNKLDKFFVVKRTNLEVYNKEKTYYELTKSCGVVAEHDFFTFDIDGSRVPHIVRKNLSKYTMLDLCYALRHFDCNDCSVLCEILCEYADCKESYFSKKDWYDFVENPDIINIYKKLGPIFNRALLNTVSFADTLVKVGLVGVLTLDNQDLYGQWYDFGDFIQTAPGFGVAVADSYYSYMMPMLTMCHVLDCELFVNDSYRQFDLVQYDFTDYKLELFNKYFKYWGMKYHPNTVDCDNDRCIIHCANFNILFSMVLPNTCFGPLVRQIFVDGVPFVVSIGYHYKELGVVMNLDVDTHRYRLSLKDLLLYAADPAMHVASASALLDLRTCCFSVAAITSGIKFQTVKPGNFNQDFYEFVKSKGLFKEGSTVDLKHFFFTQDGNAAITDYNYYKYNLPTMVDIKQLLFVLEVVYKYFEIYDGGCIPASQVIVNNYDKSAGYPFNKFGKARLYYEALSFEEQNEIYAYTKRNVLPTLTQMNLKYAISAKNRARTVAGVSILSTMTGRMFHQKCLKSIAATRGVPVVIGTTKFYGGWDDMLRHLIKDVDNPVLMGWDYPKCDRAMPNILRIVSSLVLARKHEFCCSHGDRFYRLANECAQVLSEIVMCGGCYYVKPGGTSSGDATTAFANSVFNICQAVTANVCSLMACNGHKIEDLSIRNLQKRLYSNVYRTDYVDYTFVNEYYEFLCKHFSMMILSDDGVVCYNSDYASKGYIANISVFQQVLYYQNNVFMSESKCWVENDITNGPHEFCSQHTMLVKIDGDYVYLPYPDPSRILGAGCFVDDLLKTDSVLLIERFVSLAIDAYPLVHHENEEYQKVFRVYLEYIKKLYNDLGTQILDSYSVILSTCDGLKFTDESFYKNMYLKSAVMQSVGACVVCSSQTSLRCGSCIRKPLLCCKCCYDHVMATNHKYVLSVSPYVCNAPNCDVSDVTKLYLGGMSYYCENHKPHYSFKLVMNGMVFGLYKQSCTGSPYIDDFNKIASCKWTEVDDYVLANECIERLKLFAAETQKATEEAFKQSYASATIQEIVSDREIILCWETGKVKPPLNKNYVFTGYHFTSTGKTVLGEYVFDKSELTNGVYYRATTTYKLSIGDVFVLTSHSVANLSAPTLVPQENYASIRFSSVYSVPLLFQTNVANYQHIGMKRYCTVQGPPGTGKSHLAIGLAVYYYTARVVYTAASHAAVDALCEKAYKFLNINDCTRIIPAKVRVDCYDKFKINDTTCKYVFTTINALPELVTDIVVVDEVSMLTNYELSVINARVKAKHYVYIGDPAQLPAPRVLLSKGSLEPRHFNSITKIMCCLGPDIFLGNCYRCPKEIVETVSALVYDNKLKAKNDNSSLCFKVYFKGQTTHESSSAVNIQQIYLISKFLKANPVWNSAVFISPYNSQNYVAKRILGVQTQTVDSAQGSEYDYVIYSQTAETAHSINVNRFNVAITRAKKGIFCVMSNMQLFESLNFITLPLDKIQNQTLSRLHCTTNLFKDCSKNFLGYHPAHAPSFLSVDDKYKVNEDLAVCLNICEPVLTYSRLISLMGFKLDLTLDGYSKFFITKDEAIKRVRGWVGFDVEGAHATRDNIGTNFPLQIGFSTGVDFVVEATGLFAERDCYIFKRTVAKAPPGDNFKHLIPLMSKGQKWDIVRIRIVQMLSDYLLDLSDSVVFITWSASFELTCLRYFAKLGRELNCDVCPNRATCYNSRTGYYGCWRHSYTCDYVYNPLIVDIQQWGYTGSLTSNHDIICNVHKGAHVASSDAIMTRCLAIYDCFCKSVNWNLEYPIISNEVSINTSCRLLQRVMLKAAMLCNRYNLCYDIGNPKGIACVKDYEFKFYDASPVVKSVKQLFYVYDVHKDNFKDGLCMFWNCNVDKYPSNSIVCRFDTRVLNKLNLPGCNGGSLYVNKHAFHTNPFTRTVFENLKPMPFFYYSDTPCVYVDGLESKQVDYVPLRSATCITRCNLGGAVCSKHAEDYCKYLESYNVATTAGFTFWVYKTFDFYNLWNTFTMLQSLENVIYNLVNAGHYDGRIGELPCAIMNDKVVVKINNVDTVIFKNNTSLPTNIAVELFTKRSIRHHPELKILRNLNIDICWKHVLWDYVKDSLFCSSTYGVCKYTDLNFIENLNVLFDGRDNGALEAFRKARNGVFISTGKLSSLSMIKGPQRADLNGVIVDKVGELNVEFWFAMRKDGDDVIFSRADSLSPSHYWSPQGNLGGNCAGNASGNDALARFTIFTQSRVLSTFEPRSDLERDFIDMEDSLFIAKYGLEDYAFDHIVYGSFNYKVIGGLHLLIGLFRRLKKSNLVIQEFLQYDSSIHSYFITDQECGSSKSVCTVIDLLLDDFVVIVKSLNLSCVSKVVNINVDFKDFQFMLWCNDNKIMTFYPKMQATSDWKPGYSMPVLYKYLNVPLERVSLWNYGKAINLPTGCMMNVAKYTQLCQYLNTTTLAVPVNMRVLHLGAGSDKEVAPGSAVLRQWLPSGSILVDNDLNPFVSDSLVTYFGDCMTLPFDCHWDLIISDMYDPLTKNIGDYNVSKDGFFTYICYLIRDKLSLGGSVAIKITEFSWNADLYKLMSYFAFWTVFCTNVNASSSEGFLIGINYLGKSCFEIDGNVMHANYLFWRNSTTWNGGAYSLFDMSKFSLKLAGTAVVNLRPDQLNDLVYSLIERGKLLVRDTRKEIFVGDSLVNTC*",
+        "HCHV1gp2": "MLIIFLFFNFCYGFNEPLNVVSHLNHDWFLFGDSRSDCNHINNLKIKNFDYLDIHPSLCNNGKISSSAGDSIFKSYHFTRFYNYTGEGDQIIFYEGVNFNPHHRFKCFFNGSNDVWIFNKVRFYRALYSNMALFRYLTFVDILYNFSFSKANICKSDILSLNNPISTNYSKDVYFTLSGCSLYLVPLCLFKSNFSQYYYNMDTGFAYGYSNFVSSDLDCTYISLKPGSYKIFSTGFVLSIPTKALCFNKSKQFVPVQVVDSRWNNLRASDTSLSDACQLPYCYFRNSSGNYVGKYDINHGDNGFTSILSGLLYNVSCISYYGSFLYDNFTSIWPRFSFGNCPTSAYIKLNICVYDFLPIILQGILLCLALLFVVFLLFLLYNDKSH*",
+        "HCHV1gp3": "MLLIIFILPTTLAVIGDFNCTNSFINDYNKTIPRISEDVVDVSLGLGTYYVLNRVYLNTTLLFTGYFPKSGANFRDLALKGSTYLSTLWYKPPFLSDFNNGIFSKVKNTKLYVNNTLYSEFSTIVIGSVFVNTSYTIVVQPHNGILEITACQYTMCEYPHTVCKSKGSIRNESWHIDSSEPLCLFKKNFTYNVSADWLYFHFYQERGVFYAYYADVGMPTTFLFSLYLGTILSHYYVMPLTCNAISSNTDNETLEYWVTPLSRRQYLLNFDEHGVITNAVDCSSSFLSEIQCKTQSFAPNTGVYDLSGFTVKPVATVYRRIPNLPDCDIDNWLNNVSVPSPLNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIPNRRRDDLQLGSSGFLQSSNYKIDTTSSSCQLYYSLPAINVTINNYNPSSWNRRYGFNNFNLSSHSVVYSRYCFSVNNTFCPCAKPSFASSCKSHKPPSASCPIGTKYRHCEDSTTLYVNNWCRCSCLPDPISTYSPNTCPQKKVVVGIGEHCPGLGINEEKCGTLDELNHSSCSCSPDAFLGWSFDSCISNNRCNIFSNFIFNGINSGTTCSNDLLYSNTEVSTGVCVNYDLYGITGQGIFKEVSAAYYNNWQNLLYDSNGNIIGFKDFLTNKTYTILPCYSGRVSAAFYQNSSSPALLYRNLKCSYVLNNISFISQPYFDSYLGCVLNAVNLTSYSVSSCDLRMGSGFCIDYALPSSSSSRRKRRGISSPYRFVTFEPFNVSFVNDSVETVGGLFEIQIPTNFTIAGHEEFIQTSSPKVTIDCSAFVCSNYAACHDLLSEYGTFCDNINSILNEVNDLLDITQLQVANALMQGVTLSSNLNTNLHSDVDNIDFKSLLGCLGSQCGSSSRSLLEDLLFNKVKLSDVGFVEAYNNCTGGSEIRDLLCVQSFNGIKVLPPILSETQISGYTTAATVAAMFPPWSAAAGVPFSLNVQYRINGLGVTMDVLNKNQKLIANAFNKALLSIQNGFTATNSALAKIQSVVNANAQALNSLLQQLFNKFGAISSSLQEILSRLDNLEAQVQIDRLINGRLTALNAYVSQQLSDITLIKAGASRAIEKVNECVKSQSPRINFCGNGNHILSLVQNAPYGLLFIHFSYKPTSFKTVLVSPGLCLSGDIGIAPKQGYFIKQNDSWMFTGSSYYYPEPISDKNVVFMNSCSVNFTKAPFIYLNNSIPNLSDFEAEFSLWFKNHTSIAPNLTFNSHTINATFLDLYYEMNVIQESIKSLNSSFINLKEIGTYEMYVKWPWYIWLLIVISFIIFLMILFFICCCTGCGSACFSKCHNCCDEYGGHNDFVIKASHDD*",
+        "HCHV1gp4": "MEVWRPSYKYSLITREFGVTDLEDLCFKYNYCQPCVGYCIVPLNVWCRKFGKFASYFVLRSHDTSHKNNFGVITSFTSYGNTVSEAVSKLVESASDFIAWRAEALNKYG*",
+        "HCHV1gp5": "MVDVFFTDTAWYVGQIFFLVLSCVIFLIFVVALLATIKLCIQICGFCNIFIISPSAYVYNRGRQLYKSYSEHVIPSTLDDLI*",
+        "HCHV1gp6": "MNESIFPHWNSDQAITFLKEWNFSLGVILLLITIILQFGYTSRSMFVYLIKMIILWLMWPLTIILTIFNCFYALNNIFLGLSILFTIISIVIWILYFVNSIRLFIRTGSWWSFNPETNNLMCIDMKGKMYVRPVIEDYHTLTATVIRGHLYIQGVKLGTGYTLADLPVYVTVAKVQVLCTYKRAFLDKLDVNSGFAVFVKSKVGNYRLPSSKSSGMDTALLRA*",
+        "HCHV1gp7": "MSYTPGHHAGSRSSSGNRSGILKKTSWVDQSERSHQTYNRGRKPQPKFTVSTQPQGNPIPHYSWFSGITQFQKGRDFKFPDGQGVPIAYGIPPSEAKGYWYKHNRRSFKTADGQQKQLLPRWYFYYLGTGPYASSSYGEAHEGIFWVASHQADTSIPSDVSARDPTIQEAIPTRFSPGTILPQGYYVEGSGRSASNSRPGSRSQSRGPNNRSLSRSNSNFRHSDSIVKPDMADEIASLVLAKLGKDSKPQQVTKQNAKEIRHKILMKPRQKRTPNKFCNVQQCFGKRGPLQNFGNSEMLKLGTNDPQFPILAELAPTPGAFFFGSKLELFKRDSDADSPSKDTFELRYSGSIRFDSTLPGFETIMKVLKENLDAYVNSNQNTVSGSLSPKPQRKRGVKQSPESFDSLNLSADTQHISNDFTPEDHSLLATLDDPYVEDSVA*",
+        "HCHV1gp8": "MLEVEAPLEIVQESSRKLLGLTNLSEAIKPIIEAENPNPNSLCLLNHKETLSHIIPGSLGLPNFKKVETLNFQMVKEYPLLTGYPLLKQKDIGINTTGVLLKQLMVNKSSCYQDGISTISVPVHMPVHPMVKPTKVSSGSLVTKLTLLFPPMFRQGILLFKKLSLLGFRLVRFCLKAIMLKAQEGLLLIAGQVHVLNHVDPIIVH*"
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "S296F"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "S135L",
+          "Y137D",
+          "G138D",
+          "D139G"
+        ],
+        "HCHV1gp8": [
+          "H128Y",
+          "P129L",
+          "V131M",
+          "M132V"
+        ]
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "P58S"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "V2851I",
+          "S3243N",
+          "T5350N",
+          "I6148V",
+          "S6849N"
+        ],
+        "HCHV1gp2": [
+          "F49Y",
+          "D50G",
+          "K155N",
+          "D157N",
+          "V353F",
+          "F356P",
+          "C367F",
+          "V373I",
+          "L380V",
+          "N382H",
+          "D383G",
+          "K384*"
+        ],
+        "HCHV1gp3": [
+          "L2F",
+          "T83K",
+          "T418I",
+          "T419S",
+          "A431L",
+          "I432V",
+          "Y439F",
+          "N451G",
+          "N452S",
+          "L455V",
+          "H458Y",
+          "S459D",
+          "R464D",
+          "Y465H",
+          "N471S",
+          "T472D",
+          "K478D",
+          "F481V",
+          "A482V",
+          "S483N",
+          "K486A",
+          "S487K",
+          "H488S",
+          "P491L",
+          "S494I",
+          "I497A",
+          "I1172R",
+          "S1310L"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "E27K",
+          "I927V",
+          "T1102I",
+          "I1299V",
+          "I2689V",
+          "F3835L",
+          "T4542N",
+          "I5812L",
+          "V6124F"
+        ],
+        "HCHV1gp2": [
+          "Y169H",
+          "K171Q",
+          "S195N",
+          "D202A"
+        ],
+        "HCHV1gp3": [
+          "D27H",
+          "V39G",
+          "R75T",
+          "T116I",
+          "S247P",
+          "N248K",
+          "N251K",
+          "N278K",
+          "N513K",
+          "E615D",
+          "N645D",
+          "Q685K"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [
+          "I53S"
+        ],
+        "HCHV1gp7": [
+          "S31F",
+          "N304S"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "E139D"
+        ],
+        "HCHV1gp8": [
+          "K132M"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "A309D",
+          "P422H",
+          "D879E",
+          "V1112I",
+          "Y1216F",
+          "L2073F",
+          "T2792A",
+          "F2917V",
+          "I3157V",
+          "L3379S",
+          "V3439N",
+          "I3561T",
+          "T3570A",
+          "L3730F",
+          "R3951K",
+          "I3958V",
+          "N4132S",
+          "A4162T",
+          "I4265M",
+          "L4409I",
+          "G4453S",
+          "K4574R",
+          "C4593R",
+          "V4598I",
+          "S4648I",
+          "K4655E",
+          "H5324Y",
+          "D5370E",
+          "I5548V",
+          "N5619S",
+          "L5645V",
+          "T5648N",
+          "V5775I",
+          "I5909V",
+          "I5940V",
+          "S5985P",
+          "N6000S",
+          "F6001C",
+          "S6014A",
+          "D6024N",
+          "C6028N",
+          "F6059L",
+          "D6086E",
+          "I6119T",
+          "R6122K",
+          "D6131E",
+          "N6132K",
+          "D6195N",
+          "P6198S",
+          "S6259A",
+          "I6325L",
+          "S6339F",
+          "V6342A",
+          "D6472E",
+          "K6475N",
+          "V6482I",
+          "A6483V",
+          "T6495N",
+          "M6507T",
+          "A6521V",
+          "I6528T",
+          "L6558F",
+          "N6617K",
+          "V6624I",
+          "N6631T",
+          "G6649E",
+          "S6653R",
+          "N6677K",
+          "A6696T",
+          "S6700C",
+          "P6701S",
+          "A6719V",
+          "S6720I",
+          "A6726T",
+          "T6739S",
+          "E6754D",
+          "S6756N",
+          "Y6779H",
+          "V6801L",
+          "V6841S",
+          "S6886N",
+          "A6916P",
+          "Y7038H",
+          "Y7069C",
+          "C7099S",
+          "S7131T"
+        ],
+        "HCHV1gp2": [
+          "N9Y",
+          "Y76F",
+          "H102Y",
+          "F109P",
+          "I117L",
+          "F118L",
+          "L133F",
+          "L143P",
+          "F146V",
+          "F148L",
+          "A151F",
+          "I153S",
+          "S166F",
+          "T167I",
+          "D172E",
+          "S178L",
+          "M201I",
+          "F205S",
+          "A206V",
+          "Y209F",
+          "F212V",
+          "S214Y",
+          "S215P",
+          "T220I",
+          "I231V",
+          "F232S",
+          "S233T",
+          "G235A",
+          "F236P",
+          "V237F",
+          "I240L",
+          "N248D",
+          "L266E",
+          "T271I",
+          "D275V",
+          "G289A",
+          "N302S",
+          "T305I",
+          "S323V",
+          "R335Y",
+          "F336Y",
+          "N340R",
+          "A345S",
+          "Y346I",
+          "L349H",
+          "N350P"
+        ],
+        "HCHV1gp3": [
+          "S23F",
+          "F24A",
+          "Y28K",
+          "K30T",
+          "I32V",
+          "D38Y",
+          "L44H",
+          "V51I",
+          "N53D",
+          "L61I",
+          "A78S",
+          "S82T",
+          "K91Q",
+          "P92K",
+          "K105R",
+          "N115K",
+          "V131I",
+          "T133N",
+          "I145V",
+          "V162I",
+          "I169S",
+          "I176F",
+          "S178K",
+          "A195T",
+          "V208T",
+          "V216S",
+          "I231L",
+          "M238L",
+          "E255Q",
+          "R263K",
+          "N269K",
+          "E272N",
+          "H273R",
+          "L287F",
+          "Q295K",
+          "F297L",
+          "A298L",
+          "Y318H",
+          "N323D",
+          "N331K",
+          "V336F",
+          "S337N",
+          "R347K",
+          "V365T",
+          "L373F",
+          "K375E",
+          "F379Y",
+          "N384K",
+          "T387I",
+          "V388L",
+          "R396S",
+          "D399S",
+          "K500N",
+          "H503S",
+          "D506S",
+          "S507T",
+          "T509V",
+          "Y511D",
+          "V512H",
+          "N513T",
+          "N514D",
+          "S526T",
+          "T527A",
+          "S529D",
+          "N531R",
+          "T532S",
+          "P534S",
+          "V538S",
+          "V539L",
+          "I542V",
+          "P547A",
+          "L549F",
+          "I551V",
+          "N552D",
+          "T558V",
+          "E561G",
+          "L562S",
+          "N563Y",
+          "H564N",
+          "S565V",
+          "S568L",
+          "P571T",
+          "F579Y",
+          "S581T",
+          "I583V",
+          "F596L",
+          "Y611Q",
+          "S612P",
+          "S617F",
+          "G619D",
+          "N623D",
+          "A641V",
+          "N645S",
+          "L664V",
+          "T670N",
+          "L672F",
+          "S676A",
+          "Y684H",
+          "S687A",
+          "P690L",
+          "F708L",
+          "I709A",
+          "S710T",
+          "L722F",
+          "V725D",
+          "S729D",
+          "D736A",
+          "I745V",
+          "A748N",
+          "L749S",
+          "G761S",
+          "S764A",
+          "P765S",
+          "V783I",
+          "T785S",
+          "F790Y",
+          "Q793K",
+          "A801V",
+          "H803Q",
+          "S810N",
+          "A820L",
+          "N848D",
+          "D852G",
+          "I856T",
+          "Q860H",
+          "N863D",
+          "A864T",
+          "S881F",
+          "D887N",
+          "L892V",
+          "S897P",
+          "Q898H",
+          "L906F",
+          "L907F",
+          "N913D",
+          "T957S",
+          "V981I",
+          "N1010T",
+          "K1014N",
+          "T1024S",
+          "A1039S",
+          "N1071A",
+          "T1101S",
+          "I1103V",
+          "A1105F",
+          "S1108A",
+          "R1109L",
+          "I1111M",
+          "I1148M",
+          "T1155I",
+          "L1168I",
+          "I1172V",
+          "Q1184H",
+          "S1187H",
+          "S1211T",
+          "F1221L",
+          "I1222V",
+          "N1226H",
+          "I1228V",
+          "N1230K",
+          "A1236S",
+          "F1238L",
+          "L1240H",
+          "H1245Q",
+          "F1254L",
+          "S1256L",
+          "V1272L",
+          "S1282N",
+          "F1284Y",
+          "E1289D",
+          "I1303V",
+          "V1308S",
+          "I1309F",
+          "M1316V",
+          "I1317L",
+          "N1346H",
+          "A1352T"
+        ],
+        "HCHV1gp4": [
+          "E2D",
+          "K9T",
+          "Y10H",
+          "I13V",
+          "T14I",
+          "D21N",
+          "F27L",
+          "C35I",
+          "Y56H",
+          "V58T",
+          "T64I",
+          "K67S",
+          "I73V",
+          "S78T",
+          "K89R",
+          "D96E",
+          "A99V"
+        ],
+        "HCHV1gp5": [
+          "V4L",
+          "T7N",
+          "V13I",
+          "F17L",
+          "F18V",
+          "S22F",
+          "V24L",
+          "F26S",
+          "L33F",
+          "I41M",
+          "I43L",
+          "I49F",
+          "N60K",
+          "R63M",
+          "H72Q",
+          "S76P",
+          "L78S",
+          "D80Y"
+        ],
+        "HCHV1gp6": [
+          "E3K",
+          "I5F",
+          "H8Q",
+          "W9F",
+          "N10T",
+          "I15V",
+          "L31F",
+          "L49F",
+          "I64T",
+          "I77A",
+          "G80A",
+          "L81F",
+          "L84V",
+          "Y130F",
+          "A164S",
+          "S213P"
+        ],
+        "HCHV1gp7": [
+          "H8Y",
+          "V28A",
+          "S34N",
+          "H35Y",
+          "Y38F",
+          "P44T",
+          "P58T",
+          "P80S",
+          "Y89F",
+          "I91V",
+          "K102R",
+          "N104S",
+          "S134N",
+          "S135A",
+          "A140S",
+          "H141L",
+          "I144V",
+          "S149N",
+          "I156T",
+          "A162S",
+          "I167T",
+          "S176P",
+          "S237N",
+          "D246E",
+          "M266T",
+          "F277H",
+          "L290S",
+          "S296A",
+          "F330V",
+          "D333E",
+          "D335E",
+          "S340V",
+          "T343V",
+          "S403L"
+        ],
+        "HCHV1gp8": [
+          "S25N",
+          "A27I",
+          "I28T",
+          "I31L",
+          "N36K",
+          "P39L",
+          "T50I",
+          "L59P",
+          "L61S",
+          "P62L",
+          "Y78F",
+          "T82S",
+          "G83E",
+          "N95D",
+          "T97A",
+          "Q113R",
+          "V123A",
+          "V127M",
+          "K132N",
+          "T134S",
+          "V136G",
+          "S140L",
+          "V142I",
+          "F149L",
+          "F160L",
+          "A190V",
+          "G191D"
+        ]
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "A197V",
+          "E896D",
+          "D1086N",
+          "D1089E",
+          "V1090I",
+          "L1202M",
+          "V1253L",
+          "S2116P",
+          "Y2364H",
+          "S6344F"
+        ],
+        "HCHV1gp2": [
+          "K384R"
+        ],
+        "HCHV1gp3": [
+          "H44Y",
+          "W197F",
+          "I387V",
+          "F617Y",
+          "S752F"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "N210T",
+          "E246D"
+        ],
+        "HCHV1gp8": [
+          "N25S",
+          "I203L"
+        ]
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "E328D",
+          "E333D",
+          "R347H",
+          "K369E",
+          "D373N",
+          "V383D",
+          "G385D",
+          "P389S",
+          "S400L",
+          "L403Q",
+          "D412G"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "A135L",
+          "Y137D",
+          "G138D",
+          "E139G"
+        ],
+        "HCHV1gp8": [
+          "M127I",
+          "H128Y",
+          "P129L",
+          "V131M",
+          "N132D"
+        ]
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "PREDICT_13QY028": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "K5094Q"
+        ],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "SC2521": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "SC2628": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "V686I",
+          "A931V",
+          "T1102I",
+          "D1114E",
+          "N1149K",
+          "H1268Y",
+          "I1299N",
+          "N1468K",
+          "T1956K",
+          "D2003N",
+          "V2851I",
+          "L6795Q",
+          "R6969K"
+        ],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [
+          "S70A",
+          "N454I",
+          "H512R",
+          "V565A",
+          "M739I",
+          "F907I"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": [
+          "H128P",
+          "G136E"
+        ]
+      }
+    },
+    "SH_1": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    },
+    "SH_2": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "Y5072H"
+        ],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "S136P"
+        ],
+        "HCHV1gp8": []
+      }
+    },
+    "SH_3": {
+      "aa_muts": {
+        "HCHV1gp1": [],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [
+          "S136T"
+        ],
+        "HCHV1gp8": [
+          "Y128*"
+        ]
+      }
+    },
+    "SI17244": {
+      "aa_muts": {
+        "HCHV1gp1": [
+          "D1089E",
+          "V1090I"
+        ],
+        "HCHV1gp2": [],
+        "HCHV1gp3": [
+          "N243K",
+          "A486V"
+        ],
+        "HCHV1gp4": [],
+        "HCHV1gp5": [],
+        "HCHV1gp6": [],
+        "HCHV1gp7": [],
+        "HCHV1gp8": []
+      }
+    }
+  },
+  "reference": {
+    "HCHV1gp1": "MIKTSKYGLGFKWAPEFRWLLPDAAEELASPMKSDEGGLCPSTGQAMESVGFVYDNHVKIDCRCILGQEWHVQSNLIRDIFVHEDLHVVEVLTKTAVKSGTAILIKSPLHSLGGFPKGYVMGLFRSYKTKRYVVHHLSMTTSTTNFGEDFLGWIVPFGFMPSYVHKWFQFCRLYIEESDLIISNFKFDDYDFSVEDAYAEVHAEPKGKYSQKAYALLRQYRGIKPVLFVDQYGCDYSGKLADCLQAYGHYSLQDMRQKQSVWLANCDFDIVVAWHVVRDSRFVMRLQTIATICGIKYVAQPTEDVVDGAVVIREPVHLLSADAIVLKLPSLMKVMTHMDDFSIKSIYNVDLCDCGFVMQYGYVDCFNDNCDFYGWVSGNMMDGFSCPLCCTVYDSSEVKAQSSGVIPENPVLFTNSTDTVNPDSFNLYGYSVTPFGSCIYWSPRPGLWIPIIKSSVKSYDDLVYSGVVGCKSIVKETALITHALYLDYVQCKCGNLEQNHILGVNNSWCRQLLLNRGDYNMLLKNIDLFVKRRADFACKFAVCGDGFVPFLLDGLIPRSYYLIQSGIFFTSLMSQFSQEVSDMCLKMCILFMDRVSVATFYIEHYVNRLVTQFKLLGTTLVNKMVNWFNTMLDASAPATGWLLYQLLNGLFVVSQANFNFVALIPDYAKILVNKFYTFFKLLLECVTVDVLKDMPVLKTINGLVCIVGNKFYNVSTGLIPGFVLPCNAQEQQIYFFEGVAESVIVEDDVIENVKSSLSSYEYCQPPKSVEKICIIDNMYMGKCGDKFFPIVMNDKNICLLDQAWRFPCAGRKVNFNEKPVVMEIPSLMTVKVMFDLDSTFDDILGKVCSEFEVEKGVTVDDFVAVVCDAIENALNSCKDHPVVGYQVRAFLNKLNENVVYLFDEAGDEAMASRMYCTFAIEDVEDVISSEAVEDTIDGVVEDTINDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDEDVVTGDNDDQIVVTGDDVDDIESVYDFDTYKALLVFNDVYNDALFVSYGSSVETETYFKVNGLWSPTITHTNCWLRSVLLVMQKLPFKFKDLAIENMWLSYKVGYNQSFVDYLLTTIPKAIVLPQGGYVADFAYWFLNQFDINAYANWCCLKCGFSFDLNGLDAVFFYGDIVSHVCKCGHNMTLIAADLPCTLHFSLFDDNFCAFCTPKKIFIAACAVDVNVCHSVAVIGDEQIDGKFVTKFSGDKFDFIVGYGMSFSMSSFELAQLYGLCITPNVCFVKGDIINVARLVKADVIVNPANGHMLHGGGVAKAIAVAAGKKFSKETAAMVKSKGVCQVGDCYVSTGGKLCKTILNIVGPDARQDGRQSYVLLARAYKHLNNYDCCLSTLISAGIFSVPADVSLTYLLGVVDKQVILVSNNKEDFDIIQKCQITSVVGTKALAVRLTANVGRVIKFETDAYKLFLSGDDCFVSNSSVIQEVLLLRHDIQLNNDVRDYLLSKMTSLPKDWRLINKFDVINGVKTVKYFECPNSIYICSQGKDFGYVCDGSFYKATVNQVCVLLAKKIDVLLTVDGVNFKSISLTVGEVFGKILGNVFCDGIDVTKLKCSDFYADKILYQYENLSLADISAVQSSFGFDQQQLLAYYNFLTVCKWSVVVNGPFFSFEQSHNNCYVNVACLMLQHINLKFNKWQWQEAWYEFRAGRPHRLVALVLAKGHFKFDEPSDATDFIRVVLKQADLSGAICELELICDCGIKQESRVGVDAVMHFGTLAKTDLFNGYKIGCNCAGRIVHCTKLNVPFLICSNTPLSKDLPDDVVAANMFMGVGVGHYTHLKCGSPYQHYDACSVKKYTGVSGCLTDCLYLKNLTQTFTSMLTNYFLDDVEMVAYNPDLSQYYCDNGKYYTKPIIKAQFKPFAKVDGVYTNFKLVGHDICAQLNDKLGFNVDLPFVEYKVTVWPVATGDVVLASDDLYVKRYFKGCETFGKPVIWLCHDEASLNSLTYFNKPSFKSENRYSVLSVDSVSEESQGNVVTSVMESQISTKEVKLKGVRKTVKIEDAIIVNDENSSIKVVKSLSLVDVWDMYLTGCDYVVWVANELSRLVKSPTVREYIRYGIKPITIPIDLLCLRDDNQTLLVPKIFKARAIEFYGFLKWLFIYVFSLLHFTNDKTIFYTTEIASKFTFNLFCLALKNAFQTFRWSIFIKGFLVVATVFLFWFNFLYINVIFSDFYLPNISVFPIFVGRIVMWIKATFGLVTICDFYSKLGVGFTSHFCNGSFICELCYSGFDMLDTYAAIDFVQYEVDRRVLFDYVSLVKLIVELVIGYSLYTVWFYPLFCLIGLQLFTTWLPDLFMLETMHWLIRFIVFVANMLPAFVLLRFYIVVTAMYKVVGFIRHIVYGCNKAGCLFCYKRNCSVRVKCSTIVGGVIRYYDITANGGTGFCVKHQWNCFNCHSFKPGNTFITVEAAIELSKELKRPVNPTDASHYVVTDIKQVGCMMRLFYDRDGQRVYDDVDASLFVDINNLLHSKVKVVPNLYVVVVESDADRANFLNAVVFYAQSLYRPILLVDKKLITTACNGISVTQTMFDVYVDTFMSHFDVDRKSFNNFVNIAHASLREGVQLEKVLDTFVGCVRKCCSIDSDVETRFITKSMISAVAAGLEFTDENYNNLVPTYLKSDNIVAADLGVLIQNGAKHVQGNVAKAANISCIWFIDTFNQLTADLQHKLKKACVKTGLKLKLTFNKQEASVPILTTPFSLKGGVVLSNLLYILFFVSLICFILLWALLPTYSVYKSDIHLPAYASFKVIDNGVVRDISVNDLCFANKFFQFDQWYESTFGSFYYHNSMDCPIVVAVMDEDIGSTMFNVPTKVLRHGFHVLHFLTYAFASDSVQCYTPHIQISYNDFYASGCVLSSLCTMFKRGDGTPHPYCYSDGVMKNASLYTSLVPHTRYSLANSNGFIRFPDVISEGIVRIVRTRSMTYCRVGACEYAEEGICFNFNSSWVLNNDYYRSMPGTFCGRDLFDLFYQFFSSLIRPIDFFSLTASSIFGAILAIVVVLVFYYLIKLKRAFGDYTSVVVINVIVWCINFLMLFVFQVYPICACVYACFYFYVTLYFPSEISVIMHLQWIVMYGAIMPFWFCVTYVAMVIANHVLWLFSYCRKIGVNVCSDSTFEETSLTTFMITKDSYCRLKNSVSDVAYNRYLSLYNKYRYYSGKMDTAAYREAACSQLAKAMETFNHNNGNDVLYQPPTASVSTSFLQSGIVKMVSPTSKIEPCIVSVTYGSMTLNGLWLDDKVYCPRHVICLSSNMNEPDYSALLCRVTLGDFTIMSGRMSLTVVSYQMQGCQLVLTVSLQNPYTPKYTFGVVKPGETFTVLAAYNGRPQGAFHVTMRSSYTIKGSFLCGSCGSVGYVLTGDSVKFVYMHQLELSTGCHTGTDFTGNFYGPYRDAQVVQLPVKDYVQTVNVIAWLYAAILNNCAWFVQNDVCSIEDFNVWAMTNGFSQVKADLVLDALASMTGVSIETLLAAIKRLYMGFQGRQILGSCTFEDELAPSDVYQQLAGVKLQSKTKRFIKETIYWILISTFLFSCIISAFVKWTIFMYINTHMIGVTLCVLCFVSFMMLLVKHKHFYLTMYIIPVLCTLFYVNYLVVYKEGFRGLTYVWLSYFVPAVNFTYVYEVFYGCILCVFAIFITMHSINHDIFSLMFLVGRIVTLISMWYFGSNLEEDVLLFITAFLGTYTWTTILSLAIAKIVANWLSVNIFYFTDVPYIKLILLSYLFIGYILSCYWGFFSLLNSVFRMPMGVYNYKISVQELRYMNANGLRPPRNSFEAILLNLKLLGIGGVPVIEVSQIQSKLTDVKCANVVLLNCLQHLHVASNSRLWQYCSILHNEILSTSDLSVAFDKLAQLLIVLFANPAAVDTKCLASIDEVSDDYVQDSTVLQALQSEFVNMASFVEYEVAKKNLADAKNSGSVNQQQIKQLEKACNIAKSVYERDKAVARKLERMADLALTNMYKEARINDKKSKVVSALQTMLFSMVRKLDNQALNSILDNAVKGCVPLNAIPALAANTLTIIIPDKQVFDKVVDNVYVAYAGSVWHIQTVQDADGINKQLTDISVDSNWPLVIIANRYNEVANAVMQNNELMPHKLKIQVVNSGSDMNCNIPTQCYYNNGSSGRIVYAVLSDVDGLKYTKIIKDDGNCVVLELDPPCKFSIQDVKGLKIKYLYFIKGCNTLARGWVVGTLSSTIRLQAGVATEYAANSSILSLCAFSVDPKKTYLDYIQQGGVPIINCVKMLCDHAGTGMAITIKPEATINQDSYGGASVCIYCRARVEHPDVDGLCKLRGKFVQVPLGIKDPILYVLTHDVCQVCGFWRDGSCSCVGSGVAVQSKDLNFLNRVRGTSVNARLVPCASGLSTDVQLRAFDICNTNRAGIGLYYKVNCCRFQRIDDDGNKLDKFFVVKRTNLEVYNKEKTYYELTKSCGVVAEHDFFTFDIDGSRVPHIVRKNLSKYTMLDLCYALRHFDCNDCSVLCEILCEYADCKESYFSKKDWYDFVENPDIINIYKKLGPIFNRALLNTVSFADTLVKVGLVGVLTLDNQDLYGQWYDFGDFIQTAPGFGVAVADSYYSYMMPMLTMCHVLDCELFVNDSYRQFDLVQYDFTDYKLELFNKYFKYWGMKYHPNTVDCDNDRCIIHCANFNILFSMVLPNTCFGPLVRQIFVDGVPFVVSIGYHYKELGVVMNLDVDTHRYRLSLKDLLLYAADPAMHVASASALLDLRTCCFSVAAITSGIKFQTVKPGNFNQDFYEFVKSKGLFKEGSTVDLKHFFFTQDGNAAITDYNYYKYNLPTMVDIKQLLFVLEVVYKYFEIYDGGCIPASQVIVNNYDKSAGYPFNKFGKARLYYEALSFEEQNEIYAYTKRNVLPTLTQMNLKYAISAKNRARTVAGVSILSTMTGRMFHQKCLKSIAATRGVPVVIGTTKFYGGWDDMLRHLIKDVDNPVLMGWDYPKCDRAMPNILRIVSSLVLARKHEFCCSHGDRFYRLANECAQVLSEIVMCGGCYYVKPGGTSSGDATTAFANSVFNICQAVTANVCSLMACNGHKIEDLSIRNLQKRLYSNVYRTDYVDYTFVNEYYEFLCKHFSMMILSDDGVVCYNSDYASKGYIANISVFQQVLYYQNNVFMSESKCWVENDITNGPHEFCSQHTMLVKIDGDYVYLPYPDPSRILGAGCFVDDLLKTDSVLLIERFVSLAIDAYPLVHHENEEYQKVFRVYLEYIKKLYNDLGTQILDSYSVILSTCDGLKFTDESFYKNMYLKSAVMQSVGACVVCSSQTSLRCGSCIRKPLLCCKCCYDHVMATNHKYVLSVSPYVCNAPNCDVSDVTKLYLGGMSYYCENHKPHYSFKLVMNGMVFGLYKQSCTGSPYIDDFNKIASCKWTEVDDYVLANECIERLKLFAAETQKATEEAFKQSYASATIQEIVSDREIILCWETGKVKPPLNKNYVFTGYHFTSTGKTVLGEYVFDKSELTNGVYYRATTTYKLSIGDVFVLTSHSVANLSAPTLVPQENYASIRFSSVYSVPLLFQTNVANYQHIGMKRYCTVQGPPGTGKSHLAIGLAVYYYTARVVYTAASHAAVDALCEKAYKFLNINDCTRIIPAKVRVDCYDKFKINDTTCKYVFTTINALPELVTDIVVVDEVSMLTNYELSVINARVKAKHYVYIGDPAQLPAPRVLLSKGSLEPRHFNSITKIMCCLGPDIFLGNCYRCPKEIVETVSALVYDNKLKAKNDNSSLCFKVYFKGQTTHESSSAVNIQQIYLISKFLKANPVWNSAVFISPYNSQNYVAKRILGVQTQTVDSAQGSEYDYVIYSQTAETAHSINVNRFNVAITRAKKGIFCVMSNMQLFESLNFITLPLDKIQNQTLSRLHCTTNLFKDCSKNFLGYHPAHAPSFLSVDDKYKVNEDLAVCLNICEPVLTYSRLISLMGFKLDLTLDGYSKFFITKDEAIKRVRGWVGFDVEGAHATRDNIGTNFPLQIGFSTGVDFVVEATGLFAERDCYIFKRTVAKAPPGDNFKHLIPLMSKGQKWDIVRIRIVQMLSDYLLDLSDSVVFITWSASFELTCLRYFAKLGRELNCDVCPNRATCYNSRTGYYGCWRHSYTCDYVYNPLIVDIQQWGYTGSLTSNHDIICNVHKGAHVASSDAIMTRCLAIYDCFCKSVNWNLEYPIISNEVSINTSCRLLQRVMLKAAMLCNRYNLCYDIGNPKGIACVKDYEFKFYDASPVVKSVKQLFYVYDVHKDNFKDGLCMFWNCNVDKYPSNSIVCRFDTRVLNKLNLPGCNGGSLYVNKHAFHTNPFTRTVFENLKPMPFFYYSDTPCVYVDGLESKQVDYVPLRSATCITRCNLGGAVCSKHAEDYCKYLESYNVATTAGFTFWVYKTFDFYNLWNTFTMLQSLENVIYNLVNAGHYDGRIGELPCAIMNDKVVVKINNVDTVIFKNNTSLPTNIAVELFTKRSIRHHPELKILRNLNIDICWKHVLWDYVKDSLFCSSTYGVCKYTDLNFIENLNVLFDGRDNGALEAFRKARNGVFISTGKLSSLSMIKGPQRADLNGVIVDKVGELNVEFWFAMRKDGDDVIFSRADSLSPSHYWSPQGNLGGNCAGNASGNDALARFTIFTQSRVLSTFEPRSDLERDFIDMEDSLFIAKYGLEDYAFDHIVYGSFNYKVIGGLHLLIGLFRRLKKSNLVIQEFLQYDSSIHSYFITDQECGSSKSVCTVIDLLLDDFVVIVKSLNLSCVSKVVNINVDFKDFQFMLWCNDNKIMTFYPKMQATSDWKPGYSMPVLYKYLNVPLERVSLWNYGKAINLPTGCMMNVAKYTQLCQYLNTTTLAVPVNMRVLHLGAGSDKEVAPGSAVLRQWLPSGSILVDNDLNPFVSDSLVTYFGDCMTLPFDCHWDLIISDMYDPLTKNIGDYNVSKDGFFTYICYLIRDKLSLGGSVAIKITEFSWNADLYKLMSYFAFWTVFCTNVNASSSEGFLIGINYLGKSCFEIDGNVMHANYLFWRNSTTWNGGAYSLFDMSKFSLKLAGTAVVNLRPDQLNDLVYSLIERGKLLVRDTRKEIFVGDSLVNTC*",
+    "HCHV1gp2": "MLIIFLFFNFCYGFNEPLNVVSHLNHDWFLFGDSRSDCNHINNLKIKNFDYLDIHPSLCNNGKISSSAGDSIFKSYHFTRFYNYTGEGDQIIFYEGVNFNPHHRFKCFFNGSNDVWIFNKVRFYRALYSNMALFRYLTFVDILYNFSFSKANICKSDILSLNNPISTNYSKDVYFTLSGCSLYLVPLCLFKSNFSQYYYNMDTGFAYGYSNFVSSDLDCTYISLKPGSYKIFSTGFVLSIPTKALCFNKSKQFVPVQVVDSRWNNLRASDTSLSDACQLPYCYFRNSSGNYVGKYDINHGDNGFTSILSGLLYNVSCISYYGSFLYDNFTSIWPRFSFGNCPTSAYIKLNICVYDFLPIILQGILLCLALLFVVFLLFLLYNDKSH*",
+    "HCHV1gp3": "MLLIIFILPTTLAVIGDFNCTNSFINDYNKTIPRISEDVVDVSLGLGTYYVLNRVYLNTTLLFTGYFPKSGANFRDLALKGSTYLSTLWYKPPFLSDFNNGIFSKVKNTKLYVNNTLYSEFSTIVIGSVFVNTSYTIVVQPHNGILEITACQYTMCEYPHTVCKSKGSIRNESWHIDSSEPLCLFKKNFTYNVSADWLYFHFYQERGVFYAYYADVGMPTTFLFSLYLGTILSHYYVMPLTCNAISSNTDNETLEYWVTPLSRRQYLLNFDEHGVITNAVDCSSSFLSEIQCKTQSFAPNTGVYDLSGFTVKPVATVYRRIPNLPDCDIDNWLNNVSVPSPLNWERRIFSNCNFNLSTLLRLVHVDSFSCNNLDKSKIFGSCFNSITVDKFAIPNRRRDDLQLGSSGFLQSSNYKIDTTSSSCQLYYSLPAINVTINNYNPSSWNRRYGFNNFNLSSHSVVYSRYCFSVNNTFCPCAKPSFASSCKSHKPPSASCPIGTKYRHCEDSTTLYVNNWCRCSCLPDPISTYSPNTCPQKKVVVGIGEHCPGLGINEEKCGTLDELNHSSCSCSPDAFLGWSFDSCISNNRCNIFSNFIFNGINSGTTCSNDLLYSNTEVSTGVCVNYDLYGITGQGIFKEVSAAYYNNWQNLLYDSNGNIIGFKDFLTNKTYTILPCYSGRVSAAFYQNSSSPALLYRNLKCSYVLNNISFISQPYFDSYLGCVLNAVNLTSYSVSSCDLRMGSGFCIDYALPSSSSSRRKRRGISSPYRFVTFEPFNVSFVNDSVETVGGLFEIQIPTNFTIAGHEEFIQTSSPKVTIDCSAFVCSNYAACHDLLSEYGTFCDNINSILNEVNDLLDITQLQVANALMQGVTLSSNLNTNLHSDVDNIDFKSLLGCLGSQCGSSSRSLLEDLLFNKVKLSDVGFVEAYNNCTGGSEIRDLLCVQSFNGIKVLPPILSETQISGYTTAATVAAMFPPWSAAAGVPFSLNVQYRINGLGVTMDVLNKNQKLIANAFNKALLSIQNGFTATNSALAKIQSVVNANAQALNSLLQQLFNKFGAISSSLQEILSRLDNLEAQVQIDRLINGRLTALNAYVSQQLSDITLIKAGASRAIEKVNECVKSQSPRINFCGNGNHILSLVQNAPYGLLFIHFSYKPTSFKTVLVSPGLCLSGDIGIAPKQGYFIKQNDSWMFTGSSYYYPEPISDKNVVFMNSCSVNFTKAPFIYLNNSIPNLSDFEAEFSLWFKNHTSIAPNLTFNSHTINATFLDLYYEMNVIQESIKSLNSSFINLKEIGTYEMYVKWPWYIWLLIVISFIIFLMILFFICCCTGCGSACFSKCHNCCDEYGGHNDFVIKASHDD*",
+    "HCHV1gp4": "MEVWRPSYKYSLITREFGVTDLEDLCFKYNYCQPCVGYCIVPLNVWCRKFGKFASYFVLRSHDTSHKNNFGVITSFTSYGNTVSEAVSKLVESASDFIAWRAEALNKYG*",
+    "HCHV1gp5": "MVDVFFTDTAWYVGQIFFLVLSCVIFLIFVVALLATIKLCIQICGFCNIFIISPSAYVYNRGRQLYKSYSEHVIPSTLDDLI*",
+    "HCHV1gp6": "MNESIFPHWNSDQAITFLKEWNFSLGVILLLITIILQFGYTSRSMFVYLIKMIILWLMWPLTIILTIFNCFYALNNIFLGLSILFTIISIVIWILYFVNSIRLFIRTGSWWSFNPETNNLMCIDMKGKMYVRPVIEDYHTLTATVIRGHLYIQGVKLGTGYTLADLPVYVTVAKVQVLCTYKRAFLDKLDVNSGFAVFVKSKVGNYRLPSSKSSGMDTALLRA*",
+    "HCHV1gp7": "MSYTPGHHAGSRSSSGNRSGILKKTSWVDQSERSHQTYNRGRKPQPKFTVSTQPQGNPIPHYSWFSGITQFQKGRDFKFPDGQGVPIAYGIPPSEAKGYWYKHNRRSFKTADGQQKQLLPRWYFYYLGTGPYASSSYGEAHEGIFWVASHQADTSIPSDVSARDPTIQEAIPTRFSPGTILPQGYYVEGSGRSASNSRPGSRSQSRGPNNRSLSRSNSNFRHSDSIVKPDMADEIASLVLAKLGKDSKPQQVTKQNAKEIRHKILMKPRQKRTPNKFCNVQQCFGKRGPLQNFGNSEMLKLGTNDPQFPILAELAPTPGAFFFGSKLELFKRDSDADSPSKDTFELRYSGSIRFDSTLPGFETIMKVLKENLDAYVNSNQNTVSGSLSPKPQRKRGVKQSPESFDSLNLSADTQHISNDFTPEDHSLLATLDDPYVEDSVA*",
+    "HCHV1gp8": "MLEVEAPLEIVQESSRKLLGLTNLSEAIKPIIEAENPNPNSLCLLNHKETLSHIIPGSLGLPNFKKVETLNFQMVKEYPLLTGYPLLKQKDIGINTTGVLLKQLMVNKSSCYQDGISTISVPVHMPVHPMVKPTKVSSGSLVTKLTLLFPPMFRQGILLFKKLSLLGFRLVRFCLKAIMLKAQEGLLLIAGQVHVLNHVDPIIVH*"
+  }
+}

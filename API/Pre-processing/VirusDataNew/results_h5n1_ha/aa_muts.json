@@ -1,0 +1,155 @@
+{
+  "annotations": {
+    "HA": {
+      "end": 1728,
+      "seqid": "config/h5n1_ha_reference.gb",
+      "start": 22,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1760,
+      "seqid": "config/h5n1_ha_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "A/chicken/Vietnam/NCVD14_A459/2014": {
+      "aa_muts": {
+        "HA": [
+          "L13I",
+          "S157P",
+          "N291S"
+        ]
+      }
+    },
+    "A/chicken/Vietnam/NCVD_KA423/2013": {
+      "aa_muts": {
+        "HA": [
+          "I11V",
+          "V14A",
+          "N88D",
+          "A99T",
+          "N110S",
+          "S139P",
+          "D140G",
+          "I167L",
+          "N171D",
+          "T175I",
+          "K177T",
+          "Q185K",
+          "I190V",
+          "T204I",
+          "Q208K",
+          "I214V",
+          "V226I",
+          "K228R",
+          "K234R",
+          "I235V",
+          "S239R",
+          "H256N",
+          "N291S",
+          "I298M",
+          "R339I",
+          "K341R",
+          "I529T",
+          "M549V"
+        ]
+      }
+    },
+    "A/duck/Bangladesh/34752/2018": {
+      "aa_muts": {
+        "HA": [
+          "T10A",
+          "I11T",
+          "E30K",
+          "D104G",
+          "N110T",
+          "I132V",
+          "K135R",
+          "S152P",
+          "N156K",
+          "A172T",
+          "V273I",
+          "K275Q",
+          "R282K",
+          "K462R",
+          "N492D",
+          "A512S"
+        ]
+      }
+    },
+    "A/duck/Egypt/17EG_BS1/2017": {
+      "aa_muts": {
+        "HA": [
+          "R282K",
+          "V285L",
+          "G288S",
+          "R293K",
+          "K323R",
+          "K326R",
+          "R339G",
+          "R344K"
+        ]
+      }
+    },
+    "A/duck/Vietnam/NCVD_2745/2013": {
+      "aa_muts": {
+        "HA": [
+          "A99T"
+        ]
+      }
+    },
+    "A/muscovy_duck/Vietnam/LBM335/2013": {
+      "aa_muts": {
+        "HA": [
+          "K135R"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "HA": [
+          "M82L",
+          "I87T",
+          "R131Q",
+          "S179G",
+          "Q185R",
+          "R473K"
+        ]
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "HA": [
+          "D491N"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "HA": "MEKIVLLFATISLVKSDHICIGYHANNSTEQVDTIMEKNVTVTHAQDILEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFINVPEWSYIVEKANPANDLCYPGNFNDYEELKHLLSRINHFEKIRIIPKDSWSDHEASLGVSAACSYQGNSSFFRNVVWLIKKDNAYPTIKKSYNNTNQEDLLILWGIHHPNDEAEQTRLYQNPTTYISIGTSTLNQRLVPKIATRSKINGQSGRIDFFWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMRSEVEYGNCNTRCQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPQREKRRRKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVTNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYSEEARLKREEISGVKLESIGIYQILSIYSTVASSLVLAIMMAGLSLWMCSNGSLQCRICI*"
+      }
+    }
+  },
+  "reference": {
+    "HA": "MEKIVLLFATISLVKSDHICIGYHANNSTEQVDTIMEKNVTVTHAQDILEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFINVPEWSYIVEKANPANDLCYPGNFNDYEELKHLLSRINHFEKIRIIPKDSWSDHEASLGVSAACSYQGNSSFFRNVVWLIKKDNAYPTIKKSYNNTNQEDLLILWGIHHPNDEAEQTRLYQNPTTYISIGTSTLNQRLVPKIATRSKINGQSGRIDFFWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMRSEVEYGNCNTRCQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPQREKRRRKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVTNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYSEEARLKREEISGVKLESIGIYQILSIYSTVASSLVLAIMMAGLSLWMCSNGSLQCRICI*"
+  }
+}

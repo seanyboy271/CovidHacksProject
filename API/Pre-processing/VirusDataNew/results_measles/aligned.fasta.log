@@ -1,0 +1,54 @@
+inputfile = orig
+11 x 15894 - 15678 d
+nthread = 6
+nthreadpair = 6
+nthreadtb = 6
+ppenalty_ex = 0
+stacksize: 8192 kb
+generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 1 ambiguous characters.
+    1 / 11 (thread    0)
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 11
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 10 (thread    0) fSTEP     2 / 10 (thread    5) fSTEP     3 / 10 (thread    2) fSTEP     7 / 10 (thread    5) fSTEP     5 / 10 (thread    3) fSTEP     4 / 10 (thread    1) fSTEP     8 / 10 (thread    0) fSTEP     6 / 10 (thread    4) fSTEP     9 / 10 (thread    2) fSTEP    10 / 10 (thread    5) f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 11 (thread    0)
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 11
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 10 (thread    3) fSTEP     2 / 10 (thread    1)STEP     3 / 10 (thread    4) f fSTEP     7 / 10 (thread    3) fSTEP     5 / 10 (thread    2) fSTEP     4 / 10 (thread    0) fSTEP     6 / 10 (thread    5) fSTEP     8 / 10 (thread    1) fSTEP     9 / 10 (thread    4) fSTEP    10 / 10 (thread    3) f
+done.
+
+disttbfast (nuc) Version 7.453
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+6 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+

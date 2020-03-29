@@ -12,13 +12,13 @@ class Header extends Component {
                 <Navbar bg="transparent" expand="lg" style={{ height: '100%' }}>
                     <Navbar.Brand href="#home" >
                         <div className='headerLogo'>
-                            <img
+                            {/* <img
                                 alt=""
                                 src={covid}
                                 width="60"
                                 height="60"
                                 className="d-inline-block align-top imgSpacing"
-                            />
+                            /> */}
                             <div className = 'headerLogoText'>
                                 Insert Name of website here
                             </div>

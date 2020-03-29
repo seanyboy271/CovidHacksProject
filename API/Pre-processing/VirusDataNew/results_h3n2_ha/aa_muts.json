@@ -1,0 +1,147 @@
+{
+  "annotations": {
+    "HA1": {
+      "end": 1035,
+      "seqid": "config/h3n2_ha_reference.gb",
+      "start": 49,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "HA2": {
+      "end": 1698,
+      "seqid": "config/h3n2_ha_reference.gb",
+      "start": 1036,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "SigPep": {
+      "end": 48,
+      "seqid": "config/h3n2_ha_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1701,
+      "seqid": "config/h3n2_ha_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "A/CzechRepublic/119/2012": {
+      "aa_muts": {
+        "HA1": [],
+        "HA2": [
+          "D158N"
+        ],
+        "SigPep": []
+      }
+    },
+    "A/Delhi/1720/2013": {
+      "aa_muts": {
+        "HA1": [],
+        "HA2": [],
+        "SigPep": []
+      }
+    },
+    "A/Helsinki/942/2013": {
+      "aa_muts": {
+        "HA1": [
+          "L3I",
+          "I25L",
+          "S137Y",
+          "I140K",
+          "R142S",
+          "N144I",
+          "S145K",
+          "T155H",
+          "H156Q",
+          "N158K",
+          "F159Y",
+          "I192T",
+          "F193S",
+          "L194I",
+          "N225D"
+        ],
+        "HA2": [
+          "D160N"
+        ],
+        "SigPep": []
+      }
+    },
+    "A/SaudiArabia/6/2014": {
+      "aa_muts": {
+        "HA1": [
+          "Y94H",
+          "A138S",
+          "F159S",
+          "N225D"
+        ],
+        "HA2": [],
+        "SigPep": []
+      }
+    },
+    "A/Tehran/1219/2012": {
+      "aa_muts": {
+        "HA1": [
+          "D53N",
+          "N81K",
+          "R142K",
+          "S198A"
+        ],
+        "HA2": [
+          "E97Q"
+        ],
+        "SigPep": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "HA1": [
+          "Q33R",
+          "T128A",
+          "R142G"
+        ],
+        "HA2": [],
+        "SigPep": []
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "HA1": [],
+        "HA2": [],
+        "SigPep": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "HA1": [
+          "N45S",
+          "I48T",
+          "K278N"
+        ],
+        "HA2": [],
+        "SigPep": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "HA1": "QKLPGNDNSTATLCLGHHAVPNGTIVKTITNDQIEVTNATELVQNSSIGEICDSPHQILDGENCTLIDALLGDPQCDGFQNKKWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFNNESFNWTGVTQNGTSSACIRRSNSSFFSRLNWLTHLNFKYPALNVTMPNNEQFDKLYIWGVHHPGTDKDQIFLYAQSSGRITVSTKRSQQAVIPNIGSRPRIRNIPSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPIGKCKSECITPNGSIPNDKPFQNVNRITYGACPRYVKQSTLKLATGMRNVPEKQTR",
+        "HA2": "GIFGAIAGFIENGWEGMVDGWYGFRHQNSEGRGQAADLKSTQAAIDQINGKLNRLIGKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTKKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVALLGFIMWACQKGNIRCNICI",
+        "SigPep": "MKTIIALSYILCLVFA"
+      }
+    }
+  },
+  "reference": {
+    "HA1": "QKLPGNDNSTATLCLGHHAVPNGTIVKTITNDQIEVTNATELVQNSSIGEICDSPHQILDGENCTLIDALLGDPQCDGFQNKKWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFNNESFNWTGVTQNGTSSACIRRSNSSFFSRLNWLTHLNFKYPALNVTMPNNEQFDKLYIWGVHHPGTDKDQIFLYAQSSGRITVSTKRSQQAVIPNIGSRPRIRNIPSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPIGKCKSECITPNGSIPNDKPFQNVNRITYGACPRYVKQSTLKLATGMRNVPEKQTR",
+    "HA2": "GIFGAIAGFIENGWEGMVDGWYGFRHQNSEGRGQAADLKSTQAAIDQINGKLNRLIGKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTKKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVALLGFIMWACQKGNIRCNICI",
+    "SigPep": "MKTIIALSYILCLVFA"
+  }
+}

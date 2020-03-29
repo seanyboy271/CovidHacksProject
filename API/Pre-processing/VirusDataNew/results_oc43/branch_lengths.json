@@ -1,0 +1,4260 @@
+{
+  "alignment": "results_oc43/aligned.fasta",
+  "clock": {
+    "intercept": -0.12763677341777327,
+    "rate": 0.0001802036348445855,
+    "rtt_Tmrca": 708.2918917137943
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "input_tree": "results_oc43/tree_raw.nwk",
+  "nodes": {
+    "HCoV_OC43/FRA_EPI/Caen/2012/14": {
+      "branch_length": 0.00024718890998424786,
+      "clock_length": 0.00024718890998424786,
+      "date": "2012-03-30",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2012.2445355191257,
+        2012.2445355191257
+      ],
+      "numdate": 2012.2445355191257,
+      "raw_date": "2012-03-30"
+    },
+    "HCoV_OC43/FRA_EPI/Caen/2013/15": {
+      "branch_length": 0.00042109506246281966,
+      "clock_length": 0.00042109506246281966,
+      "date": "2013-03-18",
+      "mutation_length": 0.00098314,
+      "num_date_confidence": [
+        2013.2095890410958,
+        2013.2095890410958
+      ],
+      "numdate": 2013.2095890410958,
+      "raw_date": "2013-03-18"
+    },
+    "HCoV_OC43/Seattle/USA/SC0682/2019": {
+      "branch_length": 0.0002947127461139804,
+      "clock_length": 0.0002947127461139804,
+      "date": "2019-01-01",
+      "mutation_length": 0.0002318,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.678800360325
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC0776/2019": {
+      "branch_length": 0.0004673880105770097,
+      "clock_length": 0.0004673880105770097,
+      "date": "2019-12-31",
+      "mutation_length": 0.0004349,
+      "num_date_confidence": [
+        2019.1692895033593,
+        2019.9986301369863
+      ],
+      "numdate": 2019.9986301369863,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC0810/2019": {
+      "branch_length": 0.0002947127461139804,
+      "clock_length": 0.0002947127461139804,
+      "date": "2019-01-01",
+      "mutation_length": 0.00019755,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.6320338809876
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC0839/2019": {
+      "branch_length": 0.00029731146291257934,
+      "clock_length": 0.00029731146291257934,
+      "date": "2019-01-01",
+      "mutation_length": 0.00026324,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.7771167056767
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC0841/2019": {
+      "branch_length": 0.0024649777118284856,
+      "clock_length": 0.0024649777118284856,
+      "date": "2019-01-01",
+      "mutation_length": 0.00211811,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.8450318119524
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2269/2016": {
+      "branch_length": 0.00036734070398096615,
+      "clock_length": 0.00036734070398096615,
+      "date": "2016-01-01",
+      "mutation_length": 0.00036266,
+      "num_date_confidence": [
+        2016.0013661202186,
+        2016.8107367248854
+      ],
+      "numdate": 2016.0013661202186,
+      "raw_date": "2016-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2345/2015": {
+      "branch_length": 0.0002292191806941516,
+      "clock_length": 0.0002292191806941516,
+      "date": "2015-01-01",
+      "mutation_length": 0.00013196,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.5936646691803
+      ],
+      "numdate": 2015.0013698630137,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2476/2015": {
+      "branch_length": 9.4340048192431e-05,
+      "clock_length": 9.4340048192431e-05,
+      "date": "2015-12-31",
+      "mutation_length": 0.00024418,
+      "num_date_confidence": [
+        2015.7782285419921,
+        2015.9986301369863
+      ],
+      "numdate": 2015.9986301369863,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2481/2015": {
+      "branch_length": 0.00019744167004489492,
+      "clock_length": 0.00019744167004489492,
+      "date": "2015-01-22",
+      "mutation_length": 0.0002307,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.9986301369863
+      ],
+      "numdate": 2015.058549211544,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2730/2015": {
+      "branch_length": 0.0003682753174345059,
+      "clock_length": 0.0003682753174345059,
+      "date": "2015-10-10",
+      "mutation_length": 0.00039575,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.9986301369863
+      ],
+      "numdate": 2015.7730309721821,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2770/2015": {
+      "branch_length": 0.00040745341617194814,
+      "clock_length": 0.00040745341617194814,
+      "date": "2015-01-13",
+      "mutation_length": 0.00039551,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.9986301369863
+      ],
+      "numdate": 2015.034725870767,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2854/2015": {
+      "branch_length": 0.0002603867101542566,
+      "clock_length": 0.0002603867101542566,
+      "date": "2015-03-05",
+      "mutation_length": 0.00029486,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.9986301369863
+      ],
+      "numdate": 2015.174327137083,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC2924/2015": {
+      "branch_length": 0.001299866989673303,
+      "clock_length": 0.001299866989673303,
+      "date": "2015-01-01",
+      "mutation_length": 0.00087197,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.7276019103372
+      ],
+      "numdate": 2015.0013698630137,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC3118/2015": {
+      "branch_length": 0.00011208758316382395,
+      "clock_length": 0.00011208758316382395,
+      "date": "2015-12-31",
+      "mutation_length": 0.00019848,
+      "num_date_confidence": [
+        2015.7043118784168,
+        2015.9986301369863
+      ],
+      "numdate": 2015.9986301369863,
+      "raw_date": "2015-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC622/2016": {
+      "branch_length": 0.0003267747087983534,
+      "clock_length": 0.0003267747087983534,
+      "date": "2016-01-01",
+      "mutation_length": 0.00029241,
+      "num_date_confidence": [
+        2016.0013661202186,
+        2016.9453894080682
+      ],
+      "numdate": 2016.0013661202186,
+      "raw_date": "2016-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC831/2016": {
+      "branch_length": 0.00011258061728714776,
+      "clock_length": 0.00011258061728714776,
+      "date": "2016-01-01",
+      "mutation_length": 9.908e-05,
+      "num_date_confidence": [
+        2016.0013661202186,
+        2016.6436715940117
+      ],
+      "numdate": 2016.0013661202186,
+      "raw_date": "2016-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC9428/2018": {
+      "branch_length": 0.0025685251776112602,
+      "clock_length": 0.0025685251776112602,
+      "date": "2019-01-01",
+      "mutation_length": 0.00137491,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.704545743907
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC9430/2018": {
+      "branch_length": 0.00039680064968130566,
+      "clock_length": 0.00039680064968130566,
+      "date": "2019-08-10",
+      "mutation_length": 0.00036219,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.9986301369863
+      ],
+      "numdate": 2019.6069212740847,
+      "raw_date": "2019-XX-XX"
+    },
+    "HCoV_OC43/Seattle/USA/SC9741/2016": {
+      "branch_length": 0.00011408627562870357,
+      "clock_length": 0.00011408627562870357,
+      "date": "2016-12-31",
+      "mutation_length": 0.00016445,
+      "num_date_confidence": [
+        2016.6730229282934,
+        2016.9986338797814
+      ],
+      "numdate": 2016.9986338797814,
+      "raw_date": "2016-XX-XX"
+    },
+    "HCoV_OC43/USA/ACRI_0052/2016": {
+      "branch_length": 0.0002921928304555787,
+      "clock_length": 0.0002921928304555787,
+      "date": "2016-03-07",
+      "mutation_length": 0.000497,
+      "num_date_confidence": [
+        2016.181693989071,
+        2016.181693989071
+      ],
+      "numdate": 2016.181693989071,
+      "raw_date": "2016-03-07"
+    },
+    "HCoV_OC43/USA/ACRI_0213/2016": {
+      "branch_length": 0.00013104149910767406,
+      "clock_length": 0.00013104149910767406,
+      "date": "2016-12-19",
+      "mutation_length": 0.00012897,
+      "num_date_confidence": [
+        2016.9658469945355,
+        2016.9658469945355
+      ],
+      "numdate": 2016.9658469945355,
+      "raw_date": "2016-12-19"
+    },
+    "HCoV_OC43/USA/TCNP_00204/2017": {
+      "branch_length": 0.0002682881380130875,
+      "clock_length": 0.0002682881380130875,
+      "date": "2017-01-03",
+      "mutation_length": 0.00026084,
+      "num_date_confidence": [
+        2017.0068493150684,
+        2017.0068493150684
+      ],
+      "numdate": 2017.0068493150684,
+      "raw_date": "2017-01-03"
+    },
+    "HCoV_OC43/USA/TCNP_00212/2017": {
+      "branch_length": 0.00012247864716988016,
+      "clock_length": 0.00012247864716988016,
+      "date": "2017-01-17",
+      "mutation_length": 0.00029776,
+      "num_date_confidence": [
+        2017.045205479452,
+        2017.045205479452
+      ],
+      "numdate": 2017.045205479452,
+      "raw_date": "2017-01-17"
+    },
+    "HCoV_OC43/USA/TCNP_0070/2016": {
+      "branch_length": 0.0019491495870234952,
+      "clock_length": 0.0019491495870234952,
+      "date": "2016-02-01",
+      "mutation_length": 0.00108667,
+      "num_date_confidence": [
+        2016.0860655737704,
+        2016.0860655737704
+      ],
+      "numdate": 2016.0860655737704,
+      "raw_date": "2016-02-01"
+    },
+    "HCoV_OC43/Yamagata.JPN/02.15_0083": {
+      "branch_length": 8.095864912427875e-06,
+      "clock_length": 8.095864912427875e-06,
+      "date": "2015-01-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.016463945925,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.15_0087": {
+      "branch_length": 7.431136630191987e-06,
+      "clock_length": 7.431136630191987e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0424578626576,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.2014_0174": {
+      "branch_length": 1.4838187404326957e-05,
+      "clock_length": 1.4838187404326957e-05,
+      "date": "2014-01-31",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0101502699654,
+        2014.0835616438355
+      ],
+      "numdate": 2014.0835616438355,
+      "raw_date": "2014-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.2015_0088": {
+      "branch_length": 6.9796193941127705e-06,
+      "clock_length": 6.9796193941127705e-06,
+      "date": "2015-01-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.039952268159,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.2015_0128": {
+      "branch_length": 1.2230364871891174e-05,
+      "clock_length": 1.2230364871891174e-05,
+      "date": "2015-01-25",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.066552858779,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.2015_0130": {
+      "branch_length": 1.4838187404326848e-05,
+      "clock_length": 1.4838187404326848e-05,
+      "date": "2015-01-31",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.006879707035,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/03.2015_0134": {
+      "branch_length": 1.2230364871891174e-05,
+      "clock_length": 1.2230364871891174e-05,
+      "date": "2015-01-25",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.066552858779,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.15_0214": {
+      "branch_length": 1.4838187404326848e-05,
+      "clock_length": 1.4838187404326848e-05,
+      "date": "2015-01-31",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.002474239632,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2012_0168": {
+      "branch_length": 1.3490640421877538e-05,
+      "clock_length": 1.3490640421877538e-05,
+      "date": "2012-01-26",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2012.0013661202186,
+        2012.0833333333333
+      ],
+      "numdate": 2012.070725577503,
+      "raw_date": "2012-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2013_0289": {
+      "branch_length": 0.00019154675404488373,
+      "clock_length": 0.00019154675404488373,
+      "date": "2013-01-31",
+      "mutation_length": 0.00043684,
+      "num_date_confidence": [
+        2013.0095890410958,
+        2013.0835616438355
+      ],
+      "numdate": 2013.0835616438355,
+      "raw_date": "2013-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2014_0225": {
+      "branch_length": 5.5332946065302004e-06,
+      "clock_length": 5.5332946065302004e-06,
+      "date": "2014-01-12",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0013698630137,
+        2014.0835616438355
+      ],
+      "numdate": 2014.0319262103671,
+      "raw_date": "2014-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0144": {
+      "branch_length": 1.529540976336909e-05,
+      "clock_length": 1.529540976336909e-05,
+      "date": "2015-01-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0109229543934,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0147": {
+      "branch_length": 7.431136630191987e-06,
+      "clock_length": 7.431136630191987e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0424578626576,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0151": {
+      "branch_length": 0.0007683666963721242,
+      "clock_length": 0.0007683666963721242,
+      "date": "2015-01-31",
+      "mutation_length": 0.00131481,
+      "num_date_confidence": [
+        2015.0107819452976,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0155": {
+      "branch_length": 7.431136630191987e-06,
+      "clock_length": 7.431136630191987e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0424578626576,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0159": {
+      "branch_length": 0.00016471767191118597,
+      "clock_length": 0.00016471767191118597,
+      "date": "2015-01-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0733559806506
+      ],
+      "numdate": 2015.0013698630137,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/04.2015_0209": {
+      "branch_length": 7.2830085317316e-06,
+      "clock_length": 7.2830085317316e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.041635858714,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.15_0248": {
+      "branch_length": 7.2830085317316e-06,
+      "clock_length": 7.2830085317316e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.041635858714,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2012_0279": {
+      "branch_length": 1.6254963507737405e-05,
+      "clock_length": 1.6254963507737405e-05,
+      "date": "2012-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2012.0860655737704,
+        2012.151370402275
+      ],
+      "numdate": 2012.0860655737704,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2012_0283": {
+      "branch_length": 0.000787739729460819,
+      "clock_length": 0.000787739729460819,
+      "date": "2012-02-01",
+      "mutation_length": 0.0004332,
+      "num_date_confidence": [
+        2012.0860655737704,
+        2012.1523992544471
+      ],
+      "numdate": 2012.0860655737704,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2013_0300": {
+      "branch_length": 7.6217733316103105e-06,
+      "clock_length": 7.6217733316103105e-06,
+      "date": "2013-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.0013698630137,
+        2013.0752834081823
+      ],
+      "numdate": 2013.0013698630137,
+      "raw_date": "2013-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2014_0285": {
+      "branch_length": 5.5332946065302004e-06,
+      "clock_length": 5.5332946065302004e-06,
+      "date": "2014-01-12",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0013698630137,
+        2014.0835616438355
+      ],
+      "numdate": 2014.0319262103671,
+      "raw_date": "2014-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0228": {
+      "branch_length": 6.9796193941127705e-06,
+      "clock_length": 6.9796193941127705e-06,
+      "date": "2015-01-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.039952268159,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0230": {
+      "branch_length": 1.601769859260803e-05,
+      "clock_length": 1.601769859260803e-05,
+      "date": "2015-01-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0013698630137,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0235": {
+      "branch_length": 1.529540976336909e-05,
+      "clock_length": 1.529540976336909e-05,
+      "date": "2015-01-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0111924175958,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0236": {
+      "branch_length": 1.529540976336909e-05,
+      "clock_length": 1.529540976336909e-05,
+      "date": "2015-01-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0111163518673,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0835616438355,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0287": {
+      "branch_length": 1.8402651567493364e-05,
+      "clock_length": 1.8402651567493364e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0013698630137,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2015_0288": {
+      "branch_length": 7.431136630191987e-06,
+      "clock_length": 7.431136630191987e-06,
+      "date": "2015-01-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0013698630137,
+        2015.0835616438355
+      ],
+      "numdate": 2015.0424578626576,
+      "raw_date": "2015-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2017_0193": {
+      "branch_length": 4.705632160734272e-06,
+      "clock_length": 4.705632160734272e-06,
+      "date": "2017-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0013698630137,
+        2017.0785659833355
+      ],
+      "numdate": 2017.0013698630137,
+      "raw_date": "2017-01-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/05.2017_0247": {
+      "branch_length": 0.0007904849101597261,
+      "clock_length": 0.0007904849101597261,
+      "date": "2017-02-28",
+      "mutation_length": 0.00087238,
+      "num_date_confidence": [
+        2017.0936986301372,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1602739726027,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.15_0350": {
+      "branch_length": 7.0214214190126006e-06,
+      "clock_length": 7.0214214190126006e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1262695875494,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2012_0291": {
+      "branch_length": 0.0008010334402280492,
+      "clock_length": 0.0008010334402280492,
+      "date": "2012-02-28",
+      "mutation_length": 0.00262745,
+      "num_date_confidence": [
+        2012.0934426229508,
+        2012.1598360655737
+      ],
+      "numdate": 2012.1598360655737,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2012_0369": {
+      "branch_length": 0.0013402330575254529,
+      "clock_length": 0.0013402330575254529,
+      "date": "2012-02-01",
+      "mutation_length": 0.00144853,
+      "num_date_confidence": [
+        2012.0860655737704,
+        2012.1524590163933
+      ],
+      "numdate": 2012.0860655737704,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2012_0371": {
+      "branch_length": 0.002177053652789545,
+      "clock_length": 0.002177053652789545,
+      "date": "2012-02-01",
+      "mutation_length": 0.00217031,
+      "num_date_confidence": [
+        2012.0860655737704,
+        2012.1524590163933
+      ],
+      "numdate": 2012.0860655737704,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2013_0348": {
+      "branch_length": 6.063060409613455e-06,
+      "clock_length": 6.063060409613455e-06,
+      "date": "2013-02-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.0863013698631,
+        2013.1602739726027
+      ],
+      "numdate": 2013.1124341562609,
+      "raw_date": "2013-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2013_0375": {
+      "branch_length": 7.1503095750466254e-06,
+      "clock_length": 7.1503095750466254e-06,
+      "date": "2013-02-13",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2013.0863013698631,
+        2013.1602739726027
+      ],
+      "numdate": 2013.1184676037346,
+      "raw_date": "2013-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2013_0378": {
+      "branch_length": 1.3719142126506672e-05,
+      "clock_length": 1.3719142126506672e-05,
+      "date": "2013-02-28",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2013.0944080486977,
+        2013.1602739726027
+      ],
+      "numdate": 2013.1602739726027,
+      "raw_date": "2013-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0296": {
+      "branch_length": 2.669921427944427e-06,
+      "clock_length": 2.669921427944427e-06,
+      "date": "2014-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.152097428705
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0297": {
+      "branch_length": 1.3149135206281127e-05,
+      "clock_length": 1.3149135206281127e-05,
+      "date": "2014-02-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1602739726027,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0370": {
+      "branch_length": 1.4163453551769905e-05,
+      "clock_length": 1.4163453551769905e-05,
+      "date": "2014-02-28",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.094732173808,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1602739726027,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0371": {
+      "branch_length": 2.669921427944427e-06,
+      "clock_length": 2.669921427944427e-06,
+      "date": "2014-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.152097428705
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0375": {
+      "branch_length": 9.52539963772355e-06,
+      "clock_length": 9.52539963772355e-06,
+      "date": "2014-02-21",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1401648578687,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2014_0378": {
+      "branch_length": 4.899790121001444e-06,
+      "clock_length": 4.899790121001444e-06,
+      "date": "2014-02-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1144960664444,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0291": {
+      "branch_length": 1.5789118352018175e-05,
+      "clock_length": 1.5789118352018175e-05,
+      "date": "2015-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1515882285448
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0294": {
+      "branch_length": 7.0214214190126006e-06,
+      "clock_length": 7.0214214190126006e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1262695875494,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0297": {
+      "branch_length": 8.589573501076959e-06,
+      "clock_length": 8.589573501076959e-06,
+      "date": "2015-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1516508436214
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0300": {
+      "branch_length": 3.1563850920182375e-05,
+      "clock_length": 3.1563850920182375e-05,
+      "date": "2015-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1514976415701
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0301": {
+      "branch_length": 7.0214214190126006e-06,
+      "clock_length": 7.0214214190126006e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1262695875494,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0303": {
+      "branch_length": 6.438263043009786e-06,
+      "clock_length": 6.438263043009786e-06,
+      "date": "2015-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1230334798177,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2015_0359": {
+      "branch_length": 7.040448485611103e-06,
+      "clock_length": 7.040448485611103e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1263751740244,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2017_0266": {
+      "branch_length": 1.8603482179814046e-05,
+      "clock_length": 1.8603482179814046e-05,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1513411355932
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/06.2017_0300": {
+      "branch_length": 0.0007904849101597261,
+      "clock_length": 0.0007904849101597261,
+      "date": "2017-02-28",
+      "mutation_length": 0.00130929,
+      "num_date_confidence": [
+        2017.0939787841205,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1602739726027,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2013_0380": {
+      "branch_length": 0.0004118882492126024,
+      "clock_length": 0.0004118882492126024,
+      "date": "2013-02-28",
+      "mutation_length": 0.00043654,
+      "num_date_confidence": [
+        2013.0936986301372,
+        2013.1602739726027
+      ],
+      "numdate": 2013.1602739726027,
+      "raw_date": "2013-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2014_0380": {
+      "branch_length": 0.0008255483403992459,
+      "clock_length": 0.0008255483403992459,
+      "date": "2014-02-01",
+      "mutation_length": 0.00043453,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1528767123286
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2014_0446": {
+      "branch_length": 1.1456012364432794e-05,
+      "clock_length": 1.1456012364432794e-05,
+      "date": "2014-02-25",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1508783638888,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0361": {
+      "branch_length": 1.5331895992975932e-05,
+      "clock_length": 1.5331895992975932e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.151512873288
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0368": {
+      "branch_length": 0.0011002001267501858,
+      "clock_length": 0.0011002001267501858,
+      "date": "2015-02-01",
+      "mutation_length": 0.00043664,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1528767123286
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0369": {
+      "branch_length": 0.00032180790502844294,
+      "clock_length": 0.00032180790502844294,
+      "date": "2015-02-28",
+      "mutation_length": 0.0004367,
+      "num_date_confidence": [
+        2015.093964345747,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1602739726027,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0373": {
+      "branch_length": 7.040448485611103e-06,
+      "clock_length": 7.040448485611103e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1263751740244,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0416": {
+      "branch_length": 7.0214214190126006e-06,
+      "clock_length": 7.0214214190126006e-06,
+      "date": "2015-02-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1262695875494,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0418": {
+      "branch_length": 1.3149135206281127e-05,
+      "clock_length": 1.3149135206281127e-05,
+      "date": "2015-02-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.090384163356,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1602739726027,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0424": {
+      "branch_length": 6.971142568908649e-06,
+      "clock_length": 6.971142568908649e-06,
+      "date": "2015-02-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1186458541338,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2015_0425": {
+      "branch_length": 1.8372750952667786e-05,
+      "clock_length": 1.8372750952667786e-05,
+      "date": "2015-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.156054493064
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0304": {
+      "branch_length": 0.00044345361705720265,
+      "clock_length": 0.00044345361705720265,
+      "date": "2017-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1528767123286
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0305": {
+      "branch_length": 7.0418361602021156e-06,
+      "clock_length": 7.0418361602021156e-06,
+      "date": "2017-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1211093625755,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0306": {
+      "branch_length": 0.00012724505682869128,
+      "clock_length": 0.00012724505682869128,
+      "date": "2017-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.151376751783
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0314": {
+      "branch_length": 7.693093517802682e-07,
+      "clock_length": 7.693093517802682e-07,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.152033704183
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0354": {
+      "branch_length": 4.706873239761146e-05,
+      "clock_length": 4.706873239761146e-05,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1514607494476
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0361": {
+      "branch_length": 7.0418361602021156e-06,
+      "clock_length": 7.0418361602021156e-06,
+      "date": "2017-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1211093625755,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/07.2017_0362": {
+      "branch_length": 7.693093517802682e-07,
+      "clock_length": 7.693093517802682e-07,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.152033704183
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2013_0498": {
+      "branch_length": 0.0018038545981683269,
+      "clock_length": 0.0018038545981683269,
+      "date": "2013-02-01",
+      "mutation_length": 2.25e-06,
+      "num_date_confidence": [
+        2013.0863013698631,
+        2013.1528767123286
+      ],
+      "numdate": 2013.0863013698631,
+      "raw_date": "2013-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0432": {
+      "branch_length": 4.899790121001444e-06,
+      "clock_length": 4.899790121001444e-06,
+      "date": "2014-02-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1144960664444,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0434": {
+      "branch_length": 6.586562090184992e-06,
+      "clock_length": 6.586562090184992e-06,
+      "date": "2014-02-13",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1185829203625,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0435": {
+      "branch_length": 0.00025260756054650804,
+      "clock_length": 0.00025260756054650804,
+      "date": "2014-02-28",
+      "mutation_length": 0.00043704,
+      "num_date_confidence": [
+        2014.0943214849485,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1602739726027,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0436": {
+      "branch_length": 4.094082859757309e-06,
+      "clock_length": 4.094082859757309e-06,
+      "date": "2014-02-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1602739726027
+      ],
+      "numdate": 2014.1047514611216,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0484": {
+      "branch_length": 0.0008255483403992459,
+      "clock_length": 0.0008255483403992459,
+      "date": "2014-02-01",
+      "mutation_length": 0.00086931,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.1528767123286
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2014_0485": {
+      "branch_length": 0.00035933783610490487,
+      "clock_length": 0.00035933783610490487,
+      "date": "2014-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.152085699214
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2015_0433": {
+      "branch_length": 9.029061275546294e-06,
+      "clock_length": 9.029061275546294e-06,
+      "date": "2015-02-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0948017206265,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1602739726027,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2015_0434": {
+      "branch_length": 1.4018049462675248e-05,
+      "clock_length": 1.4018049462675248e-05,
+      "date": "2015-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1515704996439
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2015_0486": {
+      "branch_length": 6.438263043009786e-06,
+      "clock_length": 6.438263043009786e-06,
+      "date": "2015-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1602739726027
+      ],
+      "numdate": 2015.1230334798177,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2017_0364": {
+      "branch_length": 0.00015274781537465132,
+      "clock_length": 0.00015274781537465132,
+      "date": "2017-02-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1515667818744
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2017_0375": {
+      "branch_length": 3.292824848958459e-06,
+      "clock_length": 3.292824848958459e-06,
+      "date": "2017-02-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.1129308751815,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1602739726027,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/08.2017_0379": {
+      "branch_length": 2.328608627869379e-05,
+      "clock_length": 2.328608627869379e-05,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1516024274617
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2012_0501": {
+      "branch_length": 0.0007954822101182569,
+      "clock_length": 0.0007954822101182569,
+      "date": "2012-02-28",
+      "mutation_length": 0.00087391,
+      "num_date_confidence": [
+        2012.0934426229508,
+        2012.1598360655737
+      ],
+      "numdate": 2012.1598360655737,
+      "raw_date": "2012-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2015_0492": {
+      "branch_length": 0.00044016620516164676,
+      "clock_length": 0.00044016620516164676,
+      "date": "2015-02-01",
+      "mutation_length": 0.00043688,
+      "num_date_confidence": [
+        2015.0863013698631,
+        2015.1527488485253
+      ],
+      "numdate": 2015.0863013698631,
+      "raw_date": "2015-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2017_0410": {
+      "branch_length": 0.0032301093074351165,
+      "clock_length": 0.0032301093074351165,
+      "date": "2017-02-28",
+      "mutation_length": 0.00571105,
+      "num_date_confidence": [
+        2017.0941466919348,
+        2017.1602739726027
+      ],
+      "numdate": 2017.1602739726027,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2017_0411": {
+      "branch_length": 3.919954574217114e-05,
+      "clock_length": 3.919954574217114e-05,
+      "date": "2017-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0863013698631,
+        2017.1518321704777
+      ],
+      "numdate": 2017.0863013698631,
+      "raw_date": "2017-02-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2017_0478": {
+      "branch_length": 1.553936197861718e-05,
+      "clock_length": 1.553936197861718e-05,
+      "date": "2017-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2353606243976
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2017_0480": {
+      "branch_length": 1.9435043636281918e-05,
+      "clock_length": 1.9435043636281918e-05,
+      "date": "2017-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.235376580026
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/09.2017_0482": {
+      "branch_length": 6.387321013323838e-06,
+      "clock_length": 6.387321013323838e-06,
+      "date": "2017-03-12",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2452054794521
+      ],
+      "numdate": 2017.1931651580721,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/10.15_0600": {
+      "branch_length": 1.3642843794889228e-05,
+      "clock_length": 1.3642843794889228e-05,
+      "date": "2015-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.16301369863,
+        2015.235271472407
+      ],
+      "numdate": 2015.16301369863,
+      "raw_date": "2015-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/10.2013_0627": {
+      "branch_length": 1.4212850715114881e-05,
+      "clock_length": 1.4212850715114881e-05,
+      "date": "2013-03-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2013.16301369863,
+        2013.235809057576
+      ],
+      "numdate": 2013.16301369863,
+      "raw_date": "2013-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/10.2017_0491": {
+      "branch_length": 6.387321013323838e-06,
+      "clock_length": 6.387321013323838e-06,
+      "date": "2017-03-12",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2452054794521
+      ],
+      "numdate": 2017.1931651580721,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/10.2017_0516": {
+      "branch_length": 0.00045456118057588034,
+      "clock_length": 0.00045456118057588034,
+      "date": "2017-03-01",
+      "mutation_length": 0.00043608,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2452054794521
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.15_0612": {
+      "branch_length": 9.522769864154395e-06,
+      "clock_length": 9.522769864154395e-06,
+      "date": "2015-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.16301369863,
+        2015.2349559967142
+      ],
+      "numdate": 2015.16301369863,
+      "raw_date": "2015-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.15_0615": {
+      "branch_length": 6.6944546486300644e-06,
+      "clock_length": 6.6944546486300644e-06,
+      "date": "2015-03-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.16301369863,
+        2015.2452054794521
+      ],
+      "numdate": 2015.2000136454321,
+      "raw_date": "2015-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.16_0552": {
+      "branch_length": 0.0001399296902559751,
+      "clock_length": 0.0001399296902559751,
+      "date": "2016-03-31",
+      "mutation_length": 0.00043466,
+      "num_date_confidence": [
+        2016.1759831497427,
+        2016.2472677595629
+      ],
+      "numdate": 2016.2472677595629,
+      "raw_date": "2016-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.2013_0666": {
+      "branch_length": 1.4838187404334329e-05,
+      "clock_length": 1.4838187404334329e-05,
+      "date": "2013-03-31",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.1706832268633,
+        2013.2452054794521
+      ],
+      "numdate": 2013.2452054794521,
+      "raw_date": "2013-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.2015_0604": {
+      "branch_length": 2.9155736474167134e-05,
+      "clock_length": 2.9155736474167134e-05,
+      "date": "2015-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.16301369863,
+        2015.2351901528295
+      ],
+      "numdate": 2015.16301369863,
+      "raw_date": "2015-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.2017_0521": {
+      "branch_length": 0.00044367589964786644,
+      "clock_length": 0.00044367589964786644,
+      "date": "2017-03-01",
+      "mutation_length": 0.00043602,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2452054794521
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/11.2017_0634": {
+      "branch_length": 0.0006335665147701007,
+      "clock_length": 0.0006335665147701007,
+      "date": "2017-03-31",
+      "mutation_length": 0.00130978,
+      "num_date_confidence": [
+        2017.1715765785427,
+        2017.2452054794521
+      ],
+      "numdate": 2017.2452054794521,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/12.2017_0640": {
+      "branch_length": 0.00016419090453875513,
+      "clock_length": 0.00016419090453875513,
+      "date": "2017-03-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2355216774592
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/12.2017_0642": {
+      "branch_length": 2.5301219246077057e-05,
+      "clock_length": 2.5301219246077057e-05,
+      "date": "2017-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.2352908356584
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/12.2017_0751": {
+      "branch_length": 1.087860314998273e-05,
+      "clock_length": 1.087860314998273e-05,
+      "date": "2017-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.16301369863,
+        2017.235344788377
+      ],
+      "numdate": 2017.16301369863,
+      "raw_date": "2017-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/13.2012_0719": {
+      "branch_length": 0.0003731552340448521,
+      "clock_length": 0.0003731552340448521,
+      "date": "2012-03-31",
+      "mutation_length": 0.0004362,
+      "num_date_confidence": [
+        2012.1734972677596,
+        2012.2472677595629
+      ],
+      "numdate": 2012.2472677595629,
+      "raw_date": "2012-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/13.2015_0693": {
+      "branch_length": 6.6944546486300644e-06,
+      "clock_length": 6.6944546486300644e-06,
+      "date": "2015-03-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.16301369863,
+        2015.2452054794521
+      ],
+      "numdate": 2015.2000136454321,
+      "raw_date": "2015-03-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/14.16_0684": {
+      "branch_length": 1.3940947466032434e-05,
+      "clock_length": 1.3940947466032434e-05,
+      "date": "2016-04-30",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2016.25,
+        2016.3292349726776
+      ],
+      "numdate": 2016.3292349726776,
+      "raw_date": "2016-04-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/14.2012_0781": {
+      "branch_length": 0.0020938656616183346,
+      "clock_length": 0.0020938656616183346,
+      "date": "2012-04-01",
+      "mutation_length": 0.00089794,
+      "num_date_confidence": [
+        2012.25,
+        2012.3213114754099
+      ],
+      "numdate": 2012.25,
+      "raw_date": "2012-04-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/14.2017_0959": {
+      "branch_length": 0.00041573025893304764,
+      "clock_length": 0.00041573025893304764,
+      "date": "2017-04-01",
+      "mutation_length": 0.00043595,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.327397260274
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/16.2017_1199": {
+      "branch_length": 1.909149968466414e-05,
+      "clock_length": 1.909149968466414e-05,
+      "date": "2017-04-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.317694093998
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/19.2015_0902": {
+      "branch_length": 0.00046126896771558803,
+      "clock_length": 0.00046126896771558803,
+      "date": "2015-05-01",
+      "mutation_length": 0.000437,
+      "num_date_confidence": [
+        2015.3301369863013,
+        2015.4040250403277
+      ],
+      "numdate": 2015.3301369863013,
+      "raw_date": "2015-05-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/20.16_0885": {
+      "branch_length": 0.0004044961509139625,
+      "clock_length": 0.0004044961509139625,
+      "date": "2016-05-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.3319672131147,
+        2016.4057377049182
+      ],
+      "numdate": 2016.3319672131147,
+      "raw_date": "2016-05-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/20.16_0914": {
+      "branch_length": 0.00040551046925945127,
+      "clock_length": 0.00040551046925945127,
+      "date": "2016-05-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.3319672131147,
+        2016.4057377049182
+      ],
+      "numdate": 2016.3319672131147,
+      "raw_date": "2016-05-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/20.2017_1370": {
+      "branch_length": 3.7629460985962905e-05,
+      "clock_length": 3.7629460985962905e-05,
+      "date": "2017-05-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.3301369863013,
+        2017.4022262999447
+      ],
+      "numdate": 2017.3301369863013,
+      "raw_date": "2017-05-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/22.16_0950": {
+      "branch_length": 6.9149007421973096e-06,
+      "clock_length": 6.9149007421973096e-06,
+      "date": "2016-06-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4868750886312
+      ],
+      "numdate": 2016.4166666666667,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/23.16_0980": {
+      "branch_length": 0.0006564841707330803,
+      "clock_length": 0.0006564841707330803,
+      "date": "2016-06-01",
+      "mutation_length": 0.00043608,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4879781420766
+      ],
+      "numdate": 2016.4166666666667,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/24.16_1002": {
+      "branch_length": 5.103728981115129e-05,
+      "clock_length": 5.103728981115129e-05,
+      "date": "2016-06-01",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4869402816419
+      ],
+      "numdate": 2016.4166666666667,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/24.16_1005": {
+      "branch_length": 9.487005303612664e-06,
+      "clock_length": 9.487005303612664e-06,
+      "date": "2016-06-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.486803444081
+      ],
+      "numdate": 2016.4166666666667,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/24.16_1006": {
+      "branch_length": 6.9160797810638485e-06,
+      "clock_length": 6.9160797810638485e-06,
+      "date": "2016-06-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4166732094807,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/24.16_1008": {
+      "branch_length": 0.00018444985461462944,
+      "clock_length": 0.00018444985461462944,
+      "date": "2016-06-30",
+      "mutation_length": 0.00043468,
+      "num_date_confidence": [
+        2016.4262033131379,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4959016393443,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/24.16_1027": {
+      "branch_length": 1.233589958613045e-05,
+      "clock_length": 1.233589958613045e-05,
+      "date": "2016-06-26",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4848665520997,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/25.16_1044": {
+      "branch_length": 6.9160797810638485e-06,
+      "clock_length": 6.9160797810638485e-06,
+      "date": "2016-06-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4166732094807,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/26.16_1046": {
+      "branch_length": 0.00018444985461462944,
+      "clock_length": 0.00018444985461462944,
+      "date": "2016-06-30",
+      "mutation_length": 0.00043477,
+      "num_date_confidence": [
+        2016.4259493120353,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4959016393443,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/26.16_1049": {
+      "branch_length": 1.233589958613045e-05,
+      "clock_length": 1.233589958613045e-05,
+      "date": "2016-06-26",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.4166666666667,
+        2016.4959016393443
+      ],
+      "numdate": 2016.4848665520997,
+      "raw_date": "2016-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/26.2017_1566": {
+      "branch_length": 0.0005170161967608776,
+      "clock_length": 0.0005170161967608776,
+      "date": "2017-06-30",
+      "mutation_length": 0.00131161,
+      "num_date_confidence": [
+        2017.4230136986303,
+        2017.4945205479453
+      ],
+      "numdate": 2017.4945205479453,
+      "raw_date": "2017-06-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/27.16_1096": {
+      "branch_length": 0.00019999756853748992,
+      "clock_length": 0.00019999756853748992,
+      "date": "2016-07-31",
+      "mutation_length": 0.00043491,
+      "num_date_confidence": [
+        2016.5083655350588,
+        2016.5806010928961
+      ],
+      "numdate": 2016.5806010928961,
+      "raw_date": "2016-07-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/46.2012_2185": {
+      "branch_length": 0.0014894180339132224,
+      "clock_length": 0.0014894180339132224,
+      "date": "2012-11-30",
+      "mutation_length": 0.00338006,
+      "num_date_confidence": [
+        2012.8426229508195,
+        2012.9139344262296
+      ],
+      "numdate": 2012.9139344262296,
+      "raw_date": "2012-11-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/46.2014_2103": {
+      "branch_length": 3.518460978226652e-05,
+      "clock_length": 3.518460978226652e-05,
+      "date": "2014-11-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.8342465753424,
+        2014.9095241157152
+      ],
+      "numdate": 2014.8342465753424,
+      "raw_date": "2014-11-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/48.2017_2515": {
+      "branch_length": 7.061821638394141e-06,
+      "clock_length": 7.061821638394141e-06,
+      "date": "2017-12-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.9164383561645,
+        2017.9986301369863
+      ],
+      "numdate": 2017.952253149677,
+      "raw_date": "2017-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/49.2012_2416": {
+      "branch_length": 6.12881878600622e-06,
+      "clock_length": 6.12881878600622e-06,
+      "date": "2012-12-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.9166666666667,
+        2012.9986338797814
+      ],
+      "numdate": 2012.9503431412097,
+      "raw_date": "2012-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/50.2017_2568": {
+      "branch_length": 7.061821638394141e-06,
+      "clock_length": 7.061821638394141e-06,
+      "date": "2017-12-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.9164383561645,
+        2017.9986301369863
+      ],
+      "numdate": 2017.952253149677,
+      "raw_date": "2017-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/51.2012_2581": {
+      "branch_length": 6.997207199275872e-06,
+      "clock_length": 6.997207199275872e-06,
+      "date": "2012-12-14",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2012.9166666666667,
+        2012.9986338797814
+      ],
+      "numdate": 2012.9532483158496,
+      "raw_date": "2012-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/51.2017_2650": {
+      "branch_length": 7.061821638394141e-06,
+      "clock_length": 7.061821638394141e-06,
+      "date": "2017-12-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.9164383561645,
+        2017.9986301369863
+      ],
+      "numdate": 2017.952253149677,
+      "raw_date": "2017-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/51.2017_2652": {
+      "branch_length": 7.08701322134456e-06,
+      "clock_length": 7.08701322134456e-06,
+      "date": "2017-12-14",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2017.9164383561645,
+        2017.9986301369863
+      ],
+      "numdate": 2017.9523929447648,
+      "raw_date": "2017-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/52.2012_2586": {
+      "branch_length": 1.609620579972465e-06,
+      "clock_length": 1.609620579972465e-06,
+      "date": "2012-12-03",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.9166666666667,
+        2012.9986338797814
+      ],
+      "numdate": 2012.923351101934,
+      "raw_date": "2012-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/52.2012_2590": {
+      "branch_length": 6.12881878600622e-06,
+      "clock_length": 6.12881878600622e-06,
+      "date": "2012-12-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.9166666666667,
+        2012.9986338797814
+      ],
+      "numdate": 2012.9503431412097,
+      "raw_date": "2012-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/52.2014_2417": {
+      "branch_length": 0.0008508733578888184,
+      "clock_length": 0.0008508733578888184,
+      "date": "2014-12-01",
+      "mutation_length": 0.00087392,
+      "num_date_confidence": [
+        2014.9164383561645,
+        2014.9902826887148
+      ],
+      "numdate": 2014.9164383561645,
+      "raw_date": "2014-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/52.2014_2419": {
+      "branch_length": 7.908892813168712e-06,
+      "clock_length": 7.908892813168712e-06,
+      "date": "2014-12-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9164383561645,
+        2014.9986301369863
+      ],
+      "numdate": 2014.9164383561645,
+      "raw_date": "2014-12-XX"
+    },
+    "HCoV_OC43/Yamagata.JPN/53.2014_2422": {
+      "branch_length": 1.5765176084476802e-05,
+      "clock_length": 1.5765176084476802e-05,
+      "date": "2014-12-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.9164383561645,
+        2014.9986301369863
+      ],
+      "numdate": 2014.9986301369863,
+      "raw_date": "2014-12-XX"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "0712-11-07",
+      "mutation_length": 0.001,
+      "num_date_confidence": [
+        332.85572473415965,
+        980.9668234292033
+      ],
+      "numdate": 712.8500735308323
+    },
+    "NODE_0000003": {
+      "branch_length": 1.0188630296952602e-05,
+      "clock_length": 1.0188630296952602e-05,
+      "date": "2014-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.8471220284648,
+        2014.0684225429507
+      ],
+      "numdate": 2014.0008050011395
+    },
+    "NODE_0000004": {
+      "branch_length": 1.3925630644135139e-05,
+      "clock_length": 1.3925630644135139e-05,
+      "date": "2014-01-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9673183697212,
+        2014.0780821917808
+      ],
+      "numdate": 2014.0780821917808
+    },
+    "NODE_0000005": {
+      "branch_length": 1.3190205225579316e-05,
+      "clock_length": 1.3190205225579316e-05,
+      "date": "2014-01-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9591271651436,
+        2014.0917808219178
+      ],
+      "numdate": 2014.0740011119558
+    },
+    "NODE_0000006": {
+      "branch_length": 1.5744734534705023e-05,
+      "clock_length": 1.5744734534705023e-05,
+      "date": "2014-02-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.043026244107,
+        2014.1931506849314
+      ],
+      "numdate": 2014.1613730151269
+    },
+    "NODE_0000007": {
+      "branch_length": 1.795625388853711e-05,
+      "clock_length": 1.795625388853711e-05,
+      "date": "2014-04-06",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.1297796221552,
+        2014.305479452055
+      ],
+      "numdate": 2014.2610172531802
+    },
+    "NODE_0000008": {
+      "branch_length": 2.0354964565769042e-05,
+      "clock_length": 2.0354964565769042e-05,
+      "date": "2014-05-17",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.2383571470377,
+        2014.3739726027397
+      ],
+      "numdate": 2014.3739726027397
+    },
+    "NODE_0000011": {
+      "branch_length": 3.7269709837717616e-05,
+      "clock_length": 3.7269709837717616e-05,
+      "date": "2013-12-05",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.6853762031585,
+        2013.9493150684932
+      ],
+      "numdate": 2013.9274631622282
+    },
+    "NODE_0000012": {
+      "branch_length": 4.782690968005302e-06,
+      "clock_length": 4.782690968005302e-06,
+      "date": "2013-12-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.7999679396537,
+        2014.0479452054794
+      ],
+      "numdate": 2013.9540036422366
+    },
+    "NODE_0000013": {
+      "branch_length": 1.7844876518619988e-05,
+      "clock_length": 1.7844876518619988e-05,
+      "date": "2014-01-20",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.931936253571,
+        2014.0917808219178
+      ],
+      "numdate": 2014.0530298163424
+    },
+    "NODE_0000014": {
+      "branch_length": 8.095899999227552e-06,
+      "clock_length": 8.095899999227552e-06,
+      "date": "2014-02-05",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9513290049322,
+        2014.2124635527048
+      ],
+      "numdate": 2014.0979562131167
+    },
+    "NODE_0000015": {
+      "branch_length": 2.0389456733658053e-05,
+      "clock_length": 2.0389456733658053e-05,
+      "date": "2014-03-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0977797747842,
+        2014.2342465753425
+      ],
+      "numdate": 2014.211102969292
+    },
+    "NODE_0000016": {
+      "branch_length": 1.0095064997087035e-05,
+      "clock_length": 1.0095064997087035e-05,
+      "date": "2014-04-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.1721923967038,
+        2014.2671232876712
+      ],
+      "numdate": 2014.2671232876712
+    },
+    "NODE_0000017": {
+      "branch_length": 6.319469934278153e-05,
+      "clock_length": 6.319469934278153e-05,
+      "date": "2014-08-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.355564961204,
+        2014.6178082191782
+      ],
+      "numdate": 2014.6178082191782
+    },
+    "NODE_0000018": {
+      "branch_length": 9.759721771622335e-05,
+      "clock_length": 9.759721771622335e-05,
+      "date": "2012-05-25",
+      "mutation_length": 0.00043651,
+      "num_date_confidence": [
+        2011.6738268957365,
+        2013.122919807778
+      ],
+      "numdate": 2012.3975531725564
+    },
+    "NODE_0000019": {
+      "branch_length": 0.0004759326248354347,
+      "clock_length": 0.0004759326248354347,
+      "date": "2015-01-15",
+      "mutation_length": 0.00174953,
+      "num_date_confidence": [
+        2014.9427588931594,
+        2015.0804232022538
+      ],
+      "numdate": 2015.0386354417674
+    },
+    "NODE_0000020": {
+      "branch_length": 0.0004508145805219208,
+      "clock_length": 0.0004508145805219208,
+      "date": "2014-11-25",
+      "mutation_length": 0.00043707,
+      "num_date_confidence": [
+        2014.6171408956036,
+        2015.0727196906867
+      ],
+      "numdate": 2014.8992484403057
+    },
+    "NODE_0000021": {
+      "branch_length": 0.000167444682147018,
+      "clock_length": 0.000167444682147018,
+      "date": "2015-07-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9998907081608,
+        2015.8696008708635
+      ],
+      "numdate": 2015.5470052483693
+    },
+    "NODE_0000022": {
+      "branch_length": 4.757899277242682e-05,
+      "clock_length": 4.757899277242682e-05,
+      "date": "2015-10-24",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.4889636504172,
+        2015.8753424657534
+      ],
+      "numdate": 2015.8110342887016
+    },
+    "NODE_0000023": {
+      "branch_length": 2.2478601440984076e-05,
+      "clock_length": 2.2478601440984076e-05,
+      "date": "2015-12-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.7275864642063,
+        2015.9794520547946
+      ],
+      "numdate": 2015.9357742888708
+    },
+    "NODE_0000024": {
+      "branch_length": 2.905247445657939e-05,
+      "clock_length": 2.905247445657939e-05,
+      "date": "2016-02-05",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.912435165902,
+        2016.0969945355191
+      ],
+      "numdate": 2016.0969945355191
+    },
+    "NODE_0000025": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-07-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.1960494693196,
+        2015.8739377293102
+      ],
+      "numdate": 2015.5470052483693
+    },
+    "NODE_0000026": {
+      "branch_length": 0.0005180807106974507,
+      "clock_length": 0.0005180807106974507,
+      "date": "2011-11-09",
+      "mutation_length": 0.00131172,
+      "num_date_confidence": [
+        2010.710765227657,
+        2012.4971864205208
+      ],
+      "numdate": 2011.8559591153644
+    },
+    "NODE_0000027": {
+      "branch_length": 0.0002149718291702147,
+      "clock_length": 0.0002149718291702147,
+      "date": "2008-12-25",
+      "mutation_length": 0.00043735,
+      "num_date_confidence": [
+        2007.3897403126612,
+        2010.2522423815285
+      ],
+      "numdate": 2008.9809854160587
+    },
+    "NODE_0000028": {
+      "branch_length": 6.064868579325146e-05,
+      "clock_length": 6.064868579325146e-05,
+      "date": "2015-11-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.655232156829,
+        2015.8835616438357
+      ],
+      "numdate": 2015.8835616438357
+    },
+    "NODE_0000029": {
+      "branch_length": 0.00034394142502485034,
+      "clock_length": 0.00034394142502485034,
+      "date": "2009-09-12",
+      "mutation_length": 0.00043713,
+      "num_date_confidence": [
+        2008.2471953333934,
+        2011.0177387086203
+      ],
+      "numdate": 2009.6966735095084
+    },
+    "NODE_0000030": {
+      "branch_length": 0.00020237012593477682,
+      "clock_length": 0.00020237012593477682,
+      "date": "2010-10-27",
+      "mutation_length": 0.00043561,
+      "num_date_confidence": [
+        2009.6430607760356,
+        2011.898074684863
+      ],
+      "numdate": 2010.8196815226893
+    },
+    "NODE_0000031": {
+      "branch_length": 0.0007530712866087551,
+      "clock_length": 0.0007530712866087551,
+      "date": "2014-12-31",
+      "mutation_length": 0.0013148,
+      "num_date_confidence": [
+        2014.8335614898635,
+        2015.0804232022538
+      ],
+      "numdate": 2014.9986831685676
+    },
+    "NODE_0000032": {
+      "branch_length": 4.0115232723889494e-05,
+      "clock_length": 4.0115232723889494e-05,
+      "date": "2015-10-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.480891892165,
+        2015.9806970491236
+      ],
+      "numdate": 2015.7696158120157
+    },
+    "NODE_0000033": {
+      "branch_length": 3.978808802532446e-05,
+      "clock_length": 3.978808802532446e-05,
+      "date": "2015-12-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.801903675364,
+        2015.990410958904
+      ],
+      "numdate": 2015.990410958904
+    },
+    "NODE_0000034": {
+      "branch_length": 2.662133854721251e-05,
+      "clock_length": 2.662133854721251e-05,
+      "date": "2015-12-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.7166720596417,
+        2016.0101771240052
+      ],
+      "numdate": 2015.9173450105425
+    },
+    "NODE_0000035": {
+      "branch_length": 1.8587426973618493e-05,
+      "clock_length": 1.8587426973618493e-05,
+      "date": "2016-01-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.884298546211,
+        2016.0204918032787
+      ],
+      "numdate": 2016.0204918032787
+    },
+    "NODE_0000036": {
+      "branch_length": 2.0064505947737024e-05,
+      "clock_length": 2.0064505947737024e-05,
+      "date": "2016-01-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.8871008083547,
+        2016.02868852459
+      ],
+      "numdate": 2016.02868852459
+    },
+    "NODE_0000037": {
+      "branch_length": 0.0019911486154035253,
+      "clock_length": 0.0019911486154035253,
+      "date": "2013-09-21",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.3615199368307,
+        2013.9316290135303
+      ],
+      "numdate": 2013.7206431950847
+    },
+    "NODE_0000039": {
+      "branch_length": 0.00015471677607812977,
+      "clock_length": 0.00015471677607812977,
+      "date": "2007-10-15",
+      "mutation_length": 0.00021648,
+      "num_date_confidence": [
+        2005.8362848798488,
+        2009.1994007638054
+      ],
+      "numdate": 2007.7880470529917
+    },
+    "NODE_0000041": {
+      "branch_length": 0.00021466676904174312,
+      "clock_length": 0.00021466676904174312,
+      "date": "2008-02-14",
+      "mutation_length": 0.00025751,
+      "num_date_confidence": [
+        2006.3572605317345,
+        2009.8223422507203
+      ],
+      "numdate": 2008.1207262079672
+    },
+    "NODE_0000042": {
+      "branch_length": 0.00044191806112343413,
+      "clock_length": 0.00044191806112343413,
+      "date": "2010-07-29",
+      "mutation_length": 0.0005627,
+      "num_date_confidence": [
+        2009.474358771536,
+        2012.0987931634984
+      ],
+      "numdate": 2010.5730522196184
+    },
+    "NODE_0000043": {
+      "branch_length": 0.0012241007288506171,
+      "clock_length": 0.0012241007288506171,
+      "date": "2017-05-14",
+      "mutation_length": 0.00120995,
+      "num_date_confidence": [
+        2016.196731859787,
+        2017.6315149255202
+      ],
+      "numdate": 2017.3659270132168
+    },
+    "NODE_0000044": {
+      "branch_length": 8.903470385292016e-05,
+      "clock_length": 8.903470385292016e-05,
+      "date": "2014-01-27",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.7178384143106,
+        2014.1226385957402
+      ],
+      "numdate": 2014.0714852346046
+    },
+    "NODE_0000045": {
+      "branch_length": -2.5987167985989153e-06,
+      "clock_length": -2.5987167985989153e-06,
+      "date": "2017-05-09",
+      "mutation_length": 0.00012841,
+      "num_date_confidence": [
+        2016.8758836941622,
+        2017.8623727937065
+      ],
+      "numdate": 2017.3515060122152
+    },
+    "NODE_0000046": {
+      "branch_length": 9.633378591546995e-06,
+      "clock_length": 9.633378591546995e-06,
+      "date": "2017-05-28",
+      "mutation_length": 3.253e-05,
+      "num_date_confidence": [
+        2017.1128573477472,
+        2018.0721881954137
+      ],
+      "numdate": 2017.4049643045512
+    },
+    "NODE_0000047": {
+      "branch_length": 0.0003965563932553809,
+      "clock_length": 0.0003965563932553809,
+      "date": "2012-10-10",
+      "mutation_length": 0.00060303,
+      "num_date_confidence": [
+        2012.588638734195,
+        2014.299991718495
+      ],
+      "numdate": 2012.773653742431
+    },
+    "NODE_0000048": {
+      "branch_length": 0.00014075953253129137,
+      "clock_length": 0.00014075953253129137,
+      "date": "2016-04-02",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.8626008239423,
+        2016.3257456346012
+      ],
+      "numdate": 2016.2518727847391
+    },
+    "NODE_0000049": {
+      "branch_length": 0.0003337011612099404,
+      "clock_length": 0.0003337011612099404,
+      "date": "2014-08-17",
+      "mutation_length": 0.00043628,
+      "num_date_confidence": [
+        2014.1485777298099,
+        2015.5703467102148
+      ],
+      "numdate": 2014.6254541320166
+    },
+    "NODE_0000052": {
+      "branch_length": 0.0001393070467792946,
+      "clock_length": 0.0001393070467792946,
+      "date": "2013-09-23",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.3463888827773,
+        2014.058423021969
+      ],
+      "numdate": 2013.7266479443363
+    },
+    "NODE_0000053": {
+      "branch_length": 6.499185125054458e-05,
+      "clock_length": 6.499185125054458e-05,
+      "date": "2014-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.853748853595,
+        2014.1498499437632
+      ],
+      "numdate": 2014.0873057707258
+    },
+    "NODE_0000054": {
+      "branch_length": 0.0004536072621498903,
+      "clock_length": 0.0004536072621498903,
+      "date": "2017-02-27",
+      "mutation_length": 0.00043613,
+      "num_date_confidence": [
+        2016.937074897364,
+        2017.2420670378704
+      ],
+      "numdate": 2017.1577201404461
+    },
+    "NODE_0000055": {
+      "branch_length": 0.00017222336163672295,
+      "clock_length": 0.00017222336163672295,
+      "date": "2013-09-24",
+      "mutation_length": 0.00015839,
+      "num_date_confidence": [
+        2013.259543951464,
+        2014.4864065557788
+      ],
+      "numdate": 2013.7293689908236
+    },
+    "NODE_0000056": {
+      "branch_length": 4.947895857126657e-05,
+      "clock_length": 4.947895857126657e-05,
+      "date": "2014-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.7899303648414,
+        2014.0724946758598
+      ],
+      "numdate": 2014.0012204223772
+    },
+    "NODE_0000058": {
+      "branch_length": 1.4498574333789236e-05,
+      "clock_length": 1.4498574333789236e-05,
+      "date": "2014-01-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9724778879981,
+        2014.1590999506036
+      ],
+      "numdate": 2014.0816770366198
+    },
+    "NODE_0000059": {
+      "branch_length": 0.00011881870847168336,
+      "clock_length": 0.00011881870847168336,
+      "date": "2004-09-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2000.5203228695098,
+        2007.0569791416967
+      ],
+      "numdate": 2004.747910548353
+    },
+    "NODE_0000060": {
+      "branch_length": 0.00011913413472016895,
+      "clock_length": 0.00011913413472016895,
+      "date": "2016-02-18",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.657239192494,
+        2016.4207061863876
+      ],
+      "numdate": 2016.1334465759335
+    },
+    "NODE_0000061": {
+      "branch_length": 2.2647286352196826e-05,
+      "clock_length": 2.2647286352196826e-05,
+      "date": "2016-04-04",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.0204218223748,
+        2016.4228929352862
+      ],
+      "numdate": 2016.259122655507
+    },
+    "NODE_0000062": {
+      "branch_length": 5.298423617571533e-05,
+      "clock_length": 5.298423617571533e-05,
+      "date": "2016-03-28",
+      "mutation_length": 3.25e-05,
+      "num_date_confidence": [
+        2015.9072108255446,
+        2016.5033952758972
+      ],
+      "numdate": 2016.2386613347085
+    },
+    "NODE_0000063": {
+      "branch_length": 2.1475102716757158e-05,
+      "clock_length": 2.1475102716757158e-05,
+      "date": "2016-05-18",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.2412194430085,
+        2016.4852100323724
+      ],
+      "numdate": 2016.3782939626524
+    },
+    "NODE_0000064": {
+      "branch_length": 5.605789419862051e-06,
+      "clock_length": 5.605789419862051e-06,
+      "date": "2016-04-08",
+      "mutation_length": 1.024e-05,
+      "num_date_confidence": [
+        2016.0110198870875,
+        2016.554364690057
+      ],
+      "numdate": 2016.2697694165445
+    },
+    "NODE_0000065": {
+      "branch_length": 1.7257749955664316e-05,
+      "clock_length": 1.7257749955664316e-05,
+      "date": "2016-05-13",
+      "mutation_length": 2.271e-05,
+      "num_date_confidence": [
+        2016.1083968891498,
+        2016.5976880271523
+      ],
+      "numdate": 2016.3655374623474
+    },
+    "NODE_0000066": {
+      "branch_length": 1.8902998155341804e-05,
+      "clock_length": 1.8902998155341804e-05,
+      "date": "2016-05-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.1775431799686,
+        2016.4433555173705
+      ],
+      "numdate": 2016.3640206403434
+    },
+    "NODE_0000067": {
+      "branch_length": 2.5721045614153547e-06,
+      "clock_length": 2.5721045614153547e-06,
+      "date": "2016-05-18",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.2652592442882,
+        2016.4558550766217
+      ],
+      "numdate": 2016.3782939626524
+    },
+    "NODE_0000068": {
+      "branch_length": 6.868868407081748e-06,
+      "clock_length": 6.868868407081748e-06,
+      "date": "2016-06-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.3196682846726,
+        2016.4704303530075
+      ],
+      "numdate": 2016.4164112204592
+    },
+    "NODE_0000069": {
+      "branch_length": 0.00021430479872920952,
+      "clock_length": 0.00021430479872920952,
+      "date": "2013-12-18",
+      "mutation_length": 9.877e-05,
+      "num_date_confidence": [
+        2013.197491883392,
+        2014.7387740225145
+      ],
+      "numdate": 2013.962890568392
+    },
+    "NODE_0000073": {
+      "branch_length": 0.0008339207829014474,
+      "clock_length": 0.0008339207829014474,
+      "date": "2010-03-06",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2008.9653175126746,
+        2010.9616374668444
+      ],
+      "numdate": 2010.1765257661139
+    },
+    "NODE_0000074": {
+      "branch_length": 4.5917365734274166e-05,
+      "clock_length": 4.5917365734274166e-05,
+      "date": "2015-05-18",
+      "mutation_length": 5.811e-05,
+      "num_date_confidence": [
+        2014.9113047909366,
+        2015.660243259875
+      ],
+      "numdate": 2015.3766250189403
+    },
+    "NODE_0000075": {
+      "branch_length": 0.0003278510507124157,
+      "clock_length": 0.0003278510507124157,
+      "date": "2011-12-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2011.63792110296,
+        2012.0750617718693
+      ],
+      "numdate": 2011.9958622683723
+    },
+    "NODE_0000076": {
+      "branch_length": 0.00039991665537967365,
+      "clock_length": 0.00039991665537967365,
+      "date": "2009-12-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2007.8456014647036,
+        2010.7025457240766
+      ],
+      "numdate": 2009.964732980779
+    },
+    "NODE_0000078": {
+      "branch_length": 0.00016911372305482503,
+      "clock_length": 0.00016911372305482503,
+      "date": "2012-12-17",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.56699622956,
+        2013.0727196906867
+      ],
+      "numdate": 2012.9590745267503
+    },
+    "NODE_0000079": {
+      "branch_length": 2.1572902266577074e-05,
+      "clock_length": 2.1572902266577074e-05,
+      "date": "2013-01-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.8528425944191,
+        2013.130475708271
+      ],
+      "numdate": 2013.07878855075
+    },
+    "NODE_0000080": {
+      "branch_length": 0.00016395985280891288,
+      "clock_length": 0.00016395985280891288,
+      "date": "2010-11-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2009.9776608528473,
+        2011.987775728306
+      ],
+      "numdate": 2010.8745917244737
+    },
+    "NODE_0000081": {
+      "branch_length": 0.0003350362641087053,
+      "clock_length": 0.0003350362641087053,
+      "date": "2012-09-25",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.3405246376933,
+        2012.9771814315736
+      ],
+      "numdate": 2012.7338009707114
+    },
+    "NODE_0000082": {
+      "branch_length": 3.2892867434951636e-05,
+      "clock_length": 3.2892867434951636e-05,
+      "date": "2012-12-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.7035280180583,
+        2012.9681595810903
+      ],
+      "numdate": 2012.9163326242117
+    },
+    "NODE_0000083": {
+      "branch_length": 3.2548002051633034e-05,
+      "clock_length": 3.2548002051633034e-05,
+      "date": "2012-11-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.695154987656,
+        2012.9662056481332
+      ],
+      "numdate": 2012.914418870454
+    },
+    "NODE_0000089": {
+      "branch_length": 0.0008469572715436074,
+      "clock_length": 0.0008469572715436074,
+      "date": "2011-08-18",
+      "mutation_length": 0.00043759,
+      "num_date_confidence": [
+        2010.0422185585749,
+        2012.709147904617
+      ],
+      "numdate": 2011.629481750258
+    },
+    "NODE_0000090": {
+      "branch_length": 0.0007160300639701953,
+      "clock_length": 0.0007160300639701953,
+      "date": "2007-09-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2006.2541334450264,
+        2009.609473078591
+      ],
+      "numdate": 2007.745484430523
+    },
+    "NODE_0000091": {
+      "branch_length": 0.00027505376611824885,
+      "clock_length": 0.00027505376611824885,
+      "date": "2013-02-26",
+      "mutation_length": 0.00043643,
+      "num_date_confidence": [
+        2012.1169398138068,
+        2013.9319386603731
+      ],
+      "numdate": 2013.1558314621018
+    },
+    "NODE_0000092": {
+      "branch_length": 0.0003320885759846557,
+      "clock_length": 0.0003320885759846557,
+      "date": "2014-12-31",
+      "mutation_length": 0.00087369,
+      "num_date_confidence": [
+        2014.8822853026363,
+        2015.0804232022538
+      ],
+      "numdate": 2014.9986831685676
+    },
+    "NODE_0000095": {
+      "branch_length": 0.0005913676095347404,
+      "clock_length": 0.0005913676095347404,
+      "date": "2014-11-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.5775835861127,
+        2014.982109950888
+      ],
+      "numdate": 2014.9111447979803
+    },
+    "NODE_0000096": {
+      "branch_length": 0.0005884054416155577,
+      "clock_length": 0.0005884054416155577,
+      "date": "2010-03-13",
+      "mutation_length": 0.00043749,
+      "num_date_confidence": [
+        2008.4974133915891,
+        2011.148690979394
+      ],
+      "numdate": 2010.1947058637948
+    },
+    "NODE_0000097": {
+      "branch_length": 0.00046200222688446216,
+      "clock_length": 0.00046200222688446216,
+      "date": "2012-10-04",
+      "mutation_length": 0.00043684,
+      "num_date_confidence": [
+        2012.3211498865528,
+        2013.2284838098021
+      ],
+      "numdate": 2012.7584844872554
+    },
+    "NODE_0000098": {
+      "branch_length": 0.0004036919451464922,
+      "clock_length": 0.0004036919451464922,
+      "date": "2014-12-31",
+      "mutation_length": 0.00043704,
+      "num_date_confidence": [
+        2014.8300286693097,
+        2015.0804232022538
+      ],
+      "numdate": 2014.9986831685676
+    },
+    "NODE_0000099": {
+      "branch_length": 0.0003165550294969684,
+      "clock_length": 0.0003165550294969684,
+      "date": "2014-11-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.5372564670374,
+        2015.0646041480024
+      ],
+      "numdate": 2014.912483206502
+    },
+    "NODE_0000100": {
+      "branch_length": 1.599076884672957e-05,
+      "clock_length": 1.599076884672957e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.8465082256962,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000103": {
+      "branch_length": 0.00029909971149337305,
+      "clock_length": 0.00029909971149337305,
+      "date": "2006-12-06",
+      "mutation_length": 0.00029278,
+      "num_date_confidence": [
+        2005.0107714576936,
+        2008.655549119546
+      ],
+      "numdate": 2006.9294807082476
+    },
+    "NODE_0000104": {
+      "branch_length": 0.0011090924520754356,
+      "clock_length": 0.0011090924520754356,
+      "date": "2013-01-31",
+      "mutation_length": 0.00087343,
+      "num_date_confidence": [
+        2012.8400513071786,
+        2013.1590999506036
+      ],
+      "numdate": 2013.0841426440734
+    },
+    "NODE_0000105": {
+      "branch_length": 0.000612354084797991,
+      "clock_length": 0.000612354084797991,
+      "date": "2005-04-09",
+      "mutation_length": 0.00017498,
+      "num_date_confidence": [
+        2002.2799186007785,
+        2006.941926252582
+      ],
+      "numdate": 2005.2696933695997
+    },
+    "NODE_0000106": {
+      "branch_length": 0.00022363494969245218,
+      "clock_length": 0.00022363494969245218,
+      "date": "2001-11-15",
+      "mutation_length": 0.00027236,
+      "num_date_confidence": [
+        1998.022880682313,
+        2003.808985336987
+      ],
+      "numdate": 2001.87157054413
+    },
+    "NODE_0000107": {
+      "branch_length": 0.0005004560749176912,
+      "clock_length": 0.0005004560749176912,
+      "date": "2004-08-25",
+      "mutation_length": 0.00087737,
+      "num_date_confidence": [
+        2000.9268641297963,
+        2005.7546256401483
+      ],
+      "numdate": 2004.6487402463356
+    },
+    "NODE_0000108": {
+      "branch_length": 0.00011272957065394879,
+      "clock_length": 0.00011272957065394879,
+      "date": "2000-08-18",
+      "mutation_length": 8.131e-05,
+      "num_date_confidence": [
+        1996.259090765335,
+        2002.76280544768
+      ],
+      "numdate": 2000.630558120128
+    },
+    "NODE_0000109": {
+      "branch_length": 0.00013866485721706744,
+      "clock_length": 0.00013866485721706744,
+      "date": "2000-01-02",
+      "mutation_length": 8.278e-05,
+      "num_date_confidence": [
+        1995.023090736191,
+        2002.0992827099328
+      ],
+      "numdate": 2000.0049904352632
+    },
+    "NODE_0000110": {
+      "branch_length": 0.00011773563472819524,
+      "clock_length": 0.00011773563472819524,
+      "date": "1999-03-27",
+      "mutation_length": 8.135e-05,
+      "num_date_confidence": [
+        1993.623570501401,
+        2001.3856256577476
+      ],
+      "numdate": 1999.235500644801
+    },
+    "NODE_0000111": {
+      "branch_length": 0.00011721626057463724,
+      "clock_length": 0.00011721626057463724,
+      "date": "1998-08-01",
+      "mutation_length": 0.00011618,
+      "num_date_confidence": [
+        1993.1353195638962,
+        2001.1362476225431
+      ],
+      "numdate": 1998.5821529205462
+    },
+    "NODE_0000112": {
+      "branch_length": 0.002214822094917219,
+      "clock_length": 0.002214822094917219,
+      "date": "2010-11-15",
+      "mutation_length": 0.00291643,
+      "num_date_confidence": [
+        2010.0115768001233,
+        2011.6795681337271
+      ],
+      "numdate": 2010.8728156301377
+    },
+    "NODE_0000113": {
+      "branch_length": 0.0012661354982896767,
+      "clock_length": 0.0012661354982896767,
+      "date": "1997-12-07",
+      "mutation_length": 0.00117249,
+      "num_date_confidence": [
+        1992.569492922183,
+        2000.820150800732
+      ],
+      "numdate": 1997.931687347664
+    },
+    "NODE_0000114": {
+      "branch_length": 0.0010524518419882229,
+      "clock_length": 0.0010524518419882229,
+      "date": "2003-10-09",
+      "mutation_length": 0.00045309,
+      "num_date_confidence": [
+        2000.2121378669744,
+        2005.4629441726336
+      ],
+      "numdate": 2003.772034812885
+    },
+    "NODE_0000115": {
+      "branch_length": 0.00020903189787813289,
+      "clock_length": 0.00020903189787813289,
+      "date": "2013-12-02",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.4836986867995,
+        2014.1426698856565
+      ],
+      "numdate": 2013.918460522469
+    },
+    "NODE_0000116": {
+      "branch_length": 0.00037047750749539935,
+      "clock_length": 0.00037047750749539935,
+      "date": "2012-01-08",
+      "mutation_length": 0.00043664,
+      "num_date_confidence": [
+        2011.26696678225,
+        2012.3860732966232
+      ],
+      "numdate": 2012.0206155261833
+    },
+    "NODE_0000117": {
+      "branch_length": 3.042652746209403e-05,
+      "clock_length": 3.042652746209403e-05,
+      "date": "2014-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.8618145129483,
+        2014.134251219017
+      ],
+      "numdate": 2014.0873057707258
+    },
+    "NODE_0000118": {
+      "branch_length": 2.947622142401179e-05,
+      "clock_length": 2.947622142401179e-05,
+      "date": "2014-01-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.849862487227,
+        2014.1316991435294
+      ],
+      "numdate": 2014.0820322586853
+    },
+    "NODE_0000123": {
+      "branch_length": 0.0005539016275666992,
+      "clock_length": 0.0005539016275666992,
+      "date": "2012-10-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2011.8813199241508,
+        2013.1725249290891
+      ],
+      "numdate": 2012.7704274215448
+    },
+    "NODE_0000124": {
+      "branch_length": 0.0003201917661996216,
+      "clock_length": 0.0003201917661996216,
+      "date": "2005-07-20",
+      "mutation_length": 0.00043639,
+      "num_date_confidence": [
+        2002.4829596662526,
+        2006.7799594162643
+      ],
+      "numdate": 2005.5488678189217
+    },
+    "NODE_0000125": {
+      "branch_length": 7.071854437502617e-05,
+      "clock_length": 7.071854437502617e-05,
+      "date": "2013-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.8495587214022,
+        2013.2343635263032
+      ],
+      "numdate": 2013.1628642579938
+    },
+    "NODE_0000126": {
+      "branch_length": 0.0003089266212988589,
+      "clock_length": 0.0003089266212988589,
+      "date": "2014-11-17",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.492852566548,
+        2015.058423021969
+      ],
+      "numdate": 2014.8771838474142
+    },
+    "NODE_0000127": {
+      "branch_length": 0.0003902870676607815,
+      "clock_length": 0.0003902870676607815,
+      "date": "2007-09-18",
+      "mutation_length": 0.00087616,
+      "num_date_confidence": [
+        2005.0852964642195,
+        2008.2353860671924
+      ],
+      "numdate": 2007.7146791134462
+    },
+    "NODE_0000128": {
+      "branch_length": 0.2303102423834493,
+      "clock_length": 0.2303102423834493,
+      "date": "1990-11-27",
+      "mutation_length": 0.23085958106534182,
+      "num_date_confidence": [
+        1983.80437048491,
+        1995.8957127005488
+      ],
+      "numdate": 1990.9055499482622
+    },
+    "NODE_0000129": {
+      "branch_length": 0.2291145887137865,
+      "clock_length": 0.2291145887137865,
+      "date": "1984-04-09",
+      "mutation_length": 0.23010481893465817,
+      "num_date_confidence": [
+        1974.7416500102859,
+        1991.9624931744186
+      ],
+      "numdate": 1984.2705357839034
+    },
+    "NODE_0000130": {
+      "branch_length": 0.0053473139475571085,
+      "clock_length": 0.0053473139475571085,
+      "date": "2013-12-11",
+      "mutation_length": 0.01003069,
+      "num_date_confidence": [
+        2013.7289582768285,
+        2014.044135013353
+      ],
+      "numdate": 2013.9442654629347
+    },
+    "NODE_0000131": {
+      "branch_length": 2.2351841661989876e-05,
+      "clock_length": 2.2351841661989876e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.8133760135079,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000132": {
+      "branch_length": 2.366568819229056e-05,
+      "clock_length": 2.366568819229056e-05,
+      "date": "2015-01-04",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.7894389651835,
+        2015.118565618815
+      ],
+      "numdate": 2015.0085113215393
+    },
+    "NODE_0000133": {
+      "branch_length": 1.4199046148977222e-05,
+      "clock_length": 1.4199046148977222e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9580863163442,
+        2015.1351192434652
+      ],
+      "numdate": 2015.0873057707258
+    },
+    "NODE_0000134": {
+      "branch_length": 1.597011503832015e-05,
+      "clock_length": 1.597011503832015e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9703237621725,
+        2015.1300710225387
+      ],
+      "numdate": 2015.0873057707258
+    },
+    "NODE_0000137": {
+      "branch_length": 0.0033158677866548074,
+      "clock_length": 0.0033158677866548074,
+      "date": "2002-09-02",
+      "mutation_length": 0.00049788,
+      "num_date_confidence": [
+        1998.846630438059,
+        2007.2555425979895
+      ],
+      "numdate": 2002.6712067221702
+    },
+    "NODE_0000138": {
+      "branch_length": 0.0024029660634652373,
+      "clock_length": 0.0024029660634652373,
+      "date": "2016-01-03",
+      "mutation_length": 0.00262232,
+      "num_date_confidence": [
+        2015.8088450329785,
+        2016.0204918032787
+      ],
+      "numdate": 2016.0059325479708
+    },
+    "NODE_0000139": {
+      "branch_length": 1.533486686192305e-05,
+      "clock_length": 1.533486686192305e-05,
+      "date": "2014-12-26",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.801172260126,
+        2015.0979567520571
+      ],
+      "numdate": 2014.984345873968
+    },
+    "NODE_0000140": {
+      "branch_length": 7.52420078518304e-06,
+      "clock_length": 7.52420078518304e-06,
+      "date": "2015-01-10",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.8689974552801,
+        2015.1274327034414
+      ],
+      "numdate": 2015.026099753082
+    },
+    "NODE_0000141": {
+      "branch_length": 1.102954685378672e-05,
+      "clock_length": 1.102954685378672e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9980580648248,
+        2015.1498499437632
+      ],
+      "numdate": 2015.0873057707258
+    },
+    "NODE_0000142": {
+      "branch_length": 9.70600123133237e-06,
+      "clock_length": 9.70600123133237e-06,
+      "date": "2015-01-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9664832218368,
+        2015.1454514874874
+      ],
+      "numdate": 2015.0799610486085
+    },
+    "NODE_0000143": {
+      "branch_length": 5.443619553189183e-06,
+      "clock_length": 5.443619553189183e-06,
+      "date": "2015-02-10",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0452734831733,
+        2015.1498499437632
+      ],
+      "numdate": 2015.1101692048308
+    },
+    "NODE_0000144": {
+      "branch_length": 0.00022787197320094988,
+      "clock_length": 0.00022787197320094988,
+      "date": "2014-08-22",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.2217088196232,
+        2014.9029959850911
+      ],
+      "numdate": 2014.6389974072963
+    },
+    "NODE_0000145": {
+      "branch_length": 2.216007313890142e-08,
+      "clock_length": 2.216007313890142e-08,
+      "date": "2014-08-22",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.2923228908405,
+        2014.9852397377315
+      ],
+      "numdate": 2014.6391203796945
+    },
+    "NODE_0000146": {
+      "branch_length": 4.2064814554448274e-05,
+      "clock_length": 4.2064814554448274e-05,
+      "date": "2014-11-15",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.6529926276635,
+        2014.9877881838374
+      ],
+      "numdate": 2014.8725497141845
+    },
+    "NODE_0000147": {
+      "branch_length": 1.0438071212719082e-05,
+      "clock_length": 1.0438071212719082e-05,
+      "date": "2014-12-06",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.7664575487486,
+        2015.058423021969
+      ],
+      "numdate": 2014.9304734692837
+    },
+    "NODE_0000148": {
+      "branch_length": 1.2748858101627766e-05,
+      "clock_length": 1.2748858101627766e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9085470082616,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000149": {
+      "branch_length": 1.2748858101627766e-05,
+      "clock_length": 1.2748858101627766e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.8989173157597,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000150": {
+      "branch_length": 3.356820790404813e-05,
+      "clock_length": 3.356820790404813e-05,
+      "date": "2014-10-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.5463045251206,
+        2015.049841246523
+      ],
+      "numdate": 2014.825399684954
+    },
+    "NODE_0000151": {
+      "branch_length": 1.3128926500522082e-05,
+      "clock_length": 1.3128926500522082e-05,
+      "date": "2014-11-24",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.7133052077434,
+        2015.058423021969
+      ],
+      "numdate": 2014.8982557431118
+    },
+    "NODE_0000152": {
+      "branch_length": 1.855460946422491e-05,
+      "clock_length": 1.855460946422491e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.883495066361,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000153": {
+      "branch_length": 1.855460946422491e-05,
+      "clock_length": 1.855460946422491e-05,
+      "date": "2015-01-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.883495066361,
+        2015.0727196906867
+      ],
+      "numdate": 2015.0012204223772
+    },
+    "NODE_0000154": {
+      "branch_length": 1.3437215100414192e-05,
+      "clock_length": 1.3437215100414192e-05,
+      "date": "2014-11-25",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.6947793125578,
+        2015.0691950588705
+      ],
+      "numdate": 2014.8999665221434
+    },
+    "NODE_0000155": {
+      "branch_length": 1.7789098505290556e-05,
+      "clock_length": 1.7789098505290556e-05,
+      "date": "2014-12-31",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.867198160258,
+        2015.0804232022538
+      ],
+      "numdate": 2014.9986831685676
+    },
+    "NODE_0000156": {
+      "branch_length": 2.9586029087364635e-05,
+      "clock_length": 2.9586029087364635e-05,
+      "date": "2015-03-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.002023093714,
+        2015.206686738734
+      ],
+      "numdate": 2015.1628642579938
+    },
+    "NODE_0000157": {
+      "branch_length": 1.5503297066354308e-05,
+      "clock_length": 1.5503297066354308e-05,
+      "date": "2014-12-26",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.832051671902,
+        2015.1435875201448
+      ],
+      "numdate": 2014.9859986217718
+    },
+    "NODE_0000158": {
+      "branch_length": 0.002193197431588374,
+      "clock_length": 0.002193197431588374,
+      "date": "2003-01-28",
+      "mutation_length": 0.00227808,
+      "num_date_confidence": [
+        1999.5684247361432,
+        2006.0747887639013
+      ],
+      "numdate": 2003.0762113973492
+    },
+    "NODE_0000159": {
+      "branch_length": 0.0001824275549057986,
+      "clock_length": 0.0001824275549057986,
+      "date": "2004-02-02",
+      "mutation_length": 0.00034757,
+      "num_date_confidence": [
+        2000.6824437618188,
+        2006.8966532083666
+      ],
+      "numdate": 2004.0885525471997
+    },
+    "NODE_0000160": {
+      "branch_length": 1.8255916477256397e-05,
+      "clock_length": 1.8255916477256397e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9729026232683,
+        2015.1381794929482
+      ],
+      "numdate": 2015.0873057707258
+    },
+    "NODE_0000161": {
+      "branch_length": 0.0023724087108533878,
+      "clock_length": 0.0023724087108533878,
+      "date": "2017-11-30",
+      "mutation_length": 0.00173831,
+      "num_date_confidence": [
+        2017.6191136688944,
+        2017.984003103981
+      ],
+      "numdate": 2017.9130651408198
+    },
+    "NODE_0000162": {
+      "branch_length": 1.8255916477256397e-05,
+      "clock_length": 1.8255916477256397e-05,
+      "date": "2015-02-01",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.9729026232683,
+        2015.1381794929482
+      ],
+      "numdate": 2015.0873057707258
+    },
+    "NODE_0000163": {
+      "branch_length": 0.00014195321089108823,
+      "clock_length": 0.00014195321089108823,
+      "date": "2012-08-23",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2011.826440178469,
+        2013.4151717353882
+      ],
+      "numdate": 2012.6436968933149
+    },
+    "NODE_0000164": {
+      "branch_length": 0.00022236617425445797,
+      "clock_length": 0.00022236617425445797,
+      "date": "2005-04-28",
+      "mutation_length": 0.00069882,
+      "num_date_confidence": [
+        2002.6228493572678,
+        2007.7393623697228
+      ],
+      "numdate": 2005.322524184044
+    },
+    "NODE_0000165": {
+      "branch_length": 0.00013168843202578692,
+      "clock_length": 0.00013168843202578692,
+      "date": "2013-05-17",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2012.2595252019712,
+        2014.032066499006
+      ],
+      "numdate": 2013.3744725635136
+    },
+    "NODE_0000166": {
+      "branch_length": 0.0007537161634534099,
+      "clock_length": 0.0007537161634534099,
+      "date": "2009-07-04",
+      "mutation_length": 0.00238567,
+      "num_date_confidence": [
+        2008.0597658020467,
+        2010.9387909222617
+      ],
+      "numdate": 2009.5051044305715
+    },
+    "NODE_0000169": {
+      "branch_length": 0.0007338437151183813,
+      "clock_length": 0.0007338437151183813,
+      "date": "2013-07-30",
+      "mutation_length": 0.00240582,
+      "num_date_confidence": [
+        2013.0795258978874,
+        2013.9766225509131
+      ],
+      "numdate": 2013.5774069440656
+    },
+    "NODE_0000170": {
+      "branch_length": 0.00034118893322576584,
+      "clock_length": 0.00034118893322576584,
+      "date": "2015-06-21",
+      "mutation_length": 0.0008696,
+      "num_date_confidence": [
+        2015.0498986635232,
+        2015.5657187072284
+      ],
+      "numdate": 2015.47075905941
+    },
+    "NODE_0000174": {
+      "branch_length": 7.687363553260211e-05,
+      "clock_length": 7.687363553260211e-05,
+      "date": "2015-12-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.4854968396533,
+        2016.4426756896564
+      ],
+      "numdate": 2015.9446370980643
+    },
+    "NODE_0000175": {
+      "branch_length": 0.0001771091612330505,
+      "clock_length": 0.0001771091612330505,
+      "date": "2014-07-24",
+      "mutation_length": 0.00048095,
+      "num_date_confidence": [
+        2014.1565933107272,
+        2014.9938651432615
+      ],
+      "numdate": 2014.5602348508712
+    },
+    "NODE_0000176": {
+      "branch_length": 0.00016486401070884844,
+      "clock_length": 0.00016486401070884844,
+      "date": "2015-06-23",
+      "mutation_length": 0.00034814,
+      "num_date_confidence": [
+        2015.1192033910079,
+        2015.6627002650503
+      ],
+      "numdate": 2015.4751110177754
+    },
+    "NODE_0000177": {
+      "branch_length": 0.000466210504294341,
+      "clock_length": 0.000466210504294341,
+      "date": "2012-02-03",
+      "mutation_length": 0.00086918,
+      "num_date_confidence": [
+        2011.4497492985722,
+        2013.0484435097746
+      ],
+      "numdate": 2012.092235953731
+    },
+    "NODE_0000178": {
+      "branch_length": 0.00015521993476136776,
+      "clock_length": 0.00015521993476136776,
+      "date": "2012-12-15",
+      "mutation_length": 0.00043453,
+      "num_date_confidence": [
+        2012.5857856813695,
+        2013.6371321238366
+      ],
+      "numdate": 2012.9535944657011
+    },
+    "NODE_0000179": {
+      "branch_length": 0.00012713142754695742,
+      "clock_length": 0.00012713142754695742,
+      "date": "2016-12-22",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.515527856434,
+        2017.0727196906867
+      ],
+      "numdate": 2016.975257003721
+    },
+    "NODE_0000180": {
+      "branch_length": 0.00020429889802983919,
+      "clock_length": 0.00020429889802983919,
+      "date": "2014-02-01",
+      "mutation_length": 0.00043478,
+      "num_date_confidence": [
+        2013.9889921784113,
+        2014.1498499437632
+      ],
+      "numdate": 2014.0873057707258
+    },
+    "NODE_0000181": {
+      "branch_length": 1.9241289056051583e-05,
+      "clock_length": 1.9241289056051583e-05,
+      "date": "2017-01-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.8533881224016,
+        2017.1341136602427
+      ],
+      "numdate": 2017.0820322586853
+    },
+    "NODE_0000182": {
+      "branch_length": 7.848699472167537e-05,
+      "clock_length": 7.848699472167537e-05,
+      "date": "2016-05-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.7260583402951,
+        2016.9700081714234
+      ],
+      "numdate": 2016.380183222255
+    },
+    "NODE_0000183": {
+      "branch_length": 6.790660540360524e-05,
+      "clock_length": 6.790660540360524e-05,
+      "date": "2016-10-04",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.3418053543062,
+        2016.999865910836
+      ],
+      "numdate": 2016.7570158286683
+    },
+    "NODE_0000184": {
+      "branch_length": 5.856914207330577e-05,
+      "clock_length": 5.856914207330577e-05,
+      "date": "2017-01-30",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.7856868567117,
+        2017.1279420304243
+      ],
+      "numdate": 2017.0820322586853
+    },
+    "NODE_0000185": {
+      "branch_length": 0.00018878600535056117,
+      "clock_length": 0.00018878600535056117,
+      "date": "2014-01-01",
+      "mutation_length": 0.0004347,
+      "num_date_confidence": [
+        2013.8431768964715,
+        2014.0727196906867
+      ],
+      "numdate": 2014.0012204223772
+    },
+    "NODE_0000186": {
+      "branch_length": 1.2269719027474578e-05,
+      "clock_length": 1.2269719027474578e-05,
+      "date": "2016-10-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.5257511097657,
+        2017.012113232191
+      ],
+      "numdate": 2016.825103906015
+    },
+    "NODE_0000187": {
+      "branch_length": 7.86918665544032e-06,
+      "clock_length": 7.86918665544032e-06,
+      "date": "2016-11-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.6404592323195,
+        2017.0198456836558
+      ],
+      "numdate": 2016.868772207502
+    },
+    "NODE_0000188": {
+      "branch_length": 0.00026510076846134945,
+      "clock_length": 0.00026510076846134945,
+      "date": "2015-06-22",
+      "mutation_length": 0.0004347,
+      "num_date_confidence": [
+        2014.8583319740615,
+        2015.5831970122736
+      ],
+      "numdate": 2015.472338186955
+    },
+    "NODE_0000189": {
+      "branch_length": 1.591345946347735e-05,
+      "clock_length": 1.591345946347735e-05,
+      "date": "2016-12-16",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.773128615626,
+        2017.03296058018
+      ],
+      "numdate": 2016.957080412146
+    },
+    "NODE_0000190": {
+      "branch_length": 4.6826040988797455e-06,
+      "clock_length": 4.6826040988797455e-06,
+      "date": "2016-12-25",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.8338142394289,
+        2017.069809765606
+      ],
+      "numdate": 2016.9830654823304
+    },
+    "NODE_0000191": {
+      "branch_length": 7.126103414928191e-06,
+      "clock_length": 7.126103414928191e-06,
+      "date": "2017-01-09",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.8959794953294,
+        2017.098784469084
+      ],
+      "numdate": 2017.0226102086122
+    },
+    "NODE_0000192": {
+      "branch_length": 5.866175609795139e-06,
+      "clock_length": 5.866175609795139e-06,
+      "date": "2017-01-21",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.9484746914693,
+        2017.1146610841645
+      ],
+      "numdate": 2017.0551632457075
+    },
+    "NODE_0000193": {
+      "branch_length": 3.8956816576647376e-06,
+      "clock_length": 3.8956816576647376e-06,
+      "date": "2017-01-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.9930281988454,
+        2017.1208750915916
+      ],
+      "numdate": 2017.0767814647907
+    },
+    "NODE_0000194": {
+      "branch_length": 4.660758828634449e-06,
+      "clock_length": 4.660758828634449e-06,
+      "date": "2017-02-07",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.02931859673,
+        2017.139166766853
+      ],
+      "numdate": 2017.1026453095053
+    },
+    "NODE_0000195": {
+      "branch_length": 3.3653660695656847e-06,
+      "clock_length": 3.3653660695656847e-06,
+      "date": "2017-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0633268302279,
+        2017.146293297676
+      ],
+      "numdate": 2017.1213206601578
+    },
+    "NODE_0000196": {
+      "branch_length": 3.7267036428503776e-06,
+      "clock_length": 3.7267036428503776e-06,
+      "date": "2017-02-21",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2017.0921852158544,
+        2017.1498499437632
+      ],
+      "numdate": 2017.1420011733233
+    },
+    "NODE_0000197": {
+      "branch_length": 0.0002548707939118223,
+      "clock_length": 0.0002548707939118223,
+      "date": "2014-03-10",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.4553974617015,
+        2015.4169601561694
+      ],
+      "numdate": 2014.1880025380678
+    },
+    "NODE_0000198": {
+      "branch_length": 6.720958780877641e-05,
+      "clock_length": 6.720958780877641e-05,
+      "date": "2014-07-24",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9064414140616,
+        2015.4102453695457
+      ],
+      "numdate": 2014.5609672003332
+    },
+    "NODE_0000199": {
+      "branch_length": 1.4337056451855243e-05,
+      "clock_length": 1.4337056451855243e-05,
+      "date": "2014-08-22",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0266533619254,
+        2015.5093113234216
+      ],
+      "numdate": 2014.6405275070063
+    },
+    "NODE_0000201": {
+      "branch_length": 2.5222337379869142e-05,
+      "clock_length": 2.5222337379869142e-05,
+      "date": "2014-09-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0989815953762,
+        2015.449010099453
+      ],
+      "numdate": 2014.700932952975
+    },
+    "NODE_0000202": {
+      "branch_length": 4.325060696191627e-05,
+      "clock_length": 4.325060696191627e-05,
+      "date": "2014-12-10",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.4771677852968,
+        2015.4393225462302
+      ],
+      "numdate": 2014.9409425787478
+    },
+    "NODE_0000203": {
+      "branch_length": 3.259419362636965e-05,
+      "clock_length": 3.259419362636965e-05,
+      "date": "2015-02-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.5549465057422,
+        2015.4611928853697
+      ],
+      "numdate": 2015.121816808363
+    },
+    "NODE_0000205": {
+      "branch_length": 7.140157149542056e-05,
+      "clock_length": 7.140157149542056e-05,
+      "date": "2015-07-09",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.0721043831174,
+        2016.0285860154336
+      ],
+      "numdate": 2015.5180439519331
+    },
+    "OC43/SLO/39776/2013": {
+      "branch_length": 3.9232668420480796e-05,
+      "clock_length": 3.9232668420480796e-05,
+      "date": "2013-12-09",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9383561643835,
+        2013.9383561643835
+      ],
+      "numdate": 2013.9383561643835,
+      "raw_date": "2013-12-09"
+    },
+    "OC43/SLO/39849/2013": {
+      "branch_length": 3.9377929372367854e-06,
+      "clock_length": 3.9377929372367854e-06,
+      "date": "2013-12-13",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2013.9493150684932,
+        2013.9493150684932
+      ],
+      "numdate": 2013.9493150684932,
+      "raw_date": "2013-12-13"
+    },
+    "OC43/SLO/40296/2014": {
+      "branch_length": 6.98307205860226e-06,
+      "clock_length": 6.98307205860226e-06,
+      "date": "2014-02-03",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0917808219178,
+        2014.0917808219178
+      ],
+      "numdate": 2014.0917808219178,
+      "raw_date": "2014-02-03"
+    },
+    "OC43/SLO/40760/2014": {
+      "branch_length": 1.6928611159369462e-05,
+      "clock_length": 1.6928611159369462e-05,
+      "date": "2014-01-18",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0479452054794,
+        2014.0479452054794
+      ],
+      "numdate": 2014.0479452054794,
+      "raw_date": "2014-01-18"
+    },
+    "OC43/SLO/41165/2014": {
+      "branch_length": 2.3126843763871538e-05,
+      "clock_length": 2.3126843763871538e-05,
+      "date": "2014-01-27",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2014.072602739726,
+        2014.072602739726
+      ],
+      "numdate": 2014.072602739726,
+      "raw_date": "2014-01-27"
+    },
+    "OC43/SLO/41313/2014": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2014-01-29",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0780821917808,
+        2014.0780821917808
+      ],
+      "numdate": 2014.0780821917808,
+      "raw_date": "2014-01-29"
+    },
+    "OC43/SLO/41459/2014": {
+      "branch_length": 3.203968361637421e-06,
+      "clock_length": 3.203968361637421e-06,
+      "date": "2014-02-03",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.0917808219178,
+        2014.0917808219178
+      ],
+      "numdate": 2014.0917808219178,
+      "raw_date": "2014-02-03"
+    },
+    "OC43/SLO/42347/2014": {
+      "branch_length": 1.0367880360934384e-05,
+      "clock_length": 1.0367880360934384e-05,
+      "date": "2014-02-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.1356164383562,
+        2014.1356164383562
+      ],
+      "numdate": 2014.1356164383562,
+      "raw_date": "2014-02-19"
+    },
+    "OC43/SLO/43431/2014": {
+      "branch_length": 5.726451605678586e-06,
+      "clock_length": 5.726451605678586e-06,
+      "date": "2014-03-12",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.1931506849314,
+        2014.1931506849314
+      ],
+      "numdate": 2014.1931506849314,
+      "raw_date": "2014-03-12"
+    },
+    "OC43/SLO/43970/2014": {
+      "branch_length": 4.170561933707637e-06,
+      "clock_length": 4.170561933707637e-06,
+      "date": "2014-03-27",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.2342465753425,
+        2014.2342465753425
+      ],
+      "numdate": 2014.2342465753425,
+      "raw_date": "2014-03-27"
+    },
+    "OC43/SLO/43979/2014": {
+      "branch_length": 2.406631007875748e-05,
+      "clock_length": 2.406631007875748e-05,
+      "date": "2014-03-26",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.231506849315,
+        2014.231506849315
+      ],
+      "numdate": 2014.231506849315,
+      "raw_date": "2014-03-26"
+    },
+    "OC43/SLO/44364/2014": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2014-04-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.2671232876712,
+        2014.2671232876712
+      ],
+      "numdate": 2014.2671232876712,
+      "raw_date": "2014-04-08"
+    },
+    "OC43/SLO/44656/2014": {
+      "branch_length": 8.012249850402253e-06,
+      "clock_length": 8.012249850402253e-06,
+      "date": "2014-04-22",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.305479452055,
+        2014.305479452055
+      ],
+      "numdate": 2014.305479452055,
+      "raw_date": "2014-04-22"
+    },
+    "OC43/SLO/45151/2014": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2014-05-17",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.3739726027397,
+        2014.3739726027397
+      ],
+      "numdate": 2014.3739726027397,
+      "raw_date": "2014-05-17"
+    },
+    "OC43/SLO/45283/2014": {
+      "branch_length": 2.9622515316898076e-06,
+      "clock_length": 2.9622515316898076e-06,
+      "date": "2014-05-23",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.390410958904,
+        2014.390410958904
+      ],
+      "numdate": 2014.390410958904,
+      "raw_date": "2014-05-23"
+    },
+    "OC43/SLO/46580/2014": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2014-08-14",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2014.6178082191782,
+        2014.6178082191782
+      ],
+      "numdate": 2014.6178082191782,
+      "raw_date": "2014-08-14"
+    },
+    "OC43/SLO/59988/2015": {
+      "branch_length": 1.1588567254959352e-05,
+      "clock_length": 1.1588567254959352e-05,
+      "date": "2015-11-16",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.8753424657534,
+        2015.8753424657534
+      ],
+      "numdate": 2015.8753424657534,
+      "raw_date": "2015-11-16"
+    },
+    "OC43/SLO/60116/2015": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-11-19",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.8835616438357,
+        2015.8835616438357
+      ],
+      "numdate": 2015.8835616438357,
+      "raw_date": "2015-11-19"
+    },
+    "OC43/SLO/60430/2015": {
+      "branch_length": 6.4182116519875e-06,
+      "clock_length": 6.4182116519875e-06,
+      "date": "2015-12-02",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.9191780821918,
+        2015.9191780821918
+      ],
+      "numdate": 2015.9191780821918,
+      "raw_date": "2015-12-02"
+    },
+    "OC43/SLO/60954/2015": {
+      "branch_length": 7.870892181370548e-06,
+      "clock_length": 7.870892181370548e-06,
+      "date": "2015-12-24",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2015.9794520547946,
+        2015.9794520547946
+      ],
+      "numdate": 2015.9794520547946,
+      "raw_date": "2015-12-24"
+    },
+    "OC43/SLO/61010/2015": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-12-28",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2015.990410958904,
+        2015.990410958904
+      ],
+      "numdate": 2015.990410958904,
+      "raw_date": "2015-12-28"
+    },
+    "OC43/SLO/61412/2016": {
+      "branch_length": 4.9283178374670295e-06,
+      "clock_length": 4.9283178374670295e-06,
+      "date": "2016-01-07",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.0177595628415,
+        2016.0177595628415
+      ],
+      "numdate": 2016.0177595628415,
+      "raw_date": "2016-01-07"
+    },
+    "OC43/SLO/61445/2016": {
+      "branch_length": 2.623630727123516e-06,
+      "clock_length": 2.623630727123516e-06,
+      "date": "2016-01-08",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2016.0204918032787,
+        2016.0204918032787
+      ],
+      "numdate": 2016.0204918032787,
+      "raw_date": "2016-01-08"
+    },
+    "OC43/SLO/61480/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-01-08",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.0204918032787,
+        2016.0204918032787
+      ],
+      "numdate": 2016.0204918032787,
+      "raw_date": "2016-01-08"
+    },
+    "OC43/SLO/61531/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-01-11",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.02868852459,
+        2016.02868852459
+      ],
+      "numdate": 2016.02868852459,
+      "raw_date": "2016-01-11"
+    },
+    "OC43/SLO/62066/2016": {
+      "branch_length": 4.4312369224373425e-06,
+      "clock_length": 4.4312369224373425e-06,
+      "date": "2016-01-20",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.0532786885246,
+        2016.0532786885246
+      ],
+      "numdate": 2016.0532786885246,
+      "raw_date": "2016-01-20"
+    },
+    "OC43/SLO/62519/2016": {
+      "branch_length": 1.394790286215477e-05,
+      "clock_length": 1.394790286215477e-05,
+      "date": "2016-01-31",
+      "mutation_length": 2.97e-06,
+      "num_date_confidence": [
+        2016.0833333333333,
+        2016.0833333333333
+      ],
+      "numdate": 2016.0833333333333,
+      "raw_date": "2016-01-31"
+    },
+    "OC43/SLO/62706/2016": {
+      "branch_length": 1.3293710767230279e-05,
+      "clock_length": 1.3293710767230279e-05,
+      "date": "2016-02-04",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.094262295082,
+        2016.094262295082
+      ],
+      "numdate": 2016.094262295082,
+      "raw_date": "2016-02-04"
+    },
+    "OC43/SLO/62794/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-02-05",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.0969945355191,
+        2016.0969945355191
+      ],
+      "numdate": 2016.0969945355191,
+      "raw_date": "2016-02-05"
+    },
+    "OC43/SLO/63863/2016": {
+      "branch_length": 7.3853948706742965e-06,
+      "clock_length": 7.3853948706742965e-06,
+      "date": "2016-02-20",
+      "mutation_length": 0.0,
+      "num_date_confidence": [
+        2016.1379781420765,
+        2016.1379781420765
+      ],
+      "numdate": 2016.1379781420765,
+      "raw_date": "2016-02-20"
+    },
+    "OC43_KLF_01_2018": {
+      "branch_length": 0.001788920947249907,
+      "clock_length": 0.001788920947249907,
+      "date": "2018-01-18",
+      "mutation_length": 0.00185858,
+      "num_date_confidence": [
+        2018.0479452054794,
+        2018.0479452054794
+      ],
+      "numdate": 2018.0479452054794,
+      "raw_date": "2018-01-18"
+    },
+    "OC43_KLF_02_2017": {
+      "branch_length": 0.00043796122586868015,
+      "clock_length": 0.00043796122586868015,
+      "date": "2017-11-27",
+      "mutation_length": 0.00020007,
+      "num_date_confidence": [
+        2017.9054794520548,
+        2017.9054794520548
+      ],
+      "numdate": 2017.9054794520548,
+      "raw_date": "2017-11-27"
+    }
+  }
+}

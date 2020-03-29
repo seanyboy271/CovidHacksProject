@@ -1,0 +1,646 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 27553,
+      "seqid": "config/nl63_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "12MYKL0280": {
+      "aa_muts": {}
+    },
+    "12MYKL0482": {
+      "aa_muts": {}
+    },
+    "12MYKL0719": {
+      "aa_muts": {}
+    },
+    "12MYKL0730": {
+      "aa_muts": {}
+    },
+    "12MYKL0736": {
+      "aa_muts": {}
+    },
+    "12MYKL0750": {
+      "aa_muts": {}
+    },
+    "12MYKL0779": {
+      "aa_muts": {}
+    },
+    "12MYKL0780": {
+      "aa_muts": {}
+    },
+    "12MYKL0802": {
+      "aa_muts": {}
+    },
+    "12MYKL0809": {
+      "aa_muts": {}
+    },
+    "12MYKL0813": {
+      "aa_muts": {}
+    },
+    "12MYKL0862": {
+      "aa_muts": {}
+    },
+    "12MYKL0863": {
+      "aa_muts": {}
+    },
+    "12MYKL0865": {
+      "aa_muts": {}
+    },
+    "12MYKL0880": {
+      "aa_muts": {}
+    },
+    "12MYKL0903": {
+      "aa_muts": {}
+    },
+    "12MYKL0943": {
+      "aa_muts": {}
+    },
+    "12MYKL0964": {
+      "aa_muts": {}
+    },
+    "12MYKL0967": {
+      "aa_muts": {}
+    },
+    "12MYKL1002": {
+      "aa_muts": {}
+    },
+    "12MYKL1007": {
+      "aa_muts": {}
+    },
+    "12MYKL1013": {
+      "aa_muts": {}
+    },
+    "12MYKL1055": {
+      "aa_muts": {}
+    },
+    "12MYKL1064": {
+      "aa_muts": {}
+    },
+    "12MYKL1079": {
+      "aa_muts": {}
+    },
+    "12MYKL1088": {
+      "aa_muts": {}
+    },
+    "12MYKL1089": {
+      "aa_muts": {}
+    },
+    "12MYKL1193": {
+      "aa_muts": {}
+    },
+    "12MYKL1195": {
+      "aa_muts": {}
+    },
+    "12MYKL1197": {
+      "aa_muts": {}
+    },
+    "12MYKL1229": {
+      "aa_muts": {}
+    },
+    "12MYKL1238": {
+      "aa_muts": {}
+    },
+    "12MYKL1253": {
+      "aa_muts": {}
+    },
+    "12MYKL1288": {
+      "aa_muts": {}
+    },
+    "12MYKL1336": {
+      "aa_muts": {}
+    },
+    "12MYKL1337": {
+      "aa_muts": {}
+    },
+    "12MYKL1350": {
+      "aa_muts": {}
+    },
+    "12MYKL1528": {
+      "aa_muts": {}
+    },
+    "13MYKL1791": {
+      "aa_muts": {}
+    },
+    "13MYKL1797": {
+      "aa_muts": {}
+    },
+    "13MYKL1870": {
+      "aa_muts": {}
+    },
+    "13MYKL2005": {
+      "aa_muts": {}
+    },
+    "BJ021": {
+      "aa_muts": {}
+    },
+    "BJ040": {
+      "aa_muts": {}
+    },
+    "BJ082": {
+      "aa_muts": {}
+    },
+    "Baghdad_2018": {
+      "aa_muts": {}
+    },
+    "CN0601/14": {
+      "aa_muts": {}
+    },
+    "ChinaGD02": {
+      "aa_muts": {}
+    },
+    "ChinaGD03": {
+      "aa_muts": {}
+    },
+    "ChinaGD04": {
+      "aa_muts": {}
+    },
+    "ChinaGD05": {
+      "aa_muts": {}
+    },
+    "ChinaGD06": {
+      "aa_muts": {}
+    },
+    "ChinaGD07": {
+      "aa_muts": {}
+    },
+    "ChinaGD08": {
+      "aa_muts": {}
+    },
+    "ChinaGD09": {
+      "aa_muts": {}
+    },
+    "ChinaGD10": {
+      "aa_muts": {}
+    },
+    "ChinaGD11": {
+      "aa_muts": {}
+    },
+    "ChinaGD12": {
+      "aa_muts": {}
+    },
+    "ChinaGD13": {
+      "aa_muts": {}
+    },
+    "ChinaGD14": {
+      "aa_muts": {}
+    },
+    "HCOV/KENYA/003/2009": {
+      "aa_muts": {}
+    },
+    "HCOV/KENYA/004/2012": {
+      "aa_muts": {}
+    },
+    "HCOV/KENYA/005/2009": {
+      "aa_muts": {}
+    },
+    "HCOV/KENYA/011/2009": {
+      "aa_muts": {}
+    },
+    "HCOV/KENYA/015/2009": {
+      "aa_muts": {}
+    },
+    "HCoVNL63/Tokyo/SGH_15/2017": {
+      "aa_muts": {}
+    },
+    "HCoVNL63/Tokyo/SGH_18/2018": {
+      "aa_muts": {}
+    },
+    "HCoVNL63/Tokyo/SGH_24/2018": {
+      "aa_muts": {}
+    },
+    "HCoV_NL63/Haiti_1/2015": {
+      "aa_muts": {}
+    },
+    "HCoV_NL63/Seattle/USA/SC0179/2018": {
+      "aa_muts": {}
+    },
+    "HCoV_NL63/Seattle/USA/SC0768/2019": {
+      "aa_muts": {}
+    },
+    "HCoV_NL63/Seattle/USA/SC2940/2015": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/012/15_Jun_2012": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/013/27_Jul_2012": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/014/21_Aug_2012": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/015/19_Nov_2012": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/016/08_Apr_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/017/12_Apr_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/018/03_May_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/019/04_May_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/020/25_May_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/021/26_May_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/022/17_Jun_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/023/18_Jun_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/024/09_Dec_2013": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/025/21_Jan_2014": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/026/24_Jan_2014": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/027/26_Jan_2014": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/028/21_Feb_2014": {
+      "aa_muts": {}
+    },
+    "Kilifi/IP/029/27_May_2014": {
+      "aa_muts": {}
+    },
+    "N06_1144B": {
+      "aa_muts": {}
+    },
+    "N07_185B": {
+      "aa_muts": {}
+    },
+    "N07_196B": {
+      "aa_muts": {}
+    },
+    "N07_262B": {
+      "aa_muts": {}
+    },
+    "N07_324B_182X": {
+      "aa_muts": {}
+    },
+    "N07_468B_176X": {
+      "aa_muts": {}
+    },
+    "N07_64B": {
+      "aa_muts": {}
+    },
+    "N07_6B": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2012/13": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2012/14": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2013/15": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2013/16": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2014/17": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2014/18": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2015/19": {
+      "aa_muts": {}
+    },
+    "NL63/FRA_EPI/Caen/2015/20": {
+      "aa_muts": {}
+    },
+    "NL63/Haiti_2/2015": {
+      "aa_muts": {}
+    },
+    "NL63/Haiti_3/2015": {
+      "aa_muts": {}
+    },
+    "NL63/Haiti_4/2015": {
+      "aa_muts": {}
+    },
+    "NL63/UF_1/2015": {
+      "aa_muts": {}
+    },
+    "NL63/UF_2/2015": {
+      "aa_muts": {}
+    },
+    "NL63_KLF_01_2018": {
+      "aa_muts": {}
+    },
+    "NL64": {
+      "aa_muts": {}
+    },
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {}
+    },
+    "NODE_0000003": {
+      "aa_muts": {}
+    },
+    "NODE_0000004": {
+      "aa_muts": {}
+    },
+    "NODE_0000005": {
+      "aa_muts": {}
+    },
+    "NODE_0000007": {
+      "aa_muts": {}
+    },
+    "NODE_0000008": {
+      "aa_muts": {}
+    },
+    "NODE_0000014": {
+      "aa_muts": {}
+    },
+    "NODE_0000015": {
+      "aa_muts": {}
+    },
+    "NODE_0000016": {
+      "aa_muts": {}
+    },
+    "NODE_0000017": {
+      "aa_muts": {}
+    },
+    "NODE_0000018": {
+      "aa_muts": {}
+    },
+    "NODE_0000021": {
+      "aa_muts": {}
+    },
+    "NODE_0000022": {
+      "aa_muts": {}
+    },
+    "NODE_0000023": {
+      "aa_muts": {}
+    },
+    "NODE_0000024": {
+      "aa_muts": {}
+    },
+    "NODE_0000025": {
+      "aa_muts": {}
+    },
+    "NODE_0000026": {
+      "aa_muts": {}
+    },
+    "NODE_0000027": {
+      "aa_muts": {}
+    },
+    "NODE_0000028": {
+      "aa_muts": {}
+    },
+    "NODE_0000029": {
+      "aa_muts": {}
+    },
+    "NODE_0000030": {
+      "aa_muts": {}
+    },
+    "NODE_0000031": {
+      "aa_muts": {}
+    },
+    "NODE_0000032": {
+      "aa_muts": {}
+    },
+    "NODE_0000033": {
+      "aa_muts": {}
+    },
+    "NODE_0000034": {
+      "aa_muts": {}
+    },
+    "NODE_0000035": {
+      "aa_muts": {}
+    },
+    "NODE_0000036": {
+      "aa_muts": {}
+    },
+    "NODE_0000037": {
+      "aa_muts": {}
+    },
+    "NODE_0000038": {
+      "aa_muts": {}
+    },
+    "NODE_0000039": {
+      "aa_muts": {}
+    },
+    "NODE_0000040": {
+      "aa_muts": {}
+    },
+    "NODE_0000041": {
+      "aa_muts": {}
+    },
+    "NODE_0000043": {
+      "aa_muts": {}
+    },
+    "NODE_0000044": {
+      "aa_muts": {}
+    },
+    "NODE_0000045": {
+      "aa_muts": {}
+    },
+    "NODE_0000046": {
+      "aa_muts": {}
+    },
+    "NODE_0000047": {
+      "aa_muts": {}
+    },
+    "NODE_0000048": {
+      "aa_muts": {}
+    },
+    "NODE_0000049": {
+      "aa_muts": {}
+    },
+    "NODE_0000053": {
+      "aa_muts": {}
+    },
+    "NODE_0000054": {
+      "aa_muts": {}
+    },
+    "NODE_0000055": {
+      "aa_muts": {}
+    },
+    "NODE_0000056": {
+      "aa_muts": {}
+    },
+    "NODE_0000057": {
+      "aa_muts": {}
+    },
+    "NODE_0000058": {
+      "aa_muts": {}
+    },
+    "NODE_0000059": {
+      "aa_muts": {}
+    },
+    "NODE_0000060": {
+      "aa_muts": {}
+    },
+    "NODE_0000061": {
+      "aa_muts": {}
+    },
+    "NODE_0000062": {
+      "aa_muts": {}
+    },
+    "NODE_0000063": {
+      "aa_muts": {}
+    },
+    "NODE_0000064": {
+      "aa_muts": {}
+    },
+    "NODE_0000065": {
+      "aa_muts": {}
+    },
+    "NODE_0000066": {
+      "aa_muts": {}
+    },
+    "NODE_0000067": {
+      "aa_muts": {}
+    },
+    "NODE_0000068": {
+      "aa_muts": {}
+    },
+    "NODE_0000069": {
+      "aa_muts": {}
+    },
+    "NODE_0000070": {
+      "aa_muts": {}
+    },
+    "NODE_0000071": {
+      "aa_muts": {}
+    },
+    "NODE_0000072": {
+      "aa_muts": {}
+    },
+    "NODE_0000073": {
+      "aa_muts": {}
+    },
+    "NODE_0000074": {
+      "aa_muts": {}
+    },
+    "NODE_0000075": {
+      "aa_muts": {}
+    },
+    "NODE_0000076": {
+      "aa_muts": {}
+    },
+    "NODE_0000077": {
+      "aa_muts": {}
+    },
+    "NODE_0000078": {
+      "aa_muts": {}
+    },
+    "NODE_0000079": {
+      "aa_muts": {}
+    },
+    "NODE_0000080": {
+      "aa_muts": {}
+    },
+    "NODE_0000081": {
+      "aa_muts": {}
+    },
+    "NODE_0000082": {
+      "aa_muts": {}
+    },
+    "NODE_0000083": {
+      "aa_muts": {}
+    },
+    "NODE_0000084": {
+      "aa_muts": {}
+    },
+    "NODE_0000086": {
+      "aa_muts": {}
+    },
+    "NODE_0000087": {
+      "aa_muts": {}
+    },
+    "NODE_0000088": {
+      "aa_muts": {}
+    },
+    "NODE_0000089": {
+      "aa_muts": {}
+    },
+    "NODE_0000090": {
+      "aa_muts": {}
+    },
+    "NODE_0000096": {
+      "aa_muts": {}
+    },
+    "NODE_0000097": {
+      "aa_muts": {}
+    },
+    "NODE_0000098": {
+      "aa_muts": {}
+    },
+    "NODE_0000099": {
+      "aa_muts": {}
+    },
+    "NODE_0000100": {
+      "aa_muts": {}
+    },
+    "NODE_0000101": {
+      "aa_muts": {}
+    },
+    "NODE_0000102": {
+      "aa_muts": {}
+    },
+    "NODE_0000103": {
+      "aa_muts": {}
+    },
+    "NODE_0000104": {
+      "aa_muts": {}
+    },
+    "NODE_0000105": {
+      "aa_muts": {}
+    },
+    "NODE_0000110": {
+      "aa_muts": {}
+    },
+    "NODE_0000111": {
+      "aa_muts": {}
+    },
+    "NODE_0000112": {
+      "aa_muts": {}
+    },
+    "NODE_0000115": {
+      "aa_muts": {}
+    },
+    "NODE_0000116": {
+      "aa_muts": {}
+    },
+    "NODE_0000117": {
+      "aa_muts": {}
+    },
+    "NODE_0000118": {
+      "aa_muts": {}
+    },
+    "NODE_0000119": {
+      "aa_muts": {}
+    },
+    "NODE_0000126": {
+      "aa_muts": {}
+    },
+    "SH_7": {
+      "aa_muts": {}
+    }
+  },
+  "reference": {}
+}

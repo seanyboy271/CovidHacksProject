@@ -1,0 +1,1113 @@
+{
+  "annotations": {
+    "2K": {
+      "end": 6897,
+      "seqid": "config/zika_reference.gb",
+      "start": 6829,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "CA": {
+      "end": 456,
+      "seqid": "config/zika_reference.gb",
+      "start": 91,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ENV": {
+      "end": 2472,
+      "seqid": "config/zika_reference.gb",
+      "start": 961,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "MP": {
+      "end": 960,
+      "seqid": "config/zika_reference.gb",
+      "start": 736,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS1": {
+      "end": 3528,
+      "seqid": "config/zika_reference.gb",
+      "start": 2473,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS2A": {
+      "end": 4206,
+      "seqid": "config/zika_reference.gb",
+      "start": 3529,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS2B": {
+      "end": 4596,
+      "seqid": "config/zika_reference.gb",
+      "start": 4207,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS3": {
+      "end": 6447,
+      "seqid": "config/zika_reference.gb",
+      "start": 4597,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS4A": {
+      "end": 6828,
+      "seqid": "config/zika_reference.gb",
+      "start": 6448,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS4B": {
+      "end": 7650,
+      "seqid": "config/zika_reference.gb",
+      "start": 6898,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "NS5": {
+      "end": 10359,
+      "seqid": "config/zika_reference.gb",
+      "start": 7651,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "PRO": {
+      "end": 735,
+      "seqid": "config/zika_reference.gb",
+      "start": 457,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 10769,
+      "seqid": "config/zika_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.4.3"
+  },
+  "nodes": {
+    "1_0087_PF": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "1_0181_PF": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "1_0199_PF": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Aedes_aegypti/USA/2016/FL05": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [
+          "A69V"
+        ],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "BRA/2016/FC_6706": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Brazil/2015/ZBRA105": {
+      "aa_muts": {
+        "2K": [
+          "M7I"
+        ],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Brazil/2015/ZBRC301": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Brazil/2015/ZBRC303": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [
+          "A106T"
+        ],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Brazil/2016/ZBRC16": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [
+          "S368G",
+          "I448V"
+        ],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "P247S",
+          "K560R"
+        ],
+        "PRO": []
+      }
+    },
+    "Colombia/2016/ZC204Se": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "N17K"
+        ]
+      }
+    },
+    "DOM/2016/BB_0059": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [
+          "Y498C"
+        ],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "DOM/2016/BB_0183": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "D208G"
+        ],
+        "NS2A": [
+          "L152M"
+        ],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "Q650R"
+        ],
+        "PRO": []
+      }
+    },
+    "DOM/2016/BB_0433": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [
+          "V126I"
+        ],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "DOM/2016/MA_WGS16_011": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "EcEs062_16": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "HND/2016/HU_ME59": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [
+          "D107E"
+        ],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "R324W"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "T833A"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "2K": "SPQDNQMAIIIMVAVGLLGLITA",
+        "CA": "MKNPKKKSGGFRIVNMLKRGVARVSPFGGLKRLPAGLLLGHGPIRMVLAILAFLRFTAIKPSLGLINRWGSVGKKEAMEIIKKFKKDLAAMLRIINARKEKKRRGADTSVGIVGLLLTTAMA",
+        "ENV": "IRCIGVSNRDFVEGMSGGTWVDVVLEHGGCVTVMAQDKPTVDIELVTTTVSNMAEVRSYCYEASISDMASDSRCPTQGEAYLDKQSDTQYVCKRTLVDRGWGNGCGLFGKGSLVTCAKFACSKKMTGKSIQPENLEYRIMLSVHGSQHSGMIVNDTGHETDENRAKVEITPNSPRAEATLGGFGSLGLDCEPRTGLDFSDLYYLTMNNKHWLVHKEWFHDIPLPWHAGADTGTPHWNNKEALVEFKDAHAKRQTVVVLGSQEGAVHTALAGALEAEMDGAKGRLSSGHLKCRLKMDKLRLKGVSYSLCTAAFTFTKIPAETLHGTVTVEVQYAGTDGPCKVPAQMAVDMQTLTPVGRLITANPVITESTENSKMMLELDPPFGDSYIVIGVGEKKITHHWHRSGSTIGKAFEATVRGAKRMAVLGDTAWDFGSVGGALNSLGKGIHQIFGAAFKSLFGGMSWFSQILIGTLLMWLGLNTKNGSISLMCLALGGVLIFLSTAVSA",
+        "MP": "AVTLPSHSTRKLQTRSQTWLESREYTKHLIRVENWIFRNPGFALAAAAIAWLLGSSTSQKVIYLVMILLIAPAYS",
+        "NS1": "DVGCSVDFSKKETRCGTGVFVYNDVEAWRDRYKYHPDSPRRLAAAVKQAWEDGICGISSVSRMENIMWRSVEGELNAILEENGVQLTVVVGSVKNPMWRGPQRLPVPVNELPHGWKAWGKSYFVRAAKTNNSFVVDGDTLKECPLKHRAWNSFLVEDHGFGVFHTSVWLKVREDYSLECDPAVIGTAVKGKEAVHSDLGYWIESEKNDTWRLKRAHLIEMKTCEWPKSHTLWTDGIEESDLIIPKSLAGPLSHHNTREGYRTQMKGPWHSEELEIRFEECPGTKVHVEETCGTRGPSLRSTTASGRVIEEWCCRECTMPPLSFRAKDGCWYGMEIRPRKEPESNLVRSMVTA",
+        "NS2A": "GSTDHMDHFSLGVLVILLMVQEGLKKRMTTKIIISTSMAVLVAMILGGFSMSDLAKLAILMGATFAEMNTGGDVAHLALIAAFKVRPALLVSFIFRANWTPRESMLLALASCLLQTAISALEGDLMVLINGFALAWLAIRAMVVPRTDNITLAILAALTPLARGTLLVAWRAGLATCGGFMLLSLKGKGSVKKNLPFVMALGLTAVRLVDPINVVGLLLLTRSGKR",
+        "NS2B": "SWPPSEVLTAVGLICALAGGFAKADIEMAGPMAAVGLLIVSYVVSGKSVDMYIERAGDITWEKDAEVTGNSPRLDVALDESGDFSLVEDDGPPMREIILKVVLMTICGMNPIAIPFAAGAWYVYVKTGKR",
+        "NS3": "SGALWDVPAPKEVKKGETTDGVYRVMTRRLLGSTQVGVGVMQEGVFHTMWHVTKGSALRSGEGRLDPYWGDVKQDLVSYCGPWKLDAAWDGHSEVQLLAVPPGERARNIQTLPGIFKTKDGDIGAVALDYPAGTSGSPILDKCGRVIGLYGNGVVIKNGSYVSAITQGRREEETPVECFEPSMLKKKQLTVLDLHPGAGKTRRVLPEIVREAIKTRLRTVILAPTRVVAAEMEEALRGLPVRYMTTAVNVTHSGTEIVDLMCHATFTSRLLQPIRVPNYNLYIMDEAHFTDPSSIAARGYISTRVEMGEAAAIFMTATPPGTRDAFPDSNSPIMDTEVEVPERAWSSGFDWVTDHSGKTVWFVPSVRNGNEIAACLTKAGKRVIQLSRKTFETEFQKTKHQEWDFVVTTDISEMGANFKADRVIDSRRCLKPVILDGERVILAGPMPVTHASAAQRRGRIGRNPNKPGDEYLYGGGCAETDEDHAHWLEARMLLDNIYLQDGLIASLYRPEADKVAAIEGEFKLRTEQRKTFVELMKRGDLPVWLAYQVASAGITYTDRRWCFDGTTNNTIMEDSVPAEVWTRHGEKRVLKPRWMDARVCSDHAALKSFKEFAAGKR",
+        "NS4A": "GAAFGVMEALGTLPGHMTERFQEAIDNLAVLMRAETGSRPYKAAAAQLPETLETIMLLGLLGTVSLGIFFVLMRNKGIGKMGFGMVTLGASAWLMWLSEIEPARIACVLIVVFLLLVVLIPEPEKQR",
+        "NS4B": "NELGWLERTKSDLSHLMGRREEGATIGFSMDIDLRPASAWAIYAALTTFITPAVQHAVTTSYNNYSLMAMATQAGVLFGMGKGMPFYAWDFGVPLLMIGCYSQLTPLTLIVAIILLVAHYMYLIPGLQAAAARAAQKRTAAGIMKNPVVDGIVVTDIDTMTIDPQVEKKMGQVLLIAVAVSSAILSRTAWGWGEAGALITAATSTLWEGSPNKYWNSSTATSLCNIFRGSYLAGASLIYTVTRNAGLVKRR",
+        "NS5": "GGGTGETLGEKWKARLNQMSALEFYSYKKSGITEVCREEARRALKDGVATGGHAVSRGSAKLRWLVERGYLQPYGKVIDLGCGRGGWSYYAATIRKVQEVKGYTKGGPGHEEPMLVQSYGWNIVRLKSGVDVFHMAAEPCDTLLCDIGESSSSPEVEEARTLRVLSMVGDWLEKRPGAFCIKVLCPYTSTMMETLERLQRRYGGGLVRVPLSRNSTHEMYWVSGAKSNTIKSVSTTSQLLLGRMDGPRRPVKYEEDVNLGSGTRAVVSCAEAPNMKIIGNRIERIRSEHAETWFFDENHPYRTWAYHGSYEAPTQGSASSLINGVVRLLSKPWDVVTGVTGIAMTDTTPYGQQRVFKEKVDTRVPDPQEGTRQVMSMVSSWLWKELGKHKRPRVCTKEEFINKVRSNAALGAIFEEEKEWKTAVEAVNDPRFWALVDKEREHHLRGECQSCVYNMMGKREKKQGEFGKAKGSRAIWYMWLGARFLEFEALGFLNEDHWMGRENSGGGVEGLGLQRLGYVLEEMSRIPGGRMYADDTAGWDTRISRFDLENEALITNQMEKGHRALALAIIKYTYQNKVVKVLRPAEKGKTVMDIISRQDQRGSGQVVTYALNTFTNLVVQLIRNMEAEEVLEMQDLWLLRRSEKVTNWLQSNGWDRLKRMAVSGDDCVVKPIDDRFAHALRFLNDMGKVRKDTQEWKPSTGWDNWEEVPFCSHHFNKLHLKDGRSIVVPCRHQDELIGRARVSPGAGWSIRETACLAKSYAQMWQLLYFHRRDLRLMANAICSSVPVDWVPTGRTTWSIHGKGEWMTTEDMLVVWNRVWIEENDHMEDKTPVTKWTDIPYLGKREDLWCGSLIGHRPRTTWAENIKNTVNMVRRIIGDEEKYMDYLSTQVRYLGEEGSTPGVL",
+        "PRO": "AEVTRRGSAYYMYLDRNDAGEAISFPTTLGMNKCYIQIMDLGHMCDATMSYECPMLDEGVEPDDVDCWCNTTSTWVVYGTCHHKKGEARRSRR"
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "M114V"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [
+          "S109N"
+        ],
+        "ENV": [
+          "K419R"
+        ],
+        "MP": [],
+        "NS1": [
+          "R324Q"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "N624S",
+          "K670R"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [
+          "H584Y"
+        ],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "N17S"
+        ]
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "V194A"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "T74A"
+        ]
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "G100A"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [
+          "M572L"
+        ],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "R525C"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "M349V"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "I322V",
+          "D878E"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "T808I"
+        ],
+        "PRO": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Nica1_16": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [
+          "S5G"
+        ],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [
+          "I176L"
+        ],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "PAN/CDC_259359_V1_V3/2015": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [
+          "M32I"
+        ],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "PRVABC59": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [
+          "I80T"
+        ],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "A91V"
+        ],
+        "PRO": []
+      }
+    },
+    "SG_018": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "G79V"
+        ]
+      }
+    },
+    "SG_027": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "SG_056": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "A74T"
+        ]
+      }
+    },
+    "SG_074": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "SMGC_1": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "Thailand/1610acTw": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "K206R"
+        ],
+        "NS2A": [
+          "I80V"
+        ],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [
+          "A112T"
+        ],
+        "NS5": [
+          "N402K",
+          "N556H"
+        ],
+        "PRO": []
+      }
+    },
+    "USA/2016/FL022": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [
+          "S506P"
+        ],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": [
+          "R89Q"
+        ]
+      }
+    },
+    "USA/2016/FLUR022": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "P112S"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "USA/2016/FLWB042": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    },
+    "V8375": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [
+          "V56I"
+        ],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "K174R"
+        ],
+        "PRO": []
+      }
+    },
+    "VEN/UF_1/2016": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [
+          "E76D"
+        ],
+        "ENV": [],
+        "MP": [],
+        "NS1": [
+          "T301P"
+        ],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [
+          "A833T"
+        ],
+        "PRO": []
+      }
+    },
+    "ZKC2/2016": {
+      "aa_muts": {
+        "2K": [],
+        "CA": [],
+        "ENV": [],
+        "MP": [],
+        "NS1": [],
+        "NS2A": [],
+        "NS2B": [],
+        "NS3": [],
+        "NS4A": [],
+        "NS4B": [],
+        "NS5": [],
+        "PRO": []
+      }
+    }
+  },
+  "reference": {
+    "2K": "SPQDNQMAIIIMVAVGLLGLITA",
+    "CA": "MKNPKKKSGGFRIVNMLKRGVARVSPFGGLKRLPAGLLLGHGPIRMVLAILAFLRFTAIKPSLGLINRWGSVGKKEAMEIIKKFKKDLAAMLRIINARKEKKRRGADTSVGIVGLLLTTAMA",
+    "ENV": "IRCIGVSNRDFVEGMSGGTWVDVVLEHGGCVTVMAQDKPTVDIELVTTTVSNMAEVRSYCYEASISDMASDSRCPTQGEAYLDKQSDTQYVCKRTLVDRGWGNGCGLFGKGSLVTCAKFACSKKMTGKSIQPENLEYRIMLSVHGSQHSGMIVNDTGHETDENRAKVEITPNSPRAEATLGGFGSLGLDCEPRTGLDFSDLYYLTMNNKHWLVHKEWFHDIPLPWHAGADTGTPHWNNKEALVEFKDAHAKRQTVVVLGSQEGAVHTALAGALEAEMDGAKGRLSSGHLKCRLKMDKLRLKGVSYSLCTAAFTFTKIPAETLHGTVTVEVQYAGTDGPCKVPAQMAVDMQTLTPVGRLITANPVITESTENSKMMLELDPPFGDSYIVIGVGEKKITHHWHRSGSTIGKAFEATVRGAKRMAVLGDTAWDFGSVGGALNSLGKGIHQIFGAAFKSLFGGMSWFSQILIGTLLMWLGLNTKNGSISLMCLALGGVLIFLSTAVSA",
+    "MP": "AVTLPSHSTRKLQTRSQTWLESREYTKHLIRVENWIFRNPGFALAAAAIAWLLGSSTSQKVIYLVMILLIAPAYS",
+    "NS1": "DVGCSVDFSKKETRCGTGVFVYNDVEAWRDRYKYHPDSPRRLAAAVKQAWEDGICGISSVSRMENIMWRSVEGELNAILEENGVQLTVVVGSVKNPMWRGPQRLPVPVNELPHGWKAWGKSYFVRAAKTNNSFVVDGDTLKECPLKHRAWNSFLVEDHGFGVFHTSVWLKVREDYSLECDPAVIGTAVKGKEAVHSDLGYWIESEKNDTWRLKRAHLIEMKTCEWPKSHTLWTDGIEESDLIIPKSLAGPLSHHNTREGYRTQMKGPWHSEELEIRFEECPGTKVHVEETCGTRGPSLRSTTASGRVIEEWCCRECTMPPLSFRAKDGCWYGMEIRPRKEPESNLVRSMVTA",
+    "NS2A": "GSTDHMDHFSLGVLVILLMVQEGLKKRMTTKIIISTSMAVLVAMILGGFSMSDLAKLAILMGATFAEMNTGGDVAHLALIAAFKVRPALLVSFIFRANWTPRESMLLALASCLLQTAISALEGDLMVLINGFALAWLAIRAMVVPRTDNITLAILAALTPLARGTLLVAWRAGLATCGGFMLLSLKGKGSVKKNLPFVMALGLTAVRLVDPINVVGLLLLTRSGKR",
+    "NS2B": "SWPPSEVLTAVGLICALAGGFAKADIEMAGPMAAVGLLIVSYVVSGKSVDMYIERAGDITWEKDAEVTGNSPRLDVALDESGDFSLVEDDGPPMREIILKVVLMTICGMNPIAIPFAAGAWYVYVKTGKR",
+    "NS3": "SGALWDVPAPKEVKKGETTDGVYRVMTRRLLGSTQVGVGVMQEGVFHTMWHVTKGSALRSGEGRLDPYWGDVKQDLVSYCGPWKLDAAWDGHSEVQLLAVPPGERARNIQTLPGIFKTKDGDIGAVALDYPAGTSGSPILDKCGRVIGLYGNGVVIKNGSYVSAITQGRREEETPVECFEPSMLKKKQLTVLDLHPGAGKTRRVLPEIVREAIKTRLRTVILAPTRVVAAEMEEALRGLPVRYMTTAVNVTHSGTEIVDLMCHATFTSRLLQPIRVPNYNLYIMDEAHFTDPSSIAARGYISTRVEMGEAAAIFMTATPPGTRDAFPDSNSPIMDTEVEVPERAWSSGFDWVTDHSGKTVWFVPSVRNGNEIAACLTKAGKRVIQLSRKTFETEFQKTKHQEWDFVVTTDISEMGANFKADRVIDSRRCLKPVILDGERVILAGPMPVTHASAAQRRGRIGRNPNKPGDEYLYGGGCAETDEDHAHWLEARMLLDNIYLQDGLIASLYRPEADKVAAIEGEFKLRTEQRKTFVELMKRGDLPVWLAYQVASAGITYTDRRWCFDGTTNNTIMEDSVPAEVWTRHGEKRVLKPRWMDARVCSDHAALKSFKEFAAGKR",
+    "NS4A": "GAAFGVMEALGTLPGHMTERFQEAIDNLAVLMRAETGSRPYKAAAAQLPETLETIMLLGLLGTVSLGIFFVLMRNKGIGKMGFGMVTLGASAWLMWLSEIEPARIACVLIVVFLLLVVLIPEPEKQR",
+    "NS4B": "NELGWLERTKSDLSHLMGRREEGATIGFSMDIDLRPASAWAIYAALTTFITPAVQHAVTTSYNNYSLMAMATQAGVLFGMGKGMPFYAWDFGVPLLMIGCYSQLTPLTLIVAIILLVAHYMYLIPGLQAAAARAAQKRTAAGIMKNPVVDGIVVTDIDTMTIDPQVEKKMGQVLLIAVAVSSAILSRTAWGWGEAGALITAATSTLWEGSPNKYWNSSTATSLCNIFRGSYLAGASLIYTVTRNAGLVKRR",
+    "NS5": "GGGTGETLGEKWKARLNQMSALEFYSYKKSGITEVCREEARRALKDGVATGGHAVSRGSAKLRWLVERGYLQPYGKVIDLGCGRGGWSYYAATIRKVQEVKGYTKGGPGHEEPMLVQSYGWNIVRLKSGVDVFHMAAEPCDTLLCDIGESSSSPEVEEARTLRVLSMVGDWLEKRPGAFCIKVLCPYTSTMMETLERLQRRYGGGLVRVPLSRNSTHEMYWVSGAKSNTIKSVSTTSQLLLGRMDGPRRPVKYEEDVNLGSGTRAVVSCAEAPNMKIIGNRIERIRSEHAETWFFDENHPYRTWAYHGSYEAPTQGSASSLINGVVRLLSKPWDVVTGVTGIAMTDTTPYGQQRVFKEKVDTRVPDPQEGTRQVMSMVSSWLWKELGKHKRPRVCTKEEFINKVRSNAALGAIFEEEKEWKTAVEAVNDPRFWALVDKEREHHLRGECQSCVYNMMGKREKKQGEFGKAKGSRAIWYMWLGARFLEFEALGFLNEDHWMGRENSGGGVEGLGLQRLGYVLEEMSRIPGGRMYADDTAGWDTRISRFDLENEALITNQMEKGHRALALAIIKYTYQNKVVKVLRPAEKGKTVMDIISRQDQRGSGQVVTYALNTFTNLVVQLIRNMEAEEVLEMQDLWLLRRSEKVTNWLQSNGWDRLKRMAVSGDDCVVKPIDDRFAHALRFLNDMGKVRKDTQEWKPSTGWDNWEEVPFCSHHFNKLHLKDGRSIVVPCRHQDELIGRARVSPGAGWSIRETACLAKSYAQMWQLLYFHRRDLRLMANAICSSVPVDWVPTGRTTWSIHGKGEWMTTEDMLVVWNRVWIEENDHMEDKTPVTKWTDIPYLGKREDLWCGSLIGHRPRTTWAENIKNTVNMVRRIIGDEEKYMDYLSTQVRYLGEEGSTPGVL",
+    "PRO": "AEVTRRGSAYYMYLDRNDAGEAISFPTTLGMNKCYIQIMDLGHMCDATMSYECPMLDEGVEPDDVDCWCNTTSTWVVYGTCHHKKGEARRSRR"
+  }
+}
