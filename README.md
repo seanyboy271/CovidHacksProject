@@ -6,13 +6,13 @@ Web is where the web app's source code lives. Theres not much to do with this un
 Important Data Processing Files: 
 -
 - CovidHacksProject/API/Pre-processing/relevant-data/needMeta/MakeMeta.py 
-    - Responsible for creating <virus>_meta.tsv files that will be loaded into augur
+    - Responsible for creating \<virus>\_meta.tsv files that will be loaded into augur
 - CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py
     - Responsible for reformatting the fasta files
 - CovidHacksProject/API/Pre-processing/VirusDataNew/runAugur.py
     - Automatically runs augur commands for each virus
 - CovidHacksProject/API/Pre-processing/VirusDataNew/ParseVirusData.py 
-    - Creates final <virus>.json files based on Augur results
+    - Creates final \<virus>\.json files based on Augur results
     
 Process to get final .json:
 - 
