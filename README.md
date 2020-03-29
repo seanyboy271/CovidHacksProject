@@ -23,10 +23,10 @@ In terminal 2:
     - NOTE: You will need to have node.js installed for this to work\
     
 Important Files: \ 
-- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/MakeMeta.py \
-- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py \
-- CovidHacksProject/API/Pre-processing/VirusDataNew/runAugur.py \
-- CovidHacksProject/API/Pre-processing/VirusDataNew/ParseVirusData.py \ 
+- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/MakeMeta.py 
+- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py 
+- CovidHacksProject/API/Pre-processing/VirusDataNew/runAugur.py 
+- CovidHacksProject/API/Pre-processing/VirusDataNew/ParseVirusData.py \
 
 
  
