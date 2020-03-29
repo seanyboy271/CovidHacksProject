@@ -24,9 +24,13 @@ In terminal 2:
     
 Important Files: \ 
 - CovidHacksProject/API/Pre-processing/relevant-data/needMeta/MakeMeta.py 
-- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py 
-- CovidHacksProject/API/Pre-processing/VirusDataNew/runAugur.py 
-- CovidHacksProject/API/Pre-processing/VirusDataNew/ParseVirusData.py \
+    - Resposible for creating <virus>_meta.tsv files taht will be into augur
+- CovidHacksProject/API/Pre-processing/relevant-data/needMeta/makeNewFasta.py
+    - Responsible for reformatting teh fasta files
+- CovidHacksProject/API/Pre-processing/VirusDataNew/runAugur.py
+    - Automatically runs augur commands for each virus
+- CovidHacksProject/API/Pre-processing/VirusDataNew/ParseVirusData.py 
+    - Creates final <virus>.json files based on Augur results
 
 
  
